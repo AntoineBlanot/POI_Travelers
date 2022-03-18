@@ -30,9 +30,14 @@
     
 
 
-    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has -->
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#hasTravelled -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#hasTravelled">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:ObjectProperty>
     
 
 
@@ -270,7 +275,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler">
         <owl:equivalentClass>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#hasTravelled"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
             </owl:Restriction>
         </owl:equivalentClass>
@@ -331,6 +336,163 @@
             </owl:Restriction>
         </owl:equivalentClass>
     </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Alice -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Alice">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <hasTravelled rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Lyon1"/>
+        <hasTravelled rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris1"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alice</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Bruno -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Bruno">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</age>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</nationality>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#John -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#John">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">John</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Lyon1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Lyon1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Marie -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Marie">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marie</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Marseille1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Marseille1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paul -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paul">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belgian</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Sylvie -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Sylvie">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">36</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sylvie</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Thomas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Thomas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belgian</nationality>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Toulouse1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Toulouse1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Toulouse2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Toulouse2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Tristan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Tristan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32</age>
+        <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tristan</name>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
+    </owl:NamedIndividual>
     
 
 
