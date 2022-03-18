@@ -515,7 +515,14 @@
 
 
 
-    <!-- TGVStations Populate -->
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // TGVStation population
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
 
     <TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV100">
       <departement>Nord</departement>
