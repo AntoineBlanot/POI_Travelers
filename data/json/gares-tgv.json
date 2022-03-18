@@ -4,7 +4,7 @@
     "@vocab": "http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#",
     "@base": "http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#",
     "Type": "@type",
-    "string(ID)" : "@id",
+    "ID" : "@id",
     "Latitude" : "latitude", 
     "Longitude" : "longitude",
     "Nom_Gare": "name", 
@@ -15,7 +15,7 @@
   },
   "@graph": [
  {
-   "ID": "TGV_1",
+   "ID": "TGV1",
    "Nom_Gare": "Aix-en-Provence TGV",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -26,7 +26,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_2",
+   "ID": "TGV2",
    "Nom_Gare": "Bellegarde",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -37,7 +37,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_3",
+   "ID": "TGV3",
    "Nom_Gare": "Bourg-en-Bresse",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -48,7 +48,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_4",
+   "ID": "TGV4",
    "Nom_Gare": "Cluses",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -59,7 +59,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_5",
+   "ID": "TGV5",
    "Nom_Gare": "Nurieux",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -70,7 +70,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_6",
+   "ID": "TGV6",
    "Nom_Gare": "Antibes",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -81,7 +81,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_7",
+   "ID": "TGV7",
    "Nom_Gare": "Cannes",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -92,7 +92,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_8",
+   "ID": "TGV8",
    "Nom_Gare": "Menton",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -103,7 +103,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_9",
+   "ID": "TGV9",
    "Nom_Gare": "Nice-Ville",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -114,7 +114,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_10",
+   "ID": "TGV10",
    "Nom_Gare": "Charleville-M�zi�res",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -125,7 +125,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_11",
+   "ID": "TGV11",
    "Nom_Gare": "Rethel",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -136,7 +136,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_12",
+   "ID": "TGV12",
    "Nom_Gare": "Sedan",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -147,7 +147,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_13",
+   "ID": "TGV13",
    "Nom_Gare": "Dijon-Ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -158,7 +158,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_14",
+   "ID": "TGV14",
    "Nom_Gare": "Carcassonne",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -169,7 +169,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_15",
+   "ID": "TGV15",
    "Nom_Gare": "Narbonne",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -180,7 +180,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_16",
+   "ID": "TGV16",
    "Nom_Gare": "Arles",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -191,7 +191,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_17",
+   "ID": "TGV17",
    "Nom_Gare": "Avignon TGV",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -202,7 +202,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_18",
+   "ID": "TGV18",
    "Nom_Gare": "Marseille-Saint-Charles",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -213,7 +213,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_19",
+   "ID": "TGV19",
    "Nom_Gare": "Miramas",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -224,7 +224,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_20",
+   "ID": "TGV20",
    "Nom_Gare": "Angoul�me",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -235,7 +235,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_21",
+   "ID": "TGV21",
    "Nom_Gare": "Champagne-Ardenne TGV",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -246,7 +246,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_22",
+   "ID": "TGV22",
    "Nom_Gare": "La Rochelle-Ville",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -257,7 +257,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_23",
+   "ID": "TGV23",
    "Nom_Gare": "Rouen-Rive-Droite",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -268,7 +268,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_24",
+   "ID": "TGV24",
    "Nom_Gare": "Surg�res",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -279,7 +279,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_25",
+   "ID": "TGV25",
    "Nom_Gare": "Beaune",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -290,7 +290,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_26",
+   "ID": "TGV26",
    "Nom_Gare": "Montbard",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -301,7 +301,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_27",
+   "ID": "TGV27",
    "Nom_Gare": "Guingamp",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -312,7 +312,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_28",
+   "ID": "TGV28",
    "Nom_Gare": "Lamballe",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -323,7 +323,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_29",
+   "ID": "TGV29",
    "Nom_Gare": "Lannion",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -334,7 +334,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_30",
+   "ID": "TGV30",
    "Nom_Gare": "M�con-Ville",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -345,7 +345,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_31",
+   "ID": "TGV31",
    "Nom_Gare": "Saint-Brieuc",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -356,7 +356,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_32",
+   "ID": "TGV32",
    "Nom_Gare": "Besan�on-Viotte",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -367,7 +367,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_33",
+   "ID": "TGV33",
    "Nom_Gare": "Frasne",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -378,7 +378,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_34",
+   "ID": "TGV34",
    "Nom_Gare": "Mont�limar",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -389,7 +389,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_35",
+   "ID": "TGV35",
    "Nom_Gare": "Valence TGV",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -400,7 +400,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_36",
+   "ID": "TGV36",
    "Nom_Gare": "Valence-Ville",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -411,7 +411,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_37",
+   "ID": "TGV37",
    "Nom_Gare": "Brest",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -422,7 +422,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_38",
+   "ID": "TGV38",
    "Nom_Gare": "Landerneau",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -433,7 +433,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_39",
+   "ID": "TGV39",
    "Nom_Gare": "Quimper",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -444,7 +444,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_40",
+   "ID": "TGV40",
    "Nom_Gare": "Quimperl�",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -455,7 +455,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_41",
+   "ID": "TGV41",
    "Nom_Gare": "Rosporden",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -466,7 +466,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_42",
+   "ID": "TGV42",
    "Nom_Gare": "Morlaix",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -477,7 +477,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_43",
+   "ID": "TGV43",
    "Nom_Gare": "N�mes",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -488,7 +488,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_44",
+   "ID": "TGV44",
    "Nom_Gare": "N�mes-Pont-du-Gard",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -499,7 +499,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_45",
+   "ID": "TGV45",
    "Nom_Gare": "Meuse TGV",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -510,7 +510,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_46",
+   "ID": "TGV46",
    "Nom_Gare": "Toulouse-Matabiau",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -521,7 +521,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_47",
+   "ID": "TGV47",
    "Nom_Gare": "Arcachon",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -532,7 +532,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_48",
+   "ID": "TGV48",
    "Nom_Gare": "Bordeaux-Saint-Jean",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -543,7 +543,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_49",
+   "ID": "TGV49",
    "Nom_Gare": "Facture-Biganos",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -554,7 +554,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_50",
+   "ID": "TGV50",
    "Nom_Gare": "Libourne",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -565,7 +565,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_51",
+   "ID": "TGV51",
    "Nom_Gare": "La Teste",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -576,7 +576,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_52",
+   "ID": "TGV52",
    "Nom_Gare": "Agde",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -587,7 +587,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_53",
+   "ID": "TGV53",
    "Nom_Gare": "B�ziers",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -598,7 +598,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_54",
+   "ID": "TGV54",
    "Nom_Gare": "Montpellier-Saint-Roch",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -609,7 +609,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_55",
+   "ID": "TGV55",
    "Nom_Gare": "Montpellier-Sud-de-France",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -620,7 +620,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_56",
+   "ID": "TGV56",
    "Nom_Gare": "S�te",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -631,7 +631,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_57",
+   "ID": "TGV57",
    "Nom_Gare": "TGV Haute-Picardie",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -642,7 +642,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_58",
+   "ID": "TGV58",
    "Nom_Gare": "Dol-de-Bretagne",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -653,7 +653,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_59",
+   "ID": "TGV59",
    "Nom_Gare": "Plouaret-Tr�gor",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -664,7 +664,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_60",
+   "ID": "TGV60",
    "Nom_Gare": "Redon",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -675,7 +675,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_61",
+   "ID": "TGV61",
    "Nom_Gare": "Rennes",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -686,7 +686,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_62",
+   "ID": "TGV62",
    "Nom_Gare": "Saint-Malo",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -697,7 +697,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_63",
+   "ID": "TGV63",
    "Nom_Gare": "Vitr�",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -708,7 +708,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_64",
+   "ID": "TGV64",
    "Nom_Gare": "Lorraine TGV",
    "INSEE_REG": "24",
    "NOM_REG": "Centre-Val de Loire",
@@ -719,7 +719,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_65",
+   "ID": "TGV65",
    "Nom_Gare": "Saint-Pierre-des-Corps",
    "INSEE_REG": "24",
    "NOM_REG": "Centre-Val de Loire",
@@ -730,7 +730,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_66",
+   "ID": "TGV66",
    "Nom_Gare": "Tours",
    "INSEE_REG": "24",
    "NOM_REG": "Centre-Val de Loire",
@@ -741,7 +741,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_67",
+   "ID": "TGV67",
    "Nom_Gare": "Grenoble",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -752,7 +752,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_68",
+   "ID": "TGV68",
    "Nom_Gare": "Mouchard",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -763,7 +763,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_69",
+   "ID": "TGV69",
    "Nom_Gare": "Dax",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -774,7 +774,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_70",
+   "ID": "TGV70",
    "Nom_Gare": "Vend�me - Villiers-sur-Loir",
    "INSEE_REG": "24",
    "NOM_REG": "Centre-Val de Loire",
@@ -785,7 +785,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_71",
+   "ID": "TGV71",
    "Nom_Gare": "Montauban-Ville-Bourbon",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -796,7 +796,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_72",
+   "ID": "TGV72",
    "Nom_Gare": "Saint-�tienne-Ch�teaucreux",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -807,7 +807,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_73",
+   "ID": "TGV73",
    "Nom_Gare": "Ancenis",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -818,7 +818,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_74",
+   "ID": "TGV74",
    "Nom_Gare": "La Baule-Escoublac",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -829,7 +829,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_75",
+   "ID": "TGV75",
    "Nom_Gare": "Le Croisic",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -840,7 +840,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_76",
+   "ID": "TGV76",
    "Nom_Gare": "Nantes",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -851,7 +851,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_77",
+   "ID": "TGV77",
    "Nom_Gare": "Pornichet",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -862,7 +862,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_78",
+   "ID": "TGV78",
    "Nom_Gare": "Le Pouliguen",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -873,7 +873,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_79",
+   "ID": "TGV79",
    "Nom_Gare": "Saint-Nazaire",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -884,7 +884,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_80",
+   "ID": "TGV80",
    "Nom_Gare": "Agen",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -895,7 +895,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_81",
+   "ID": "TGV81",
    "Nom_Gare": "Angers-Saint-Laud",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -906,7 +906,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_82",
+   "ID": "TGV82",
    "Nom_Gare": "Saumur",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -917,7 +917,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_83",
+   "ID": "TGV83",
    "Nom_Gare": "Ch�lons-en-Champagne",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -928,7 +928,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_84",
+   "ID": "TGV84",
    "Nom_Gare": "Reims",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -939,7 +939,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_85",
+   "ID": "TGV85",
    "Nom_Gare": "Vitry-le-Fran�ois",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -950,7 +950,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_86",
+   "ID": "TGV86",
    "Nom_Gare": "Laval",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -961,7 +961,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_87",
+   "ID": "TGV87",
    "Nom_Gare": "Lun�ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -972,7 +972,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_88",
+   "ID": "TGV88",
    "Nom_Gare": "Nancy-Ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -983,7 +983,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_89",
+   "ID": "TGV89",
    "Nom_Gare": "Bar-le-Duc",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -994,7 +994,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_90",
+   "ID": "TGV90",
    "Nom_Gare": "Auray",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -1005,7 +1005,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_91",
+   "ID": "TGV91",
    "Nom_Gare": "Lorient",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -1016,7 +1016,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_92",
+   "ID": "TGV92",
    "Nom_Gare": "Vannes",
    "INSEE_REG": "53",
    "NOM_REG": "Bretagne",
@@ -1027,7 +1027,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_93",
+   "ID": "TGV93",
    "Nom_Gare": "Forbach",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1038,7 +1038,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_94",
+   "ID": "TGV94",
    "Nom_Gare": "Metz-Ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1049,7 +1049,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_95",
+   "ID": "TGV95",
    "Nom_Gare": "Sarrebourg",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1060,7 +1060,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_96",
+   "ID": "TGV96",
    "Nom_Gare": "Thionville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1071,7 +1071,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_97",
+   "ID": "TGV97",
    "Nom_Gare": "Croix - Wasquehal",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1082,7 +1082,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_98",
+   "ID": "TGV98",
    "Nom_Gare": "Douai",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1093,7 +1093,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_99",
+   "ID": "TGV99",
    "Nom_Gare": "Dunkerque",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1104,7 +1104,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_100",
+   "ID": "TGV100",
    "Nom_Gare": "Hazebrouck",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1115,7 +1115,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_101",
+   "ID": "TGV101",
    "Nom_Gare": "Lille-Europe",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1126,7 +1126,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_102",
+   "ID": "TGV102",
    "Nom_Gare": "Lille-Flandres",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1137,7 +1137,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_103",
+   "ID": "TGV103",
    "Nom_Gare": "Roubaix",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1148,7 +1148,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_104",
+   "ID": "TGV104",
    "Nom_Gare": "Tourcoing",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1159,7 +1159,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_105",
+   "ID": "TGV105",
    "Nom_Gare": "Valenciennes",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1170,7 +1170,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_106",
+   "ID": "TGV106",
    "Nom_Gare": "Boulogne-Ville",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1181,7 +1181,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_107",
+   "ID": "TGV107",
    "Nom_Gare": "Arras",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1192,7 +1192,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_108",
+   "ID": "TGV108",
    "Nom_Gare": "B�thune",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1203,7 +1203,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_109",
+   "ID": "TGV109",
    "Nom_Gare": "Calais - Fr�thun",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1214,7 +1214,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_110",
+   "ID": "TGV110",
    "Nom_Gare": "Calais-Ville",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1225,7 +1225,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_111",
+   "ID": "TGV111",
    "Nom_Gare": "�taples - Le Touquet",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1236,7 +1236,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_112",
+   "ID": "TGV112",
    "Nom_Gare": "Lens",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1247,7 +1247,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_113",
+   "ID": "TGV113",
    "Nom_Gare": "Rang-du-Fliers - Verton",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1258,7 +1258,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_114",
+   "ID": "TGV114",
    "Nom_Gare": "Bayonne",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1269,7 +1269,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_115",
+   "ID": "TGV115",
    "Nom_Gare": "Biarritz",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1280,7 +1280,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_116",
+   "ID": "TGV116",
    "Nom_Gare": "Hendaye",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1291,7 +1291,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_117",
+   "ID": "TGV117",
    "Nom_Gare": "Orthez",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1302,7 +1302,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_118",
+   "ID": "TGV118",
    "Nom_Gare": "Pau",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1313,7 +1313,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_119",
+   "ID": "TGV119",
    "Nom_Gare": "Saint-Jean-de-Luz - Ciboure",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1324,7 +1324,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_120",
+   "ID": "TGV120",
    "Nom_Gare": "Lourdes",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -1335,7 +1335,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_121",
+   "ID": "TGV121",
    "Nom_Gare": "Tarbes",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -1346,7 +1346,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_122",
+   "ID": "TGV122",
    "Nom_Gare": "Perpignan",
    "INSEE_REG": "76",
    "NOM_REG": "Occitanie",
@@ -1357,7 +1357,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_123",
+   "ID": "TGV123",
    "Nom_Gare": "Saverne",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1368,7 +1368,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_124",
+   "ID": "TGV124",
    "Nom_Gare": "S�lestat",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1379,7 +1379,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_125",
+   "ID": "TGV125",
    "Nom_Gare": "Strasbourg-Ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1390,7 +1390,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_126",
+   "ID": "TGV126",
    "Nom_Gare": "Colmar",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1401,7 +1401,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_127",
+   "ID": "TGV127",
    "Nom_Gare": "Mulhouse-Ville",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1412,7 +1412,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_128",
+   "ID": "TGV128",
    "Nom_Gare": "Besan�on Franche-Comt� TGV",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1423,7 +1423,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_129",
+   "ID": "TGV129",
    "Nom_Gare": "Lyon-Part-Dieu",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1434,7 +1434,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_130",
+   "ID": "TGV130",
    "Nom_Gare": "Lyon-Perrache",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1445,7 +1445,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_131",
+   "ID": "TGV131",
    "Nom_Gare": "Lyon-Saint-Exup�ry TGV",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1456,7 +1456,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_132",
+   "ID": "TGV132",
    "Nom_Gare": "Marne-la-Vall�e - Chessy",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1467,7 +1467,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_133",
+   "ID": "TGV133",
    "Nom_Gare": "Paris-Gare-de-Lyon",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1478,7 +1478,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_134",
+   "ID": "TGV134",
    "Nom_Gare": "Dole-Ville",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -1489,7 +1489,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_135",
+   "ID": "TGV135",
    "Nom_Gare": "Chalon-sur-Sa�ne",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -1500,7 +1500,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_136",
+   "ID": "TGV136",
    "Nom_Gare": "Le Creusot - Montceau - Montchanin",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -1511,7 +1511,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_137",
+   "ID": "TGV137",
    "Nom_Gare": "M�con-Loch� TGV",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -1522,7 +1522,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_138",
+   "ID": "TGV138",
    "Nom_Gare": "Le Mans",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -1533,7 +1533,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_139",
+   "ID": "TGV139",
    "Nom_Gare": "Sabl�-sur-Sarthe",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -1544,7 +1544,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_140",
+   "ID": "TGV140",
    "Nom_Gare": "Aime-La Plagne",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1555,7 +1555,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_141",
+   "ID": "TGV141",
    "Nom_Gare": "Aix-les-Bains-Le Revard",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1566,7 +1566,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_142",
+   "ID": "TGV142",
    "Nom_Gare": "Albertville",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1577,7 +1577,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_143",
+   "ID": "TGV143",
    "Nom_Gare": "Bourg-Saint-Maurice",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1588,7 +1588,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_144",
+   "ID": "TGV144",
    "Nom_Gare": "Chamb�ry - Challes-les-Eaux",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1599,7 +1599,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_145",
+   "ID": "TGV145",
    "Nom_Gare": "Landry",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1610,7 +1610,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_146",
+   "ID": "TGV146",
    "Nom_Gare": "Modane",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1621,7 +1621,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_147",
+   "ID": "TGV147",
    "Nom_Gare": "Mo�tiers - Salins - Brides-les-Bains",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1632,7 +1632,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_148",
+   "ID": "TGV148",
    "Nom_Gare": "Saint-Avre - La Chambre",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1643,7 +1643,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_149",
+   "ID": "TGV149",
    "Nom_Gare": "Saint-Jean-de-Maurienne - Vall�e de l'Arvan",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1654,7 +1654,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_150",
+   "ID": "TGV150",
    "Nom_Gare": "Annecy",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1665,7 +1665,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_151",
+   "ID": "TGV151",
    "Nom_Gare": "Annemasse",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1676,7 +1676,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_152",
+   "ID": "TGV152",
    "Nom_Gare": "�vian-les-Bains",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1687,7 +1687,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_153",
+   "ID": "TGV153",
    "Nom_Gare": "Saint-Gervais-les-Bains-Le Fayet",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1698,7 +1698,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_154",
+   "ID": "TGV154",
    "Nom_Gare": "Sallanches - Combloux - Meg�ve",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1709,7 +1709,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_155",
+   "ID": "TGV155",
    "Nom_Gare": "Thonon-les-Bains",
    "INSEE_REG": "84",
    "NOM_REG": "Auvergne-Rh�ne-Alpes",
@@ -1720,7 +1720,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_156",
+   "ID": "TGV156",
    "Nom_Gare": "Paris-Est",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -1731,7 +1731,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_157",
+   "ID": "TGV157",
    "Nom_Gare": "Paris-Montparnasse",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -1742,7 +1742,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_158",
+   "ID": "TGV158",
    "Nom_Gare": "Paris-Nord",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -1753,7 +1753,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_159",
+   "ID": "TGV159",
    "Nom_Gare": "Le Havre",
    "INSEE_REG": "28",
    "NOM_REG": "Normandie",
@@ -1764,7 +1764,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_160",
+   "ID": "TGV160",
    "Nom_Gare": "A�roport Charles-de-Gaulle TGV,",
    "INSEE_REG": "",
    "NOM_REG": "",
@@ -1775,7 +1775,7 @@
    "Type": ""
  },
  {
-   "ID": "TGV_,11,",
+   "ID": "TGV,11,",
    "Nom_Gare": "77",
    "INSEE_REG": "Seine-et-Marne",
    "NOM_REG": "49.006",
@@ -1786,7 +1786,7 @@
    "Type": ""
  },
  {
-   "ID": "TGV_161",
+   "ID": "TGV161",
    "Nom_Gare": "Mantes-la-Jolie",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -1797,7 +1797,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_162",
+   "ID": "TGV162",
    "Nom_Gare": "Versailles-Chantiers",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -1808,7 +1808,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_163",
+   "ID": "TGV163",
    "Nom_Gare": "Niort",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1819,7 +1819,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_164",
+   "ID": "TGV164",
    "Nom_Gare": "Saint-Maixent (Deux-S�vres)",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1830,7 +1830,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_165",
+   "ID": "TGV165",
    "Nom_Gare": "Amiens",
    "INSEE_REG": "32",
    "NOM_REG": "Hauts-de-France",
@@ -1841,7 +1841,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_166",
+   "ID": "TGV166",
    "Nom_Gare": "Les Arcs - Draguignan",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1852,7 +1852,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_167",
+   "ID": "TGV167",
    "Nom_Gare": "Hy�res",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1863,7 +1863,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_168",
+   "ID": "TGV168",
    "Nom_Gare": "Saint-Rapha�l-Valescure",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1874,7 +1874,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_169",
+   "ID": "TGV169",
    "Nom_Gare": "Toulon",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1885,7 +1885,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_170",
+   "ID": "TGV170",
    "Nom_Gare": "Avignon-Centre",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1896,7 +1896,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_171",
+   "ID": "TGV171",
    "Nom_Gare": "Orange",
    "INSEE_REG": "93",
    "NOM_REG": "Provence-Alpes-C�te d'Azur",
@@ -1907,7 +1907,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_172",
+   "ID": "TGV172",
    "Nom_Gare": "La Roche-sur-Yon",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -1918,7 +1918,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_173",
+   "ID": "TGV173",
    "Nom_Gare": "Les Sables-d'Olonne",
    "INSEE_REG": "52",
    "NOM_REG": "Pays de la Loire",
@@ -1929,7 +1929,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_174",
+   "ID": "TGV174",
    "Nom_Gare": "Ch�tellerault",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1940,7 +1940,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_175",
+   "ID": "TGV175",
    "Nom_Gare": "Futuroscope",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1951,7 +1951,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_176",
+   "ID": "TGV176",
    "Nom_Gare": "Poitiers",
    "INSEE_REG": "75",
    "NOM_REG": "Nouvelle-Aquitaine",
@@ -1962,7 +1962,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_177",
+   "ID": "TGV177",
    "Nom_Gare": "�pinal",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1973,7 +1973,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_178",
+   "ID": "TGV178",
    "Nom_Gare": "Remiremont",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1984,7 +1984,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_179",
+   "ID": "TGV179",
    "Nom_Gare": "Saint-Di�-des-Vosges",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -1995,7 +1995,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_180",
+   "ID": "TGV180",
    "Nom_Gare": "Saint-Michel - Valloire",
    "INSEE_REG": "44",
    "NOM_REG": "Grand Est",
@@ -2006,7 +2006,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_181",
+   "ID": "TGV181",
    "Nom_Gare": "Belfort - Montb�liard TGV",
    "INSEE_REG": "27",
    "NOM_REG": "Bourgogne-Franche-Comt�",
@@ -2017,7 +2017,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_182",
+   "ID": "TGV182",
    "Nom_Gare": "Massy - Palaiseau",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
@@ -2028,7 +2028,7 @@
    "Type": "TGVStation"
  },
  {
-   "ID": "TGV_183",
+   "ID": "TGV183",
    "Nom_Gare": "Massy TGV",
    "INSEE_REG": "11",
    "NOM_REG": "�le-de-France",
