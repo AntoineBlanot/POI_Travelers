@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#"
+     xml:base="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:wot="http://xmlns.com/wot/0.1/"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#from -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#from"/>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has"/>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#to -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#to"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#adress -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#adress">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#age -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#age">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#city -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#city">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TrainStation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#departement -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#departement">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#departementcode -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#departementcode">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#enddate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#enddate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#id">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#latitude">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#longitude">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#nationality -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#nationality">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#postalcode -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#postalcode">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#region -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#region">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TGVStation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#regioncode -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#regioncode">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TGVStation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#startdate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#startdate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Library -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Library">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Building"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TGVStation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TGVStation">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#regioncode"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TrainStation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TrainStation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Transport">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#has"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#age"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#name"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#nationality"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#from"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#to"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#enddate"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#startdate"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#POI"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
