@@ -124,6 +124,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#gender -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#gender">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#id -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#id">
@@ -3061,6 +3070,7 @@
         <hasTravelled rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Lyon1"/>
         <hasTravelled rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris1"/>
         <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</age>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">woman</gender>
         <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alice</name>
         <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
     </owl:NamedIndividual>
@@ -3072,6 +3082,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Bruno">
         <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
         <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</age>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">man</gender>
         <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruno</name>
         <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</nationality>
     </owl:NamedIndividual>
@@ -3082,7 +3093,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#John">
         <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Traveler"/>
+        <hasTravelled rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris2"/>
         <age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</age>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">man</gender>
         <name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">John</name>
         <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</nationality>
     </owl:NamedIndividual>
@@ -3140,6 +3153,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Paris3">
         <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Trip"/>
+        <from rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV16"/>
+        <to rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV158"/>
     </owl:NamedIndividual>
     
 
