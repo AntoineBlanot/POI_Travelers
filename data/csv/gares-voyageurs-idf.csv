@@ -1,0 +1,397 @@
+ID;Type;Code gare;Commune;Département;Code département;Latitude;Longitude;Intitulé gare
+0;TrainStation;Gare00753;Paris;Paris;75.0;48.844888;2.37352;Paris Gare de Lyon
+1;TrainStation;Gare00761;Bagneaux-sur-Loing;Seine-et-Marne;77.0;48.2304802;2.7033327;Bagneaux-sur-Loing
+2;TrainStation;Gare00799;Samoreau;Seine-et-Marne;77.0;48.4305468;2.7531008;Vulaines-sur-Seine - Samoreau
+3;TrainStation;Gare00806;Moret-Loing-et-Orvanne;Seine-et-Marne;77.0;48.37838;2.79941;Moret - Veneux-les-Sablons
+4;TrainStation;Gare00810;Savigny-le-Temple;Seine-et-Marne;77.0;48.595519;2.583678;Savigny-le-Temple - Nandy
+5;TrainStation;Gare00812;Cesson;Seine-et-Marne;77.0;48.56563;2.5938;Cesson
+6;TrainStation;Gare00825;Villabé;Essonne;91.0;48.592637;2.461572;Villabé
+7;TrainStation;Gare00828;Maisse;Essonne;91.0;48.39304;2.39312;Maisse
+8;TrainStation;Gare00832;Mennecy;Essonne;91.0;48.5709075;2.433165;Mennecy
+9;TrainStation;Gare00843;Maisons-Alfort;Val-de-Marne;94.0;48.78934;2.43148;Le Vert de Maisons
+10;TrainStation;Gare00844;Alfortville;Val-de-Marne;94.0;48.802071;2.426977;Maisons-Alfort - Alfortville
+11;TrainStation;Gare01069;Créteil;Val-de-Marne;94.0;48.7715403;2.4352763;Créteil Pompadour
+12;TrainStation;Gare01437;Antony;Hauts-de-Seine;92.0;48.748143;2.3126207;Chemin d'Antony
+13;TrainStation;Gare01438;Rungis;Val-de-Marne;94.0;48.74032;2.35298;Rungis La Fraternelle
+14;TrainStation;Gare01450;Breuillet;Essonne;91.0;48.564776;2.171207;Breuillet Village
+15;TrainStation;Gare01469;Lardy;Essonne;91.0;48.533149;2.290596;Bouray
+16;TrainStation;Gare01470;Lardy;Essonne;91.0;48.520639;2.255739;Lardy
+17;TrainStation;Gare01828;Sevran;Seine-Saint-Denis;93.0;48.930895;2.51502;Rougemont Chanteloup
+18;TrainStation;Gare01940;Méré;Yvelines;78.0;48.80224;1.8153507;Montfort-l'Amaury - Méré
+19;TrainStation;Gare01954;Massy;Essonne;91.0;48.7264211;2.2575281;Massy - Palaiseau
+20;TrainStation;Gare01961;Jouy-en-Josas;Yvelines;78.0;48.770943;2.1470148;Petit Jouy - Les Loges
+21;TrainStation;Gare01966;Orgerus;Yvelines;78.0;48.8267809;1.7028344;Orgerus - Béhoust
+22;TrainStation;Gare01970;Fontenay-le-Fleury;Yvelines;78.0;48.8074032;2.0404603;Fontenay-le-Fleury
+23;TrainStation;Gare01976;Perray-en-Yvelines;Yvelines;78.0;48.6933406;1.856057;Le Perray-en-Yvelines
+24;TrainStation;Gare01982;Chaville;Hauts-de-Seine;92.0;48.8047497;2.1882472;Chaville Rive Gauche
+25;TrainStation;Gare01983;Viroflay;Yvelines;78.0;48.7998005;2.1845267;Chaville - Vélizy
+26;TrainStation;Gare01984;Versailles;Yvelines;78.0;48.7969381;2.1540156;Porchefontaine
+27;TrainStation;Gare01986;Sèvres;Hauts-de-Seine;92.0;48.8214311;2.2147536;Sèvres Rive Gauche
+28;TrainStation;Gare01987;Meudon;Hauts-de-Seine;92.0;48.8190033;2.2296743;Bellevue
+29;TrainStation;Gare01988;Meudon;Hauts-de-Seine;92.0;48.8147527;2.2410999;Meudon
+30;TrainStation;Gare01993;Paris;Paris;75.0;48.8625705;2.3010287;Pont de l'Alma
+31;TrainStation;Gare02010;Verneuil-sur-Seine;Yvelines;78.0;48.9922407;1.955265;Les Clairières de Verneuil
+32;TrainStation;Gare02013;Poissy;Yvelines;78.0;48.9329014;2.0413676;Poissy
+33;TrainStation;Gare02019;Bois-Colombes;Hauts-de-Seine;92.0;48.913408;2.257909;Les Vallées
+34;TrainStation;Gare02022;Paris;Paris;75.0;48.876242;2.325331;Paris Saint-Lazare
+35;TrainStation;Gare02026;Versailles;Yvelines;78.0;48.8096525;2.1347523;Versailles Rive Droite
+36;TrainStation;Gare02030;Cergy;Val-d'Oise;95.0;49.0496151;2.0343975;Cergy Saint-Christophe
+37;TrainStation;Gare02032;Étang-la-Ville;Yvelines;78.0;48.86822;2.0766932;L'Étang-la-Ville
+38;TrainStation;Gare02033;Marly-le-Roi;Yvelines;78.0;48.8713084;2.0965436;Marly-le-Roi
+39;TrainStation;Gare02041;Sèvres;Hauts-de-Seine;92.0;48.82746;2.20051;Sèvres - Ville-d'Avray
+40;TrainStation;Gare02052;Cormeilles-en-Parisis;Val-d'Oise;95.0;48.96864;2.19358;Cormeilles-en-Parisis
+41;TrainStation;Gare02054;Hardricourt;Yvelines;78.0;49.00564;1.90213;Meulan - Hardricourt
+42;TrainStation;Gare02058;Argenteuil;Val-d'Oise;95.0;48.95042;2.23088;Val d'Argenteuil
+43;TrainStation;Gare02075;Conflans-Sainte-Honorine;Yvelines;78.0;48.98931;2.07465;Conflans Fin d'Oise
+44;TrainStation;Gare02076;Saint-Ouen-l'Aumône;Val-d'Oise;95.0;49.03997;2.10369;Saint-Ouen-l'Aumône Quartier de l'Église
+45;TrainStation;Gare02077;Éragny;Val-d'Oise;95.0;49.01824;2.09104;Éragny - Neuville
+46;TrainStation;Gare02091;Asnières-sur-Seine;Hauts-de-Seine;92.0;48.9058;2.28324;Asnières-sur-Seine
+47;TrainStation;Gare02096;Bois-Colombes;Hauts-de-Seine;92.0;48.91348;2.27256;Bois-Colombes
+48;TrainStation;Gare02100;Paris;Paris;75.0;48.8853581;2.2979465;Péreire - Levallois
+49;TrainStation;Gare02101;Saint-Germain-en-Laye;Yvelines;78.0;48.89494;2.0705;Saint-Germain-en-Laye Bel-Air - Fourqueux
+50;TrainStation;Gare02450;Nointel;Val-d'Oise;95.0;49.1327;2.28066;Nointel - Mours
+51;TrainStation;Gare02460;Taverny;Val-d'Oise;95.0;49.02536;2.22187;Taverny
+52;TrainStation;Gare02472;Champagne-sur-Oise;Val-d'Oise;95.0;49.13573;2.24156;Champagne-sur-Oise
+53;TrainStation;Gare02495;Goussainville;Val-d'Oise;95.0;49.0240732;2.4632464;Goussainville
+54;TrainStation;Gare02503;Auvers-sur-Oise;Val-d'Oise;95.0;49.0694825;2.1423781;Chaponval
+55;TrainStation;Gare02505;Saint-Ouen-l'Aumône;Val-d'Oise;95.0;49.0549329;2.1225973;Épluches
+56;TrainStation;Gare02506;Pontoise;Val-d'Oise;95.0;49.04709;2.09545;Pontoise
+57;TrainStation;Gare02508;Saint-Ouen-l'Aumône;Val-d'Oise;95.0;49.04527;2.10651;Saint-Ouen-l'Aumône
+58;TrainStation;Gare02513;Ermont;Val-d'Oise;95.0;48.9803322;2.2712294;Ermont - Eaubonne
+59;TrainStation;Gare02546;Sevran;Seine-Saint-Denis;93.0;48.94743;2.52474;Sevran Beaudottes
+60;TrainStation;Gare02555;Deuil-la-Barre;Val-d'Oise;95.0;48.96633;2.31688;La Barre Ormesson
+62;TrainStation;Gare02558;Épinay-sur-Seine;Seine-Saint-Denis;93.0;48.95838;2.32865;Épinay - Villetaneuse
+63;TrainStation;Gare02561;Paris;Paris;75.0;48.880185;2.355151;Paris Gare du Nord
+64;TrainStation;Gare02906;Saint-Denis;Seine-Saint-Denis;93.0;48.91839;2.36257;La Plaine Stade de France - Saint-Denis - Aubervilliers
+65;TrainStation;Gare03027;Montry;Seine-et-Marne;77.0;48.8908268;2.8262345;Montry - Condé
+66;TrainStation;Gare03029;Thorigny-sur-Marne;Seine-et-Marne;77.0;48.88218325;2.70404228;Lagny - Thorigny
+67;TrainStation;Gare03030;Coulommiers;Seine-et-Marne;77.0;48.808006;3.08225;Coulommiers
+68;TrainStation;Gare03043;Nangis;Seine-et-Marne;77.0;48.561336;3.012619;Nangis
+69;TrainStation;Gare03046;Pontault-Combault;Seine-et-Marne;77.0;48.806034;2.618004;Émerainville - Pontault-Combault
+70;TrainStation;Gare03047;Roissy-en-Brie;Seine-et-Marne;77.0;48.795481;2.650165;Roissy-en-Brie
+71;TrainStation;Gare03051;Sevran;Seine-Saint-Denis;93.0;48.926637;2.519019;Freinville Sevran
+72;TrainStation;Gare03053;Villemomble;Seine-Saint-Denis;93.0;48.897109;2.506475;Allée de la Tour Rendez-Vous
+73;TrainStation;Gare03062;Rosny-sous-Bois;Seine-Saint-Denis;93.0;48.87099;2.48559;Rosny-sous-Bois
+74;TrainStation;Gare03064;Gagny;Seine-Saint-Denis;93.0;48.877129;2.552692;Le Chénay Gagny
+75;TrainStation;Gare03068;Noisy-le-Sec;Seine-Saint-Denis;93.0;48.896288;2.459306;Noisy-le-Sec
+76;TrainStation;Gare03072;Chessy;Seine-et-Marne;77.0;48.869856;2.78272;Marne-la-Vallée Chessy
+77;TrainStation;Gare03073;Paris;Paris;75.0;48.89399;2.31462;Porte de Clichy
+78;TrainStation;Gare03214;Courneuve;Seine-Saint-Denis;93.0;48.9439;2.4115;Dugny - La Courneuve T11
+79;TrainStation;Gare01436;Paris;Paris;75.0;48.842285;2.364891;Paris Austerlitz
+80;TrainStation;Gare01439;Orly;Val-de-Marne;94.0;48.7454924;2.417366;Les Saules
+81;TrainStation;Gare01447;Dourdan;Essonne;91.0;48.533466;2.009643;Dourdan
+82;TrainStation;Gare01449;Saint-Chéron;Essonne;91.0;48.551188;2.125597;Saint-Chéron
+83;TrainStation;Gare01452;Égly;Essonne;91.0;48.582364;2.222138;Égly
+84;TrainStation;Gare01455;Étampes;Essonne;91.0;48.42747;2.145401;Saint-Martin d'Étampes
+85;TrainStation;Gare01456;Ivry-sur-Seine;Val-de-Marne;94.0;48.814371;2.39099;Ivry-sur-Seine
+86;TrainStation;Gare01464;Épinay-sur-Orge;Essonne;91.0;48.66952;2.33182;Épinay-sur-Orge
+87;TrainStation;Gare01466;Saint-Michel-sur-Orge;Essonne;91.0;48.635479;2.306632;Saint-Michel-sur-Orge
+88;TrainStation;Gare01468;Marolles-en-Hurepoix;Essonne;91.0;48.565345;2.290327;Marolles-en-Hurepoix
+89;TrainStation;Gare01943;Montigny-le-Bretonneux;Yvelines;78.0;48.78657;2.04523;Saint-Quentin en Yvelines - Montigny-le-Bretonneux
+90;TrainStation;Gare01946;Épinay-sur-Orge;Essonne;91.0;48.675859;2.3339755;Petit Vaux
+91;TrainStation;Gare01947;Longjumeau;Essonne;91.0;48.6851718;2.317846;Gravigny Balizy
+92;TrainStation;Gare01948;Chilly-Mazarin;Essonne;91.0;48.7004413;2.3081837;Chilly-Mazarin
+93;TrainStation;Gare01960;Jouy-en-Josas;Yvelines;78.0;48.7650042;2.1635294;Jouy-en-Josas
+94;TrainStation;Gare01968;Plaisir;Yvelines;78.0;48.8316509;1.9432973;Plaisir - Grignon
+95;TrainStation;Gare01972;Gazeran;Yvelines;78.0;48.6259183;1.7718857;Gazeran
+96;TrainStation;Gare01973;Paris;Paris;75.0;48.839464;2.2712276;Pont du Garigliano - Hôpital Européen Georges Pompidou
+97;TrainStation;Gare01978;Coignières;Yvelines;78.0;48.7437672;1.920809;Coignières
+98;TrainStation;Gare01979;Verrière;Yvelines;78.0;48.7556954;1.943674;La Verrière
+99;TrainStation;Gare02011;Verneuil-sur-Seine;Yvelines;78.0;48.9811884;1.9828731;Vernouillet - Verneuil
+100;TrainStation;Gare02021;Garenne-Colombes;Hauts-de-Seine;92.0;48.9093952;2.2396414;La Garenne-Colombes
+101;TrainStation;Gare02024;Viroflay;Yvelines;78.0;48.8056695;2.1683208;Viroflay Rive Droite
+102;TrainStation;Gare02034;Louveciennes;Yvelines;78.0;48.8610361;2.1230176;Louveciennes
+103;TrainStation;Gare02048;Cergy;Val-d'Oise;95.0;49.03639;2.07982;Cergy Préfecture
+104;TrainStation;Gare02050;Herblay;Val-d'Oise;95.0;48.99042;2.16208;Herblay
+105;TrainStation;Gare02070;Juziers;Yvelines;78.0;48.99244;1.84579;Juziers
+106;TrainStation;Gare02073;Andrésy;Yvelines;78.0;48.98712;2.05963;Maurecourt
+107;TrainStation;Gare02089;Boissy-l'Aillerie;Val-d'Oise;95.0;49.07598;2.02513;Boissy-l'Aillerie
+108;TrainStation;Gare02092;Levallois-Perret;Hauts-de-Seine;92.0;48.89678;2.2982;Clichy - Levallois
+109;TrainStation;Gare02094;Colombes;Hauts-de-Seine;92.0;48.93093;2.26056;Le Stade
+110;TrainStation;Gare02095;Colombes;Hauts-de-Seine;92.0;48.92383;2.25939;Colombes
+111;TrainStation;Gare00762;Saint-Pierre-lès-Nemours;Seine-et-Marne;77.0;48.267884;2.685754;Nemours - Saint-Pierre
+112;TrainStation;Gare00764;Montigny-sur-Loing;Seine-et-Marne;77.0;48.33661;2.738561;Montigny-sur-Loing
+113;TrainStation;Gare00800;Héricy;Seine-et-Marne;77.0;48.4424848;2.7605339;Héricy
+114;TrainStation;Gare00801;Fontaine-le-Port;Seine-et-Marne;77.0;48.4871358;2.7514043;Fontaine-le-Port
+115;TrainStation;Gare00811;Mée-sur-Seine;Seine-et-Marne;77.0;48.540086;2.624116;Le Mée-sur-Seine
+116;TrainStation;Gare00813;Moissy-Cramayel;Seine-et-Marne;77.0;48.628305;2.568935;Lieusaint - Moissy
+117;TrainStation;Gare00814;Combs-la-Ville;Seine-et-Marne;77.0;48.667179;2.547798;Combs-la-Ville - Quincy
+118;TrainStation;Gare00815;Boussy-Saint-Antoine;Essonne;91.0;48.680893;2.532726;Boussy-Saint-Antoine
+119;TrainStation;Gare00822;Villeneuve-Saint-Georges;Val-de-Marne;94.0;48.745198;2.438192;Villeneuve Triage
+120;TrainStation;Gare00827;Buno-Bonnevaux;Essonne;91.0;48.370847;2.3871153;Buno - Gironville
+121;TrainStation;Gare00829;Boutigny-sur-Essonne;Essonne;91.0;48.43495;2.37636;Boutigny-sur-Essonne
+122;TrainStation;Gare00835;Évry;Essonne;91.0;48.625507;2.428581;Évry-Courcouronnes
+123;TrainStation;Gare00837;Évry;Essonne;91.0;48.63442;2.45209;Évry Val de Seine
+124;TrainStation;Gare00838;Ris-Orangis;Essonne;91.0;48.648004;2.435939;Grand Bourg
+125;TrainStation;Gare00841;Viry-Châtillon;Essonne;91.0;48.676182;2.386391;Viry-Châtillon
+126;TrainStation;Gare00842;Vigneux-sur-Seine;Essonne;91.0;48.70816;2.41446;Vigneux-sur-Seine
+127;TrainStation;Gare02427;Paris;Paris;75.0;48.87986;2.35835;Magenta
+128;TrainStation;Gare02458;Frépillon;Val-d'Oise;95.0;49.0462;2.19717;Frépillon
+129;TrainStation;Gare02463;Saint-Leu-la-Forêt;Val-d'Oise;95.0;49.01571;2.24264;Saint-Leu-la-Forêt
+130;TrainStation;Gare02473;Presles;Val-d'Oise;95.0;49.11346;2.28759;Presles Courcelles
+131;TrainStation;Gare02479;Domont;Val-d'Oise;95.0;49.03268;2.33746;Domont
+132;TrainStation;Gare02500;Garges-lès-Gonesse;Val-d'Oise;95.0;48.97663;2.39078;Garges - Sarcelles
+133;TrainStation;Gare02504;Saint-Ouen-l'Aumône;Val-d'Oise;95.0;49.06004;2.13046;Pont Petit
+134;TrainStation;Gare02511;Franconville;Val-d'Oise;95.0;48.99358;2.23514;Franconville - Le Plessis-Bouchard
+135;TrainStation;Gare02514;Soisy-sous-Montmorency;Val-d'Oise;95.0;48.97975;2.29189;Champ de Courses d'Enghien
+136;TrainStation;Gare02519;Gennevilliers;Hauts-de-Seine;92.0;48.92007;2.31441;Les Grésillons
+137;TrainStation;Gare02522;Thieux;Seine-et-Marne;77.0;49.0084346;2.6805271;Thieux - Nantouillet
+138;TrainStation;Gare02540;Mitry-Mory;Seine-et-Marne;77.0;48.95325;2.60243;Villeparisis - Mitry-le-Neuf
+139;TrainStation;Gare02544;Tremblay-en-France;Seine-Saint-Denis;93.0;49.00956;2.56135;Aéroport Charles de Gaulle 1
+140;TrainStation;Gare02545;Villepinte;Seine-Saint-Denis;93.0;48.96292;2.51205;Villepinte
+141;TrainStation;Gare02548;Sevran;Seine-Saint-Denis;93.0;48.93601;2.53484;Sevran - Livry
+142;TrainStation;Gare02549;Aulnay-sous-Bois;Seine-Saint-Denis;93.0;48.93179;2.49431;Aulnay-sous-Bois
+143;TrainStation;Gare02552;Courneuve;Seine-Saint-Denis;93.0;48.9242;2.38443;La Courneuve - Aubervilliers
+144;TrainStation;Gare02556;Pierrefitte-sur-Seine;Seine-Saint-Denis;93.0;48.96409;2.37213;Pierrefitte - Stains
+146;TrainStation;Gare02561;Paris;Paris;75.0;48.880185;2.355151;Paris Gare du Nord
+147;TrainStation;Gare02907;Saint-Denis;Seine-Saint-Denis;93.0;48.91779;2.35134;Stade de France Saint-Denis
+148;TrainStation;Gare03018;Lizy-sur-Ourcq;Seine-et-Marne;77.0;49.021929;3.031718;Lizy-sur-Ourcq
+149;TrainStation;Gare03019;Isles-les-Meldeuses;Seine-et-Marne;77.0;48.9980994;3.0072998;Isles - Armentières - Congis
+150;TrainStation;Gare03025;Changis-sur-Marne;Seine-et-Marne;77.0;48.95936;3.025394;Changis - Saint-Jean
+151;TrainStation;Gare03031;Vaires-sur-Marne;Seine-et-Marne;77.0;48.874953;2.639986;Vaires - Torcy
+152;TrainStation;Gare03033;Pommeuse;Seine-et-Marne;77.0;48.808494;2.993109;Faremoutiers - Pommeuse
+153;TrainStation;Gare03035;Mortcerf;Seine-et-Marne;77.0;48.7892191;2.9075554;Mortcerf
+154;TrainStation;Gare03036;Houssaye-en-Brie;Seine-et-Marne;77.0;48.733976;2.868099;Marles-en-Brie
+155;TrainStation;Gare03044;Mormant;Seine-et-Marne;77.0;48.613564;2.88881;Mormant
+156;TrainStation;Gare03055;Pavillons-sous-Bois;Seine-Saint-Denis;93.0;48.902418;2.511781;Les Pavillons-sous-Bois
+157;TrainStation;Gare03063;Rosny-sous-Bois;Seine-Saint-Denis;93.0;48.882568;2.480987;Rosny Bois Perrier
+158;TrainStation;Gare03070;Paris;Paris;75.0;48.876742;2.358424;Paris Est
+159;TrainStation;Gare03097;Paris;Paris;75.0;48.83917;2.38278;Paris Bercy Bourgogne - Pays d'Auvergne
+160;TrainStation;Gare03212;Villetaneuse;Seine-Saint-Denis;93.0;48.96;2.34251;Villetaneuse Université T11
+161;TrainStation;Gare03213;Stains;Seine-Saint-Denis;93.0;48.9548;2.39209;Stains La Cerisaie T11
+162;TrainStation;Gare00755;Boigneville;Essonne;91.0;48.342078;2.3789793;Boigneville
+163;TrainStation;Gare00763;Bourron-Marlotte;Seine-et-Marne;77.0;48.3326884;2.6924552;Bourron-Marlotte - Grez
+164;TrainStation;Gare00792;Saint-Fargeau-Ponthierry;Seine-et-Marne;77.0;48.564549;2.542493;Saint-Fargeau-Ponthierry
+165;TrainStation;Gare00794;Boissise-le-Roi;Seine-et-Marne;77.0;48.529319;2.572953;Boissise-le-Roi
+166;TrainStation;Gare00796;Grande-Paroisse;Seine-et-Marne;77.0;48.3787751;2.8971614;La Grande-Paroisse
+167;TrainStation;Gare00804;Montereau-Fault-Yonne;Seine-et-Marne;77.0;48.379934;2.942972;Montereau
+168;TrainStation;Gare00807;Thomery;Seine-et-Marne;77.0;48.394462;2.763995;Thomery
+169;TrainStation;Gare00808;Avon;Seine-et-Marne;77.0;48.416371;2.72634;Fontainebleau - Avon
+170;TrainStation;Gare00809;Bois-le-Roi;Seine-et-Marne;77.0;48.475567;2.691606;Bois-le-Roi
+171;TrainStation;Gare00816;Brunoy;Essonne;91.0;48.699112;2.506422;Brunoy
+172;TrainStation;Gare00818;Montgeron;Essonne;91.0;48.708094;2.462224;Montgeron - Crosne
+173;TrainStation;Gare00821;Villeneuve-Saint-Georges;Val-de-Marne;94.0;48.730113;2.446011;Villeneuve-Saint-Georges
+174;TrainStation;Gare00826;Corbeil-Essonnes;Essonne;91.0;48.606095;2.463701;Essonnes Robinson
+175;TrainStation;Gare00830;Ferté-Alais;Essonne;91.0;48.484876;2.35161;La Ferté-Alais
+176;TrainStation;Gare00834;Évry;Essonne;91.0;48.623287;2.450625;Le Bras de Fer
+177;TrainStation;Gare00840;Ris-Orangis;Essonne;91.0;48.659442;2.41442;Ris-Orangis
+178;TrainStation;Gare01436;Paris;Paris;75.0;48.842285;2.364891;Paris Austerlitz
+179;TrainStation;Gare01448;Sermaise;Essonne;91.0;48.53536;2.06865;Sermaise
+180;TrainStation;Gare01457;Vitry-sur-Seine;Val-de-Marne;94.0;48.800768;2.402229;Vitry-sur-Seine
+181;TrainStation;Gare01459;Villeneuve-le-Roi;Val-de-Marne;94.0;48.739908;2.426084;Villeneuve-le-Roi
+182;TrainStation;Gare01460;Ablon-sur-Seine;Val-de-Marne;94.0;48.725468;2.419151;Ablon-sur-Seine
+183;TrainStation;Gare01473;Étampes;Essonne;91.0;48.436661;2.159468;Étampes
+184;TrainStation;Gare01474;Guillerval;Essonne;91.0;48.3744455;2.0598748;Guillerval
+185;TrainStation;Gare01475;Monnerville;Essonne;91.0;48.3484915;2.0320595;Monnerville
+186;TrainStation;Gare01941;Villiers-Saint-Frédéric;Yvelines;78.0;48.81550666129636;1.876934489891097;Villiers - Neauphle - Pontchartrain
+187;TrainStation;Gare01950;Longjumeau;Essonne;91.0;48.7020364;2.2943957;Longjumeau
+188;TrainStation;Gare01965;Tacoignières;Yvelines;78.0;48.8295827;1.6689566;Tacoignières - Richebourg
+189;TrainStation;Gare01971;Beynes;Yvelines;78.0;48.8593599;1.8755696;Beynes
+190;TrainStation;Gare01974;Rambouillet;Yvelines;78.0;48.64377;1.83154;Rambouillet
+191;TrainStation;Gare01981;Viroflay;Yvelines;78.0;48.800517;2.1711466;Viroflay Rive Gauche
+192;TrainStation;Gare01991;Paris;Paris;75.0;48.8462046;2.2768401;Javel
+193;TrainStation;Gare01994;Paris;Paris;75.0;48.8619133;2.3150151;Invalides
+194;TrainStation;Gare01995;Versailles;Yvelines;78.0;48.7958264;2.1358827;Versailles Chantiers
+195;TrainStation;Gare01997;Vanves;Hauts-de-Seine;92.0;48.8181959;2.2920988;Vanves - Malakoff
+196;TrainStation;Gare01999;Paris;Paris;75.0;48.841172;2.320514;Paris Montparnasse
+197;TrainStation;Gare02012;Villennes-sur-Seine;Yvelines;78.0;48.9394602;1.9993185;Villennes-sur-Seine
+198;TrainStation;Gare02017;Houilles;Yvelines;78.0;48.9199636;2.1850828;Houilles - Carrières-sur-Seine
+199;TrainStation;Gare02023;Massy;Essonne;91.0;48.7343097;2.2736721;Massy - Verrières
+200;TrainStation;Gare02036;Celle-Saint-Cloud;Yvelines;78.0;48.84259;2.13797;La Celle-Saint-Cloud
+201;TrainStation;Gare02039;Saint-Cloud;Hauts-de-Seine;92.0;48.85645;2.21636;Le Val d'Or
+202;TrainStation;Gare02046;Courbevoie;Hauts-de-Seine;92.0;48.89831;2.24804;Courbevoie
+203;TrainStation;Gare02053;Argenteuil;Val-d'Oise;95.0;48.94686;2.25727;Argenteuil
+204;TrainStation;Gare02059;Nézel;Yvelines;78.0;48.9387638;1.8405298;Nézel - Aulnay
+205;TrainStation;Gare02060;Maule;Yvelines;78.0;48.90917;1.85708;Maule
+206;TrainStation;Gare02062;Achères;Yvelines;78.0;48.97011;2.07739;Achères Ville
+207;TrainStation;Gare02067;Limay;Yvelines;78.0;48.9841;1.74731;Limay
+208;TrainStation;Gare02088;Montgeroult;Val-d'Oise;95.0;49.0805828;2.0034959;Montgeroult - Courcelles
+209;TrainStation;Gare02093;Paris;Paris;75.0;48.88755;2.31425;Pont Cardinet
+210;TrainStation;Gare02097;Paris;Paris;75.0;48.8644077;2.272238;Avenue Henri Martin
+211;TrainStation;Gare02099;Paris;Paris;75.0;48.877983;2.284516;Neuilly - Porte Maillot
+212;TrainStation;Gare02456;Mériel;Val-d'Oise;95.0;49.07777;2.20528;Mériel
+213;TrainStation;Gare02457;Méry-sur-Oise;Val-d'Oise;95.0;49.05766;2.19074;Méry-sur-Oise
+214;TrainStation;Gare02468;Belloy-en-France;Val-d'Oise;95.0;49.09807;2.36135;Belloy - Saint-Martin
+215;TrainStation;Gare02471;Parmain;Val-d'Oise;95.0;49.11482;2.20976;L'Isle-Adam - Parmain
+216;TrainStation;Gare02474;Montsoult;Val-d'Oise;95.0;49.06611;2.32229;Montsoult - Maffliers
+217;TrainStation;Gare02475;Bouffémont;Val-d'Oise;95.0;49.04514;2.32272;Bouffémont - Moisselles
+218;TrainStation;Gare02485;Groslay;Val-d'Oise;95.0;48.98462;2.35358;Groslay
+219;TrainStation;Gare02493;Fosses;Val-d'Oise;95.0;49.09961;2.52527;Survilliers - Fosses
+220;TrainStation;Gare02497;Arnouville;Val-d'Oise;95.0;48.994175;2.4162288;Villiers-le-Bel - Gonesse - Arnouville
+221;TrainStation;Gare02510;Beauchamp;Val-d'Oise;95.0;49.00758;2.19767;Montigny - Beauchamp
+222;TrainStation;Gare02513;Ermont;Val-d'Oise;95.0;48.98032;2.27176;Ermont - Eaubonne
+223;TrainStation;Gare02524;Seugy;Val-d'Oise;95.0;49.1189923;2.3989116;Seugy
+224;TrainStation;Gare02525;Villaines-sous-Bois;Val-d'Oise;95.0;49.0798273;2.3513736;Villaines-sous-Bois
+225;TrainStation;Gare02541;Roissy-en-France;Val-d'Oise;95.0;49.003652;2.570892;Aéroport Charles de Gaulle 2 TGV
+227;TrainStation;Gare00001;Livry-Gargan;Seine-Saint-Denis;93.0;48.91646;2.51504;Lycée Henri Sellier
+228;TrainStation;Gare03023;Saâcy-sur-Marne;Seine-et-Marne;77.0;48.9738082;3.2200172;Nanteuil - Saâcy
+229;TrainStation;Gare03026;Trilport;Seine-et-Marne;77.0;48.96013551;2.94953688;Trilport
+230;TrainStation;Gare03032;Mouroux;Seine-et-Marne;77.0;48.8139949;3.0423421;Mouroux
+231;TrainStation;Gare03039;Provins;Seine-et-Marne;77.0;48.55577;3.302822;Provins
+232;TrainStation;Gare03042;Meaux;Seine-et-Marne;77.0;48.957759;2.874041;Meaux
+233;TrainStation;Gare03045;Verneuil-l'Étang;Seine-et-Marne;77.0;48.644689;2.825006;Verneuil-l'Étang
+234;TrainStation;Gare03056;Villemomble;Seine-Saint-Denis;93.0;48.89244;2.499415;Les Coquetiers
+235;TrainStation;Gare03057;Noisy-le-Grand;Seine-Saint-Denis;93.0;48.823182;2.579828;Les Yvris Noisy-le-Grand
+236;TrainStation;Gare03066;Raincy;Seine-Saint-Denis;93.0;48.889325;2.512062;Le Raincy - Villemomble - Montfermeil
+237;TrainStation;Gare03067;Bondy;Seine-Saint-Denis;93.0;48.894208;2.4786;Bondy
+238;TrainStation;Gare03080;Paris;Paris;75.0;48.89602;2.37397;Rosa Parks
+239;TrainStation;Gare03215;Bourget;Seine-Saint-Denis;93.0;48.93076;2.42316;Le Bourget T11
+240;TrainStation;Gare00793;Saint-Fargeau-Ponthierry;Seine-et-Marne;77.0;48.534933;2.54459;Ponthierry - Pringy
+241;TrainStation;Gare00797;Vernou-la-Celle-sur-Seine;Seine-et-Marne;77.0;48.3864547;2.8424649;Vernou-la-Celle-sur-Seine
+242;TrainStation;Gare00805;Saint-Mammès;Seine-et-Marne;77.0;48.382171;2.81593;Saint-Mammès
+243;TrainStation;Gare00817;Yerres;Essonne;91.0;48.706759;2.48337;Yerres
+244;TrainStation;Gare00819;Melun;Seine-et-Marne;77.0;48.527662;2.655404;Melun
+245;TrainStation;Gare00823;Coudray-Montceaux;Essonne;91.0;48.5661679;2.4924649;Le Coudray-Montceaux
+246;TrainStation;Gare00831;Ballancourt-sur-Essonne;Essonne;91.0;48.532114;2.371274;Ballancourt-sur-Essonne
+247;TrainStation;Gare00836;Grigny;Essonne;91.0;48.65343;2.395797;Grigny Centre
+248;TrainStation;Gare00845;Corbeil-Essonnes;Essonne;91.0;48.61403;2.47401;Corbeil-Essonnes
+249;TrainStation;Gare01434;Paris;Paris;75.0;48.86079;2.325671;Musée d'Orsay
+250;TrainStation;Gare01440;Orly;Val-de-Marne;94.0;48.741815;2.40265;Orly Ville
+251;TrainStation;Gare01441;Thiais;Val-de-Marne;94.0;48.748163;2.372792;Pont de Rungis Aéroport d'Orly
+252;TrainStation;Gare01451;Breuillet;Essonne;91.0;48.577228;2.191721;Breuillet - Bruyères-le-Châtel
+253;TrainStation;Gare01454;Norville;Essonne;91.0;48.591617;2.267586;La Norville - Saint-Germain-lès-Arpajon
+254;TrainStation;Gare01458;Choisy-le-Roi;Val-de-Marne;94.0;48.763974;2.411102;Choisy-le-Roi
+255;TrainStation;Gare01461;Athis-Mons;Essonne;91.0;48.712557;2.403749;Athis-Mons
+256;TrainStation;Gare01463;Savigny-sur-Orge;Essonne;91.0;48.67614;2.35173;Savigny-sur-Orge
+257;TrainStation;Gare01467;Brétigny-sur-Orge;Essonne;91.0;48.606683;2.302378;Brétigny-sur-Orge
+258;TrainStation;Gare01477;Paris;Paris;75.0;48.853322;2.279969;Avenue du Président Kennedy Maison de Radio France
+259;TrainStation;Gare01485;Angerville;Essonne;91.0;48.3112062;2.0034931;Angerville
+260;TrainStation;Gare01494;Dourdan;Essonne;91.0;48.535314;1.994908;Dourdan La Forêt
+261;TrainStation;Gare01497;Vitry-sur-Seine;Val-de-Marne;94.0;48.782945;2.409046;Les Ardoines
+262;TrainStation;Gare01832;Rosny-sur-Seine;Yvelines;78.0;48.997287;1.63009;Rosny-sur-Seine
+263;TrainStation;Gare01942;Noisy-le-Roi;Yvelines;78.0;48.8415189;2.0618388;Noisy-le-Roi
+264;TrainStation;Gare01944;Trappes;Yvelines;78.0;48.7751158;2.0066335;Trappes
+265;TrainStation;Gare01945;Massy;Essonne;91.0;48.725758;2.261254;Massy TGV
+266;TrainStation;Gare01955;Igny;Essonne;91.0;48.7399008;2.2313626;Igny
+267;TrainStation;Gare01958;Jouy-en-Josas;Yvelines;78.0;48.7590575;2.192119;Vauboyen
+268;TrainStation;Gare01964;Houdan;Yvelines;78.0;48.7958005;1.6027371;Houdan
+269;TrainStation;Gare01967;Garancières;Yvelines;78.0;48.8106338;1.7647546;Garancières - La Queue
+270;TrainStation;Gare01975;Issy-les-Moulineaux;Hauts-de-Seine;92.0;48.8295555;2.2635936;Issy Val de Seine
+271;TrainStation;Gare01977;Essarts-le-Roi;Yvelines;78.0;48.7217171;1.8904047;Les Essarts-le-Roi
+272;TrainStation;Gare01985;Versailles;Yvelines;78.0;48.8003635;2.1288274;Versailles Château Rive Gauche
+273;TrainStation;Gare01989;Meudon;Hauts-de-Seine;92.0;48.8079884;2.2409045;Meudon Val Fleury
+274;TrainStation;Gare01996;Clamart;Hauts-de-Seine;92.0;48.813844;2.2733273;Clamart
+275;TrainStation;Gare02007;Épône;Yvelines;78.0;48.9631225;1.8085932;Épône - Mézières
+276;TrainStation;Gare02020;Saint-Germain-en-Laye;Yvelines;78.0;48.9551835;2.0919031;Achères Grand Cormier
+277;TrainStation;Gare02025;Versailles;Yvelines;78.0;48.8067323;2.1511693;Montreuil
+278;TrainStation;Gare02027;Mareil-Marly;Yvelines;78.0;48.8807466;2.0790676;Mareil-Marly
+279;TrainStation;Gare02029;Cergy;Val-d'Oise;95.0;49.0484932;2.0118725;Cergy le Haut
+280;TrainStation;Gare02031;Étang-la-Ville;Yvelines;78.0;48.8677671;2.0509372;Saint-Nom-la-Bretèche Forêt de Marly
+281;TrainStation;Gare02040;Saint-Cloud;Hauts-de-Seine;92.0;48.84541;2.21687;Saint-Cloud
+282;TrainStation;Gare02042;Chaville;Hauts-de-Seine;92.0;48.81213;2.18785;Chaville Rive Droite
+283;TrainStation;Gare02043;Vaucresson;Hauts-de-Seine;92.0;48.83688;2.15255;Vaucresson
+284;TrainStation;Gare02047;Courbevoie;Hauts-de-Seine;92.0;48.90592;2.26838;Bécon les Bruyères
+285;TrainStation;Gare02049;Conflans-Sainte-Honorine;Yvelines;78.0;48.99646;2.09783;Conflans-Sainte-Honorine
+286;TrainStation;Gare02051;Frette-sur-Seine;Val-d'Oise;95.0;48.98035;2.18019;La Frette - Montigny
+287;TrainStation;Gare02055;Meulan-en-Yvelines;Yvelines;78.0;49.00687;1.91922;Thun le Paradis
+288;TrainStation;Gare02064;Bréval;Yvelines;78.0;48.94336;1.54191;Bréval
+289;TrainStation;Gare02071;Mantes-la-Jolie;Yvelines;78.0;48.98984;1.70337;Mantes-la-Jolie
+290;TrainStation;Gare02072;Andrésy;Yvelines;78.0;48.9747;2.04928;Andrésy
+291;TrainStation;Gare02085;Chars;Val-d'Oise;95.0;49.16268;1.93671;Chars
+292;TrainStation;Gare02086;Santeuil;Val-d'Oise;95.0;49.12416;1.94893;Santeuil - Le Perchay
+293;TrainStation;Gare02087;Us;Val-d'Oise;95.0;49.09969;1.97076;Us
+294;TrainStation;Gare02090;Osny;Val-d'Oise;95.0;49.06283;2.05771;Osny
+295;TrainStation;Gare02098;Paris;Paris;75.0;48.870971;2.2756167;Avenue Foch
+296;TrainStation;Gare02194;Saint-Ouen-l'Aumône;Val-d'Oise;95.0;49.0338707;2.1279345;Saint-Ouen-l'Aumône Liesse
+297;TrainStation;Gare02426;Paris;Paris;75.0;48.87478;2.32862;Haussmann Saint-Lazare
+298;TrainStation;Gare02461;Taverny;Val-d'Oise;95.0;49.02193;2.22885;Vaucelles
+299;TrainStation;Gare02465;Ermont;Val-d'Oise;95.0;48.9898;2.26323;Ermont Halte
+300;TrainStation;Gare02467;Viarmes;Val-d'Oise;95.0;49.11692;2.36838;Viarmes
+301;TrainStation;Gare02469;Auvers-sur-Oise;Val-d'Oise;95.0;49.07062;2.17526;Auvers-sur-Oise
+302;TrainStation;Gare02476;Persan;Val-d'Oise;95.0;49.14795;2.27914;Persan - Beaumont
+303;TrainStation;Gare02477;Bruyères-sur-Oise;Val-d'Oise;95.0;49.1552098;2.3259636;Bruyères-sur-Oise
+304;TrainStation;Gare02487;Deuil-la-Barre;Val-d'Oise;95.0;48.97589;2.33785;Deuil - Montmagny
+305;TrainStation;Gare02501;Sannois;Val-d'Oise;95.0;48.97016;2.26377;Sannois
+306;TrainStation;Gare02509;Pierrelaye;Val-d'Oise;95.0;49.01955;2.15371;Pierrelaye
+307;TrainStation;Gare02542;Villepinte;Seine-Saint-Denis;93.0;48.97334;2.51382;Parc des Expositions
+308;TrainStation;Gare02543;Blanc-Mesnil;Seine-Saint-Denis;93.0;48.93248;2.47747;Le Blanc-Mesnil
+309;TrainStation;Gare02554;Gennevilliers;Hauts-de-Seine;92.0;48.93368;2.30699;Gennevilliers
+310;TrainStation;Gare02560;Saint-Denis;Seine-Saint-Denis;93.0;48.9354933;2.3459524;Saint-Denis
+311;TrainStation;Gare02561;Paris;Paris;75.0;48.880185;2.355151;Paris Gare du Nord
+312;TrainStation;Gare03010;Crécy-la-Chapelle;Seine-et-Marne;77.0;48.859391;2.905748;Crécy-la-Chapelle
+313;TrainStation;Gare03017;Crouy-sur-Ourcq;Seine-et-Marne;77.0;49.091821;3.063081;Crouy-sur-Ourcq
+314;TrainStation;Gare03038;Sainte-Colombe;Seine-et-Marne;77.0;48.52959;3.25602;Sainte-Colombe Septveilles
+315;TrainStation;Gare03048;Ozoir-la-Ferrière;Seine-et-Marne;77.0;48.77072;2.689841;Ozoir-la-Ferrière
+316;TrainStation;Gare03054;Pavillons-sous-Bois;Seine-Saint-Denis;93.0;48.908159;2.517109;Gargan
+317;TrainStation;Gare03061;Fontenay-sous-Bois;Val-de-Marne;94.0;48.854238;2.489097;Val de Fontenay
+318;TrainStation;Gare03065;Gagny;Seine-Saint-Denis;93.0;48.883125;2.527106;Gagny
+319;TrainStation;Gare00002;Bondy;Seine-Saint-Denis;93.0;48.89317;2.487751;Remise à Jorelle
+320;TrainStation;Gare00753;Paris;Paris;75.0;48.844888;2.37352;Paris Gare de Lyon
+321;TrainStation;Gare00760;Souppes-sur-Loing;Seine-et-Marne;77.0;48.181907;2.734971;Souppes - Château-Landon
+322;TrainStation;Gare00795;Dammarie-les-Lys;Seine-et-Marne;77.0;48.5151115;2.5991469;Vosves
+323;TrainStation;Gare00798;Champagne-sur-Seine;Seine-et-Marne;77.0;48.406531;2.799184;Champagne-sur-Seine
+324;TrainStation;Gare00802;Chartrettes;Seine-et-Marne;77.0;48.4870771;2.6950059;Chartrettes
+325;TrainStation;Gare00803;Livry-sur-Seine;Seine-et-Marne;77.0;48.5104579;2.6788796;Livry-sur-Seine
+326;TrainStation;Gare00824;Coudray-Montceaux;Essonne;91.0;48.5735652;2.479586;Le Plessis Chenet
+327;TrainStation;Gare00833;Corbeil-Essonnes;Essonne;91.0;48.58626;2.47332;Moulin Galant
+328;TrainStation;Gare00839;Ris-Orangis;Essonne;91.0;48.63626;2.407736;Orangis Bois de l'Épine
+329;TrainStation;Gare01433;Paris;Paris;75.0;48.85348;2.34545;Saint-Michel Notre-Dame
+330;TrainStation;Gare01453;Arpajon;Essonne;91.0;48.58617;2.24112;Arpajon
+331;TrainStation;Gare01462;Juvisy-sur-Orge;Essonne;91.0;48.68917;2.38267;Juvisy-sur-Orge
+332;TrainStation;Gare01465;Sainte-Geneviève-des-Bois;Essonne;91.0;48.653245;2.313161;Sainte-Geneviève-des-Bois
+333;TrainStation;Gare01471;Chamarande;Essonne;91.0;48.514244;2.215854;Chamarande
+334;TrainStation;Gare01472;Étréchy;Essonne;91.0;48.493727;2.194323;Étréchy
+335;TrainStation;Gare01479;Paris;Paris;75.0;48.85645;2.275149;Boulainvilliers
+336;TrainStation;Gare01831;Bonnières-sur-Seine;Yvelines;78.0;49.038788;1.582205;Bonnières-sur-Seine
+337;TrainStation;Gare01949;Plaisir;Yvelines;78.0;48.8304565;1.9600537;Plaisir - Les Clayes
+338;TrainStation;Gare01957;Bièvres;Essonne;91.0;48.7513289;2.2157279;Bièvres
+339;TrainStation;Gare01969;Clayes-sous-Bois;Yvelines;78.0;48.8239168;1.9930652;Villepreux - Les Clayes
+340;TrainStation;Gare01980;Saint-Cyr-l'École;Yvelines;78.0;48.7990666;2.0733739;Saint-Cyr-l'École
+341;TrainStation;Gare01990;Issy-les-Moulineaux;Hauts-de-Seine;92.0;48.8201001;2.2593469;Issy-les-Moulineaux
+342;TrainStation;Gare01992;Paris;Paris;75.0;48.8551134;2.2892141;Champ de Mars Tour Eiffel
+343;TrainStation;Gare01999;Paris;Paris;75.0;48.841172;2.320514;Paris Montparnasse
+344;TrainStation;Gare02008;Aubergenville;Yvelines;78.0;48.971825;1.8484987;Aubergenville Élisabethville
+345;TrainStation;Gare02009;Mureaux;Yvelines;78.0;48.9927897;1.9129871;Les Mureaux
+346;TrainStation;Gare02015;Maisons-Laffitte;Yvelines;78.0;48.9456394;2.1443153;Maisons-Laffitte
+347;TrainStation;Gare02016;Sartrouville;Yvelines;78.0;48.9379523;2.1575173;Sartrouville
+348;TrainStation;Gare02018;Nanterre;Hauts-de-Seine;92.0;48.90122;2.2158277;Nanterre Université
+349;TrainStation;Gare02028;Saint-Germain-en-Laye;Yvelines;78.0;48.9032098;2.0733132;Saint-Germain-en-Laye Grande Ceinture
+350;TrainStation;Gare02035;Celle-Saint-Cloud;Yvelines;78.0;48.8542135;2.1323749;Bougival
+351;TrainStation;Gare02037;Puteaux;Hauts-de-Seine;92.0;48.88351;2.2335;Puteaux
+352;TrainStation;Gare02038;Suresnes;Hauts-de-Seine;92.0;48.87155;2.22131;Suresnes Mont Valérien
+353;TrainStation;Gare02044;Garches;Hauts-de-Seine;92.0;48.83839;2.18692;Garches - Marnes-la-Coquette
+354;TrainStation;Gare02045;Puteaux;Hauts-de-Seine;92.0;48.89308;2.23763;La Défense
+355;TrainStation;Gare02056;Vaux-sur-Seine;Yvelines;78.0;49.00699;1.96342;Vaux-sur-Seine
+356;TrainStation;Gare02057;Triel-sur-Seine;Yvelines;78.0;48.98099;2.00577;Triel-sur-Seine
+357;TrainStation;Gare02061;Mareil-sur-Mauldre;Yvelines;78.0;48.8936804;1.8715159;Mareil-sur-Mauldre
+358;TrainStation;Gare02066;Mantes-la-Jolie;Yvelines;78.0;48.98366;1.71581;Mantes Station
+359;TrainStation;Gare02068;Issou;Yvelines;78.0;48.97931;1.78532;Issou - Porcheville
+360;TrainStation;Gare02069;Gargenville;Yvelines;78.0;48.98318;1.8089;Gargenville
+361;TrainStation;Gare02074;Chanteloup-les-Vignes;Yvelines;78.0;48.97095;2.02771;Chanteloup-les-Vignes
+362;TrainStation;Gare02198;Neuville-sur-Oise;Val-d'Oise;95.0;49.01426;2.07886;Neuville Université
+363;TrainStation;Gare02199;Paris;Paris;75.0;48.82984;2.37684;Bibliothèque François Mitterrand
+364;TrainStation;Gare02459;Bessancourt;Val-d'Oise;95.0;49.03576;2.21004;Bessancourt
+365;TrainStation;Gare02464;Ermont;Val-d'Oise;95.0;48.99682;2.2588;Gros Noyer Saint-Prix
+366;TrainStation;Gare02466;Luzarches;Val-d'Oise;95.0;49.11719;2.42074;Luzarches
+367;TrainStation;Gare02470;Butry-sur-Oise;Val-d'Oise;95.0;49.09182;2.20238;Valmondois
+368;TrainStation;Gare02482;Ézanville;Val-d'Oise;95.0;49.02273;2.36325;Écouen - Ézanville
+369;TrainStation;Gare02483;Saint-Brice-sous-Forêt;Val-d'Oise;95.0;48.99529;2.36867;Sarcelles - Saint-Brice
+370;TrainStation;Gare02494;Louvres;Val-d'Oise;95.0;49.0496573;2.5018967;Louvres
+371;TrainStation;Gare02496;Goussainville;Val-d'Oise;95.0;49.03234;2.47633;Les Noues
+372;TrainStation;Gare02502;Saint-Gratien;Val-d'Oise;95.0;48.96403;2.28531;Saint-Gratien
+373;TrainStation;Gare02512;Ermont;Val-d'Oise;95.0;48.98539;2.2568;Cernay (Val-d'Oise)
+374;TrainStation;Gare02515;Enghien-les-Bains;Val-d'Oise;95.0;48.97309;2.30699;Enghien-les-Bains
+375;TrainStation;Gare02523;Compans;Seine-et-Marne;77.0;48.9915767;2.6652718;Compans
+376;TrainStation;Gare02538;Saint-Mard;Seine-et-Marne;77.0;49.03219;2.69887;Dammartin - Juilly - Saint-Mard
+377;TrainStation;Gare02539;Mitry-Mory;Seine-et-Marne;77.0;48.97569;2.64247;Mitry - Claye
+378;TrainStation;Gare02541;Roissy-en-France;Val-d'Oise;95.0;49.003652;2.570892;Aéroport Charles de Gaulle 2 TGV
+379;TrainStation;Gare02547;Villepinte;Seine-Saint-Denis;93.0;48.94467;2.5667;Vert Galant
+380;TrainStation;Gare02550;Drancy;Seine-Saint-Denis;93.0;48.93298;2.45497;Drancy
+381;TrainStation;Gare02551;Bourget;Seine-Saint-Denis;93.0;48.93096;2.42571;Le Bourget
+382;TrainStation;Gare02553;Saint-Ouen;Seine-Saint-Denis;93.0;48.90531;2.32257;Saint-Ouen
+383;TrainStation;Gare02557;Épinay-sur-Seine;Seine-Saint-Denis;93.0;48.9542084;2.3026142;Épinay-sur-Seine
+384;TrainStation;Gare03011;Crécy-la-Chapelle;Seine-et-Marne;77.0;48.8632544;2.8830418;Villiers Montbarbin
+385;TrainStation;Gare03012;Saint-Germain-sur-Morin;Seine-et-Marne;77.0;48.8830205;2.854057;Couilly - Saint-Germain - Quincy
+386;TrainStation;Gare03024;Ferté-sous-Jouarre;Seine-et-Marne;77.0;48.950741;3.125577;La Ferté-sous-Jouarre
+387;TrainStation;Gare03028;Esbly;Seine-et-Marne;77.0;48.90314191;2.81059946;Esbly
+388;TrainStation;Gare03034;Guérard;Seine-et-Marne;77.0;48.810588;2.954783;Guérard - La Celle-sur-Morin
+389;TrainStation;Gare03037;Tournan-en-Brie;Seine-et-Marne;77.0;48.7393088;2.75957134;Tournan-en-Brie
+390;TrainStation;Gare03040;Longueville;Seine-et-Marne;77.0;48.513703;3.249822;Longueville
+391;TrainStation;Gare03041;Chelles;Seine-et-Marne;77.0;48.874128;2.582484;Chelles - Gournay
+392;TrainStation;Gare03049;Gretz-Armainvilliers;Seine-et-Marne;77.0;48.74544;2.728824;Gretz-Armainvilliers
+393;TrainStation;Gare03050;Poigny;Seine-et-Marne;77.0;48.545567;3.287434;Champbenoist - Poigny
+394;TrainStation;Gare03052;Livry-Gargan;Seine-Saint-Denis;93.0;48.922211;2.516874;L'Abbaye
+395;TrainStation;Gare03058;Villiers-sur-Marne;Val-de-Marne;94.0;48.823039;2.541761;Villiers-sur-Marne - Le Plessis-Trévise
+396;TrainStation;Gare03059;Champigny-sur-Marne;Val-de-Marne;94.0;48.824926;2.511884;Les Boullereaux Champigny
+397;TrainStation;Gare03060;Nogent-sur-Marne;Val-de-Marne;94.0;48.838846;2.494331;Nogent - Le Perreux
+398;TrainStation;Gare03069;Pantin;Seine-Saint-Denis;93.0;48.898096;2.400685;Pantin

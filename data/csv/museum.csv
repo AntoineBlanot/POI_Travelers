@@ -1,0 +1,1222 @@
+;Identifiant Museofile;Adresse;Commune;Departement;Latitude;Longitude;Nom officiel du musee;Code Postal;Region administrative;Type
+0;M0967;3 rue Centrale;Lochieu;Ain;45.930633;5.727664;musee du Bugey-Valromey;1260.0;Auvergne-Rhone-Alpes;Museum
+1;M0964;34, rue General Delestraint;Bourg-en-Bresse;Ain;46.196543;5.219217;musees des pays de l'Ain;1000.0;Auvergne-Rhone-Alpes;Museum
+2;M0965;;Briord;Ain;45.781653;5.458569;musee de la societe d'histoire et d'archeologie;1470.0;Auvergne-Rhone-Alpes;Museum
+3;M0971;66 rue Marechal de Lattre-de-Tassigny;Pont-de-Vaux;Ain;46.430076;4.938125;musee Chintreuil;1190.0;Auvergne-Rhone-Alpes;Museum
+4;M0974;place de la Republique;Seyssel;Ain;45.959038;5.831489;musee du bois;1420.0;Auvergne-Rhone-Alpes;Museum
+5;M0966;Place de l'Eglise;Izernore;Ain;46.219853;5.555588;musee archeologique;1580.0;Auvergne-Rhone-Alpes;Museum
+6;M0968;3 montee de l'abbaye;Nantua;Ain;46.152378;5.608744;musee de la resistance et de la deportation de l'Ain;1130.0;Auvergne-Rhone-Alpes;Museum
+7;M0970;place du Tilleul;Perouges;Ain;45.903299;5.179502;musee du vieux Perouges;1800.0;Auvergne-Rhone-Alpes;Museum
+8;M0973;place Louis-Jourdan;Saint-Paul-de-Varax;Ain;46.098973;5.129264;musee Louis Jourdan;1240.0;Auvergne-Rhone-Alpes;Museum
+9;M0975;40 rue Principale;Treffort-Cuisiat;Ain;46.209952;5.243955;musee du Revermont;1000.0;Auvergne-Rhone-Alpes;Museum
+10;M1082;34 rue du General-Delestraint;Villars-les-Dombes;Ain;46.005784;5.032151;musee de la Dombes;1330.0;Auvergne-Rhone-Alpes;Museum
+11;M0963;63 boulevard de Brou;Bourg-en-Bresse;Ain;46.196549;5.236521;musee de Brou;1000.0;Auvergne-Rhone-Alpes;Museum
+12;M0969;Place Georges Pompidou;Oyonnax;Ain;46.26101938;5.648075547;musee du peigne et de la plasturgie;10100.0;Auvergne-Rhone-Alpes;Museum
+13;M0972;987 chemin des Seiglieres;Saint-Cyr-sur-Menthon;Ain;46.282489;4.986729;musee de la Bresse - domaine des Planons;1380.0;Auvergne-Rhone-Alpes;Museum
+14;M0109;16, avenue Thermale;Vichy;Allier;46.128104;3.419803;musee des arts africains et asiatiques (maison du missionnaire);3200.0;Auvergne-Rhone-Alpes;Museum
+15;M0108;place Aristide Briand;Souvigny;Allier;46.534866;3.192356;musee Saint-Marc;3210.0;Auvergne-Rhone-Alpes;Museum
+16;M0101;11 route du donjon;Beaulon;Allier;46.466871;3.748142;musee rural de la Sologne bourbonnaise;3470.0;Auvergne-Rhone-Alpes;Museum
+17;M0103;Esplanade Pierre Roch Jurien de la Graviere;Gannat;Allier;46.10177624;3.196513714;musee municipal;3800.0;Auvergne-Rhone-Alpes;Museum
+18;M0104;3 rue Notre Dame;Montlu�on;Allier;46.341009;2.605724;musee des musiques populaires (vieux chateau);3100.0;Auvergne-Rhone-Alpes;Museum
+19;M0102;5 rue Charles-Louis-Philippe;Cerilly;Allier;46.617913;2.823245;musee Charles-Louis Philippe;3350.0;Auvergne-Rhone-Alpes;Museum
+20;M0106;Pavillon Anne de Beaujeu. Place du Colonel Laussedat;Moulins;Allier;46.56707;3.331218;musee Anne de Beaujeu;3000.0;Auvergne-Rhone-Alpes;Museum
+21;M0107;4, rue Monthyon;Neris-les-Bains;Allier;46.287552;2.662598;musee gallo-romain;3310.0;Auvergne-Rhone-Alpes;Museum
+22;M5083;Quartier Villars;Moulins-sur-Allier;Allier;46.560973;3.335798;Centre national du costume de scene et de la scenographie;3000.0;Auvergne-Rhone-Alpes;Museum
+23;M0979;154 rue Auguste Vincent;Serrieres;Ardeche;45.317802;4.763253;musee de la batellerie du Rhone;7340.0;Auvergne-Rhone-Alpes;Museum
+24;M7058;2 place des Recollets;Privas;Ardeche;44.735836;4.594922;musee de la terre ardechoise;7000.0;Auvergne-Rhone-Alpes;Museum
+25;M0978;Site de l'aven d'Orgnac;Orgnac-l'Aven;Ardeche;44.310413;4.425665;Cite de prehistoire;7150.0;Auvergne-Rhone-Alpes;Museum
+26;M0981;14, place Auguste Faure;Tournon-sur-Rhone;Ardeche;45.067938;4.831838;musee du Rhone;7300.0;Auvergne-Rhone-Alpes;Museum
+27;M0976;15 rue Jean-Baptiste Bechetoille;Annonay;Ardeche;45.240803;4.668129;musee vivarois Cesar Filhol;7100.0;Auvergne-Rhone-Alpes;Museum
+28;M0980;Place de la deesse So�o;Soyons;Ardeche;44.887803;4.850777;musee archeologique;7130.0;Auvergne-Rhone-Alpes;Museum
+29;M0977;;Les Vans;Ardeche;44.404332;4.131418;musee regional;7140.0;Auvergne-Rhone-Alpes;Museum
+30;M1174;Quartier St Pierre - RD 107;Alba-la-Romaine;Ardeche;44.561507;4.592008;museAL musee departemental archeologique;7400.0;Auvergne-Rhone-Alpes;Museum
+31;M0114;17, place d'Armes;Saint-Flour;Cantal;45.034016;3.095067;musee Alfred Dou�t;15100.0;Auvergne-Rhone-Alpes;Museum
+32;M7018;Chateau Saint-Etienne;Aurillac;Cantal;44.932919;2.444912;musee des sciences;15000.0;Auvergne-Rhone-Alpes;Museum
+33;M0110;37 rue des Carmes;Aurillac;Cantal;44.925394;2.441947;musee d'art et d'archeologie;15000.0;Auvergne-Rhone-Alpes;Museum
+34;M0112;Bureau de tourisme;Ruynes-en-Margeride;Cantal;45.000522;3.224427;ecomusee de la Margeride;15320.0;Auvergne-Rhone-Alpes;Museum
+35;M0113;24 rue Sorel, apt 9;Saint-Flour;Cantal;45.0343;3.092979;musee de la Haute Auvergne;15100.0;Auvergne-Rhone-Alpes;Museum
+36;M0987;Place Castellane;Saint-Paul-Trois-Chateaux;Drome;44.349149;4.768163;musee archeologique;26130.0;Auvergne-Rhone-Alpes;Museum
+37;M0983;Le village;Grignan;Drome;44.439013;4.873189;musee departemental du chateau;26230.0;Auvergne-Rhone-Alpes;Museum
+38;M0986;Rue Bistour;Romans;Drome;45.0431;5.055376;musee de la chaussure;26100.0;Auvergne-Rhone-Alpes;Museum
+39;M0982;11 rue Camille Buffardel;Die;Drome;44.75504;5.369785;musee d'histoire et d'archeologie;26150.0;Auvergne-Rhone-Alpes;Museum
+40;M0984;19 rue Pierre Julien;Montelimar;Drome;44.556294;4.750056;musee du chateau des Adhemar;26200.0;Auvergne-Rhone-Alpes;Museum
+41;M0985;5 place Elisee Monteil;Mours-Saint-Eusebe;Drome;45.07091;5.052549;musee d'art sacre;26540.0;Auvergne-Rhone-Alpes;Museum
+42;M0988;4 place des Ormeaux;Valence;Drome;44.931125;4.889563;musee des beaux-arts;26000.0;Auvergne-Rhone-Alpes;Museum
+43;M0989;L'Hale;Vassieux-en-Vercors;Drome;44.865703;5.357302;musee du site prehistorique;26420.0;Auvergne-Rhone-Alpes;Museum
+44;M0117;14 Avenue de la Gare;Retournac;Haute-Loire;45.202566;4.035268;musee des manufactures de dentelles;43130.0;Auvergne-Rhone-Alpes;Museum
+45;M0118;;Saint-Arcons-d'Allier;Haute-Loire;45.067807;3.548896;musee de la ferblanterie;43300.0;Auvergne-Rhone-Alpes;Museum
+46;M0116;Jardin Henri Vinay;Le Puy-en-Velay;Haute-Loire;45.03866738;3.883456073;musee Crozatier;43000.0;Auvergne-Rhone-Alpes;Museum
+47;M7031;Place de l'Eglise;Chilhac;Haute-Loire;45.148133;3.402324;musee de paleontologie;43380.0;Auvergne-Rhone-Alpes;Museum
+48;M0115;Musee ATP;Lavaudieu;Haute-Loire;45.275033;3.434883;musee des arts et traditions populaires;43100.0;Auvergne-Rhone-Alpes;Museum
+49;M1053;89 avenue Michel Croz;Chamonix;Haute-Savoie;45.923429;6.871049;musee alpin;74400.0;Auvergne-Rhone-Alpes;Museum
+50;M1056;2 rue Blanche;Thones;Haute-Savoie;45.881618;6.324161;musee des Vallees de Thones;74230.0;Auvergne-Rhone-Alpes;Museum
+51;M1054;60 allee du chateau;Lovagny;Haute-Savoie;45.89818;6.040579;musee Leon Mares;74330.0;Auvergne-Rhone-Alpes;Museum
+52;M1055;5 Place de la Manufacture;Rumilly;Haute-Savoie;45.861683;5.947732;musee de Rumilly et de l'Albanais;74150.0;Auvergne-Rhone-Alpes;Museum
+53;M1057;Square Eberbach;Thonon-les-Bains;Haute-Savoie;46.37487;6.48177;musee du Chablais;74200.0;Auvergne-Rhone-Alpes;Museum
+54;M1052;Place du chateau;Annecy;Haute-Savoie;45.897263;6.124916;musee-chateau;74000.0;Auvergne-Rhone-Alpes;Museum
+55;M0990;43 place du musee;Aoste;Isere;45.587605;5.60661;musee des antiquites gallo-romaines;38490.0;Auvergne-Rhone-Alpes;Museum
+56;M0995;20 Grande Rue;Grenoble;Isere;45.191481;5.728083;musee Stendhal;38000.0;Auvergne-Rhone-Alpes;Museum
+57;M0999;place de l'Eglise;Hieres-sur-Ambly;Isere;45.797246;5.292625;maison du patrimoine;38118.0;Auvergne-Rhone-Alpes;Museum
+58;M1006;place Saint-Pierre;Vienne;Isere;45.523234;4.870694;musee lapidaire Saint-Pierre;38200.0;Auvergne-Rhone-Alpes;Museum
+59;M1007;place du Jeu de Paume;Vienne;Isere;45.526967;4.873538;musee du cloitre Saint-Andre-le-Bas;38200.0;Auvergne-Rhone-Alpes;Museum
+60;M0992;1 rue Geo-Charles;Echirolles;Isere;45.14935;5.699614;musee Geo-Charles;38130.0;Auvergne-Rhone-Alpes;Museum
+61;M0997;place Saint-Laurent;Grenoble;Isere;45.19778;5.731922;musee Saint-Laurent;38000.0;Auvergne-Rhone-Alpes;Museum
+62;M1123;Parc des Forges;Allevard-les-Bains;Isere;45.39254316;6.077135438;musee Jadis Allevard;38580.0;Auvergne-Rhone-Alpes;Museum
+63;M7038;1 rue Dolomieu;Grenoble;Isere;45.188059;5.735163;museum d'histoire naturelle;38000.0;Auvergne-Rhone-Alpes;Museum
+64;M0993;Route du Lac, le Verney;Grand'Maison;Isere;45.147612;6.049634;conservatoire-musee des industries hydroelectriques;38114.0;Auvergne-Rhone-Alpes;Museum
+65;M0994;5 place Lavalette;Grenoble;Isere;45.194026;5.732094;musee de Grenoble;38000.0;Auvergne-Rhone-Alpes;Museum
+66;M1001;69 rue de La Republique;La Cote-Saint-Andre;Isere;45.393386;5.261189;musee Hector Berlioz;38260.0;Auvergne-Rhone-Alpes;Museum
+67;M0991;17 rue Victor Hugo;Bourgoin-Jallieu;Isere;45.586588;5.279159;musee de Bourgoin-Jallieu;38300.0;Auvergne-Rhone-Alpes;Museum
+68;M0998;14 rue Hebert;Grenoble;Isere;45.190041;5.735245;musee de la resistance et de la deportation;38000.0;Auvergne-Rhone-Alpes;Museum
+69;M1002;Rue du Colonel Escallon;La Mure;Isere;44.904362;5.784427;musee du pays matheysin;38350.0;Auvergne-Rhone-Alpes;Museum
+70;M1137;7 place Leon Chaloin;Voiron;Isere;45.356047;5.579652;musee Mainssieux;38500.0;Auvergne-Rhone-Alpes;Museum
+71;M0996;30 rue Maurice Gignoux;Grenoble;Isere;45.19518754;5.726944536;musee dauphinois;38031.0;Auvergne-Rhone-Alpes;Museum
+72;M1000;;L'Alpe-d'Huez;Isere;45.087019;6.068988;maison du patrimoine de l'Oisans;38750.0;Auvergne-Rhone-Alpes;Museum
+73;M1003;Chemin Hebert;La Tronche;Isere;45.205613;5.751334;musee Hebert - d'Uckermann;38700.0;Auvergne-Rhone-Alpes;Museum
+74;M1004;;Saint-Pierre-de-Chartreuse;Isere;45.341728;5.814737;musee de la Grande Chartreuse;38380.0;Auvergne-Rhone-Alpes;Museum
+75;M1005;place de Miremont;Vienne;Isere;45.524069;4.87462;musee des beaux-arts et d'archeologie;38200.0;Auvergne-Rhone-Alpes;Museum
+76;M1008;Domaine de Vizille;Vizille;Isere;45.08753;5.773234;musee departemental de la Revolution fran�aise;38220.0;Auvergne-Rhone-Alpes;Museum
+77;M1187;Place de l'eglise;Montferrat (Charavines);Isere;45.428526;5.51555;musee-parc archeologique du lac de Paladru;38850.0;Auvergne-Rhone-Alpes;Museum
+78;M1212;;Vif;Isere;45.050408;5.6692;musee Champollion;38450.0;Auvergne-Rhone-Alpes;Museum
+79;M1013;456 route du musee;Estivareilles;Loire;45.415906;4.010414;musee de l'armee secrete et de la resistance;42380.0;Auvergne-Rhone-Alpes;Museum
+80;M1020;22 rue Anatole France;Roanne;Loire;46.034953;4.069842;musee Joseph Dechelette;42300.0;Auvergne-Rhone-Alpes;Museum
+81;M1023;2 Place Comte;Saint-Etienne;Loire;45.431538;4.387485;musee d'art et d'industrie;42000.0;Auvergne-Rhone-Alpes;Museum
+82;M1024;La Terrasse;Saint-Etienne;Loire;45.46964794;4.374526863;musee d'art moderne et contemporain de Saint-Etienne Metropole - musee d'art moderne;42006.0;Auvergne-Rhone-Alpes;Museum
+83;M1027;place de l'Hotel de Ville;Saint-Germain-Laval;Loire;45.830168;4.010608;musee municipal;42260.0;Auvergne-Rhone-Alpes;Museum
+84;M1012;31 rue Martouret;Chazelles-sur-Lyon;Loire;45.638304;4.394089;musee du chapeau;42140.0;Auvergne-Rhone-Alpes;Museum
+85;M1029;Quartier Saint-Joseph Place Alex Folleas;Usson-en-Forez;Loire;45.392445;3.943885;musee rural;42550.0;Auvergne-Rhone-Alpes;Museum
+86;M1009;89 rue de la Grye;Ambierle;Loire;46.105434;3.896167;musee Alice Taverne;42820.0;Auvergne-Rhone-Alpes;Museum
+87;M1011;9 boulevard du General Leclerc;Charlieu;Loire;46.160301;4.17052;musee hospitalier;42190.0;Auvergne-Rhone-Alpes;Museum
+88;M1010;9 Boulevard Leclerc;Charlieu;Loire;46.160301;4.17052;musee de la soierie;42190.0;Auvergne-Rhone-Alpes;Museum
+89;M1014;3 rue Victor de Laprade;Feurs;Loire;45.744191;4.219803;musee de Feurs;42110.0;Auvergne-Rhone-Alpes;Museum
+90;M1017;Rue Florimont Robertet;Montbrison;Loire;45.60543;4.066822;musee de la Diana;42600.0;Auvergne-Rhone-Alpes;Museum
+91;M1025;3 Boulevard Franchet d'Esperey;Saint-Etienne;Loire;45.438944;4.376487;musee de la mine;42000.0;Auvergne-Rhone-Alpes;Museum
+92;M1016;13 boulevard de la Prefecture;Montbrison;Loire;45.608241;4.06195;musee d'Allard;42600.0;Auvergne-Rhone-Alpes;Museum
+93;M1018;Vieux village;Pommiers-en-Forez;Loire;45.830522;4.104776;musee du vieux Pommiers;42260.0;Auvergne-Rhone-Alpes;Museum
+94;M1026;1061 route de la Batie d'Urfe;Saint-Etienne-le-Molard;Loire;45.728472;4.078512;chateau de la Bastie d'Urfe;42130.0;Auvergne-Rhone-Alpes;Museum
+95;M1028;Place Madeleine Rousseau;Saint-Just-Saint-Rambert;Loire;45.500657;4.242057;musee des civilisations : Daniel Pouget;42170.0;Auvergne-Rhone-Alpes;Museum
+96;M0128;10 bis rue Delille;Riom;Puy-de-Dome;45.895037;3.116254;musee regional d'Auvergne;63200.0;Auvergne-Rhone-Alpes;Museum
+97;M0130;2 rue des Ecoles;Volvic;Puy-de-Dome;45.872614;3.038881;musee Marcel Sahut;63530.0;Auvergne-Rhone-Alpes;Museum
+98;M0121;Place Louis Deteix;Clermont-Ferrand;Puy-de-Dome;45.793027;3.07827;musee d'art Roger-Quillot;63100.0;Auvergne-Rhone-Alpes;Museum
+99;M0123;39, rue de la Republique;Lezoux;Puy-de-Dome;45.827628;3.383654;musee de ceramique gallo-romaine;63190.0;Auvergne-Rhone-Alpes;Museum
+100;M0124;place de l'Eglise;Marsac-en-Livradois;Puy-de-Dome;45.478967;3.728534;musee des penitents blancs;63940.0;Auvergne-Rhone-Alpes;Museum
+101;M0126;Chateau de Murol;Murol;Puy-de-Dome;45.590429;2.921508;musee municipal;63790.0;Auvergne-Rhone-Alpes;Museum
+102;M0127;14, rue de l'Hotel de ville;Riom;Puy-de-Dome;45.893874;3.116508;musee Francisque Mandet;63200.0;Auvergne-Rhone-Alpes;Museum
+103;M0129;58 rue de la Coutellerie;Thiers;Puy-de-Dome;45.852318;3.548029;musee municipal de la coutellerie;63300.0;Auvergne-Rhone-Alpes;Museum
+104;M0125;place de l'Abbaye;Mozac;Puy-de-Dome;45.892133;3.094609;musee lapidaire;63200.0;Auvergne-Rhone-Alpes;Museum
+105;M7032;15, rue Bardoux;Clermont-Ferrand;Puy-de-Dome;45.774138;3.088299;museum d'histoire naturelle Lecoq;63000.0;Auvergne-Rhone-Alpes;Museum
+106;M7045;Place de la Mairie;Menat;Puy-de-Dome;46.103652;2.904431;musee paleontologique;63560.0;Auvergne-Rhone-Alpes;Museum
+107;M0119;53 route nationale;Arlanc;Puy-de-Dome;45.414373;3.724421;musee de la dentelle;63220.0;Auvergne-Rhone-Alpes;Museum
+108;M0120;45, rue Ballainvilliers;Clermont-Ferrand;Puy-de-Dome;45.774229;3.0869;musee Bargoin;63000.0;Auvergne-Rhone-Alpes;Museum
+109;M1031;20 place des Terreaux;Lyon;Rhone;45.767177;4.833576;musee des beaux-arts;69001.0;Auvergne-Rhone-Alpes;Museum
+110;M1032;1 place du Petit College;Lyon;Rhone;45.763856;4.827749;musee Gadagne;69005.0;Auvergne-Rhone-Alpes;Museum
+111;M1034;14 avenue Berthelot;Lyon;Rhone;45.747037;4.835797;centre d'histoire de la resistance;69007.0;Auvergne-Rhone-Alpes;Museum
+112;M1036;17 rue Cleberg;Lyon;Rhone;45.760529;4.82004;Lugdunum, musee et theatres romains;69005.0;Auvergne-Rhone-Alpes;Museum
+113;M1038;34, rue de la Charite;Lyon;Rhone;45.753117;4.831633;musee historique des tissus;69002.0;Auvergne-Rhone-Alpes;Museum
+114;M1039;3 quai des Celestins;Lyon;Rhone;45.760912;4.831492;musee des hospices civils de Lyon;69002.0;Auvergne-Rhone-Alpes;Museum
+115;M1040;645 rue du Musee 69270 Rochetaillee sur Saone;Rochetaille-sur-Saone;Rhone;45.84492;4.837207;musee Henri Malartre;69270.0;Auvergne-Rhone-Alpes;Museum
+116;M1140;Place de l'Hotel de Ville;Amplepuis;Rhone;45.972502;4.331417;musee Barthelemy-Thimonier;69550.0;Auvergne-Rhone-Alpes;Museum
+117;M7042;86 quai Perrache;Lyon;Rhone;45.73319;4.818042;musee des Confluences;69002.0;Auvergne-Rhone-Alpes;Museum
+118;M1033;quai Charles de Gaulle;Lyon;Rhone;45.784864;4.852921;musee d'art contemporain;69006.0;Auvergne-Rhone-Alpes;Museum
+119;M1128;358 avenue de Champagne;Lyon;Rhone;45.790491;4.797411;musee des sapeurs-pompiers de Lyon;69009.0;Auvergne-Rhone-Alpes;Museum
+120;M1127;13 rue de la Poulaillerie;Lyon;Rhone;45.764219;4.834752;musee de l'imprimerie et de la communication graphique;69002.0;Auvergne-Rhone-Alpes;Museum
+121;M7042;86 quai Perrache;Lyon;Rhone;45.73319;4.818042;musee Guimet;69002.0;Auvergne-Rhone-Alpes;Museum
+122;M1030;Place de l'Hotel de Ville;Beaujeu;Rhone;46.154524;4.587482;musee folklorique et des traditions populaires;69430.0;Auvergne-Rhone-Alpes;Museum
+123;M1037;34 rue de la charite;Lyon;Rhone;45.75342;4.83153;musee des arts decoratifs;69002.0;Auvergne-Rhone-Alpes;Museum
+124;M1041;2 Place Faubert;Villefranche-sur-Saone;Rhone;45.990936;4.721527;musee Paul Dini;69400.0;Auvergne-Rhone-Alpes;Museum
+125;M1156;RD 502;Saint-Romain-en-Gal;Rhone;45.52955632679911;4.8731588394774645;musee archeologique;69483.0;Auvergne-Rhone-Alpes;Museum
+126;M1185;570 chemin des pierres plantees;Marnand;Rhone;46.037849;4.315548;ecomusee du Haut Beaujolais;69240.0;Auvergne-Rhone-Alpes;Museum
+127;M7042;86 quai Perrache;Lyon;Rhone;45.73319;4.818042;museum d'histoire naturelle;69002.0;Auvergne-Rhone-Alpes;Museum
+128;M1046;Grande place Conflans;Albertville;Savoie;45.670787;6.397471;musee municipal d'Albertville-Conflans;73200.0;Auvergne-Rhone-Alpes;Museum
+129;M1047;Hauteville-Gondon;Bourg-Saint-Maurice;Savoie;45.597053;6.760997;musee du costume;73700.0;Auvergne-Rhone-Alpes;Museum
+130;M1048;place du Palais de Justice;Chambery;Savoie;45.567896;5.919306;musee des beaux-arts;73000.0;Auvergne-Rhone-Alpes;Museum
+131;M1050;Square de Lannoy de Bissy;Chambery;Savoie;45.571174;5.875158;musee Savoisien;73000.0;Auvergne-Rhone-Alpes;Museum
+132;M1051;23 place Saint-Pierre;Moutiers;Savoie;45.483424;6.532778;musee de l'academie de la Val d'Isere;73600.0;Auvergne-Rhone-Alpes;Museum
+133;M1044;Place Maurice Mollard;Aix-les-Bains;Savoie;45.68863383;5.915600925;musee archeologique;73103.0;Auvergne-Rhone-Alpes;Museum
+134;M1049;890 Chemin des Charmettes;Chambery;Savoie;45.552732;5.93011;musee des Charmettes;73000.0;Auvergne-Rhone-Alpes;Museum
+135;M7029;208 avenue de Lyon;Chambery;Savoie;45.563911;5.916266;museum d'histoire naturelle;73000.0;Auvergne-Rhone-Alpes;Museum
+136;M1043;Montee de Saint Sigismond - Aime;Aime-en-Tarentaise;Savoie;45.559416;6.651415;musee archeologique et mineralogique Pierre Borrione;73210.0;Auvergne-Rhone-Alpes;Museum
+137;M1045;10 boulevard des Cotes;Aix-les-Bains;Savoie;45.692157;5.915578;musee du docteur Faure;73100.0;Auvergne-Rhone-Alpes;Museum
+138;M0131;1 route des Trois Ormeaux;Alise-Sainte-Reine;Cote-d'Or;47.536592;4.469595;musee Alesia - centre d'interpretation;21150.0;Bourgogne-Franche-Comte;Museum
+139;M0133;Rue d'Enfer - Rue Paradis;Beaune;Cote-d'Or;47.023618;4.837574;musee du vin de Bourgogne;21200.0;Bourgogne-Franche-Comte;Museum
+140;M0135;La Grande Forge;Buffon;Cote-d'Or;47.649485;4.260891;musee de la siderurgie en Bourgogne du Nord;21500.0;Bourgogne-Franche-Comte;Museum
+141;M0137;1 place de la Ste Chapelle;Dijon;Cote-d'Or;47.321356;5.042873;musee des beaux-arts;21000.0;Bourgogne-Franche-Comte;Museum
+142;M0147;3 Rue Jean-Jacques Collenot;Semur-en-Auxois;Cote-d'Or;47.490137;4.336452;musee municipal;21140.0;Bourgogne-Franche-Comte;Museum
+143;M1208;15 rue Sainte-Anne;Dijon;Cote-d'Or;47.317559;5.037282;musee d'art sacre;21000.0;Bourgogne-Franche-Comte;Museum
+144;M7035;Parc de l'Arquebuse 1 avenue Albert 1er et 14 rue Jehan de Marville;Dijon;Cote-d'Or;47.322357;5.025636;museum d'histoire naturelle;21000.0;Bourgogne-Franche-Comte;Museum
+145;M0134;6 boulevard Perpreuil - 19 rue Poterne;Beaune;Cote-d'Or;47.02097;4.839393;musee des beaux-arts;21200.0;Bourgogne-Franche-Comte;Museum
+146;M0143;rue du Parc Buffon;Montbard;Cote-d'Or;47.62578588;4.336985936;musee Buffon;21506.0;Bourgogne-Franche-Comte;Museum
+147;M0136;14 Rue de la Liberation;Chatillon-sur-Seine;Cote-d'Or;47.863791;4.574632;musee du Chatillonnais;21400.0;Bourgogne-Franche-Comte;Museum
+148;M0139;17 rue Sainte-Anne;Dijon;Cote-d'Or;47.317415;5.037131;musee de la vie bourguignonne;21000.0;Bourgogne-Franche-Comte;Museum
+149;M0141;Parc Noisot;Fixin;Cote-d'Or;47.245363;4.962515;musee Noisot;21220.0;Bourgogne-Franche-Comte;Museum
+150;M0146;3, place du docteur Roclore;Saulieu;Cote-d'Or;47.279459;4.229714;musee Fran�ois Pompon;21210.0;Bourgogne-Franche-Comte;Museum
+151;M0140;8, rue Vaillant;Dijon;Cote-d'Or;47.32122;5.043978;musee Rude;21000.0;Bourgogne-Franche-Comte;Museum
+152;M1206;6 boulevard Perpreuil - 19 rue Poterne;Beaune;Cote-d'Or;47.02097;4.839393;musee Marey;21200.0;Bourgogne-Franche-Comte;Museum
+153;M5011;4, rue des Bons-Enfants;Dijon;Cote-d'Or;47.320958;5.042189;musee national Magnin;21000.0;Bourgogne-Franche-Comte;Museum
+154;M0132;Rue du Chateau;Auxonne;Cote-d'Or;47.190963;5.383768;musee Bonaparte;21130.0;Bourgogne-Franche-Comte;Museum
+155;M0138;5, rue Docteur Maret;Dijon;Cote-d'Or;47.321873;5.034107;musee archeologique;21000.0;Bourgogne-Franche-Comte;Museum
+156;M0142;rue Piron;Montbard;Cote-d'Or;47.624491;4.336901;musee des beaux-arts;21500.0;Bourgogne-Franche-Comte;Museum
+157;M0144;12, rue Camille Rodier;Nuits-Saint-Georges;Cote-d'Or;47.138661;4.950405;musee municipal;21700.0;Bourgogne-Franche-Comte;Museum
+158;M0145;Place de la Fontaine;Reulle-Vergy;Cote-d'Or;47.187026;4.895293;musee des arts et traditions des Hautes-Cotes;21220.0;Bourgogne-Franche-Comte;Museum
+159;M0332;1 place de la Revolution - Place du marche;Besan�on;Doubs;47.240055;6.022938;musee des beaux-arts et d'archeologie;25000.0;Bourgogne-Franche-Comte;Museum
+160;M0338;rue du musee;Nancray;Doubs;47.242984;6.18963;musee de plein air des maisons comtoises;25360.0;Bourgogne-Franche-Comte;Museum
+161;M0340;2 place d'Ar�on;Pontarlier;Doubs;46.904221;6.354581;musee municipal;25300.0;Bourgogne-Franche-Comte;Museum
+162;M0334;2, rue Megevand;Besan�on;Doubs;47.236687;6.022095;musee comtois;25000.0;Bourgogne-Franche-Comte;Museum
+163;M0335;99 rue des Fusilles;Besan�on;Doubs;47.22933848;6.035236609;musee de la resistance et de la deportation;25042.0;Bourgogne-Franche-Comte;Museum
+164;M0337;Cour du Chateau;Montbeliard;Doubs;47.5095298;6.800857556;musee du chateau;25205.0;Bourgogne-Franche-Comte;Museum
+165;M7011;2, rue Megevand;Besan�on;Doubs;47.236687;6.022095;museum d'histoire naturelle;25000.0;Bourgogne-Franche-Comte;Museum
+166;M0339;Place Robert Fernier;Ornans;Doubs;47.104874;6.147697;musee Gustave Courbet;25290.0;Bourgogne-Franche-Comte;Museum
+167;M0333;96 Grande rue;Besan�on;Doubs;47.235978;6.0268;musee du temps;25000.0;Bourgogne-Franche-Comte;Museum
+168;M0336;8 place Saint-Martin;Montbeliard;Doubs;47.509957;6.797684;musee Beurnier-Rossel;25200.0;Bourgogne-Franche-Comte;Museum
+169;M0357;6 rue Pigalle;Gray;Haute-Saone;47.446411;5.592781;musee Baron Martin;70100.0;Bourgogne-Franche-Comte;Museum
+170;M0354;Chateau de Champlitte;Champlitte;Haute-Saone;47.617066;5.517093;musee departemental Albert Demard;70600.0;Bourgogne-Franche-Comte;Museum
+171;M0356;206, le Petit Fahys;Fougerolles;Haute-Saone;47.90731793;6.400821913;ecomusee du pays de la cerise;70220.0;Bourgogne-Franche-Comte;Museum
+172;M0355;3 place du 19 mars 1962;Chateau-Lambert;Haute-Saone;47.836247;6.734944;musee departemental de la montagne Albert Demard;70440.0;Bourgogne-Franche-Comte;Museum
+173;M0358;36, rue Victor-Genoux;Luxeuil-les-Bains;Haute-Saone;47.816821;6.380482;musee de la Tour des echevins;70300.0;Bourgogne-Franche-Comte;Museum
+174;M0359;1 rue des Ursulines;Vesoul;Haute-Saone;47.623695;6.155771;musee municipal Georges Garret;70000.0;Bourgogne-Franche-Comte;Museum
+175;M0348;5 rue du Murgin;Moirans-en-Montagne;Jura;46.433004;5.726307;musee du jouet;39260.0;Bourgogne-Franche-Comte;Museum
+176;M0351;49 grande rue;Poligny;Jura;46.836426;5.708802;musee municipal;39800.0;Bourgogne-Franche-Comte;Museum
+177;M0353;3 Place des Salines;Salins-les-Bains;Jura;46.937242;5.876684;Musee de la Grande Saline;39110.0;Bourgogne-Franche-Comte;Museum
+178;M0344;26 rue Baronne-Delort;Champagnole;Jura;46.74651;5.907547;musee municipal d'archeologie;39300.0;Bourgogne-Franche-Comte;Museum
+179;M0347;85 rue des Arenes;Dole;Jura;47.089059;5.488205;musee des beaux-arts et d'archeologie;39100.0;Bourgogne-Franche-Comte;Museum
+180;M0350;Place Jean Jaures;Morez;Jura;46.521;6.022578;Viseum-musee de la lunette (collections du musee de la lunette et du musee Jourdain);39400.0;Bourgogne-Franche-Comte;Museum
+181;M1169;3 place de l'abbaye;Saint-Claude;Jura;46.386209;5.865239;musee de beaux-arts;39200.0;Bourgogne-Franche-Comte;Museum
+182;M0341;9 Grande rue;Arbois;Jura;46.902604;5.774717;musee Sarret de Grozon;39600.0;Bourgogne-Franche-Comte;Museum
+183;M0343;22 Rue de l'Abbaye;Baume-les-Messieurs;Jura;46.70795;5.648585;musee de l'artisanat jurassien;39210.0;Bourgogne-Franche-Comte;Museum
+184;M0345;place Philibert de Chalon;Lons-le-Saunier;Jura;46.675861;5.553907;musee des beaux-arts;39000.0;Bourgogne-Franche-Comte;Museum
+185;M0342;;Arbois;Jura;46.902412;5.773686;musee de la vigne et du vin;39600.0;Bourgogne-Franche-Comte;Museum
+186;M0346;133 rue Rene Maire;Lons-le-Saunier;Jura;46.684566;5.579336;musee d'archeologie;39000.0;Bourgogne-Franche-Comte;Museum
+187;M0149;6, rue du Chateau;Chateau-Chinon;Nievre;47.06721;3.934311;musee du Septennat;58120.0;Bourgogne-Franche-Comte;Museum
+188;M0151;place de La Resistance;Cosne-Cours-sur-Loire;Nievre;47.410548;2.922768;musee de la Loire;58200.0;Bourgogne-Franche-Comte;Museum
+189;M0155;16, rue St-Genest;Nevers;Nievre;46.98629;3.155037;musee de la fa�ence Frederic Blandin;58000.0;Bourgogne-Franche-Comte;Museum
+190;M0150;Avenue de la Republique;Clamecy;Nievre;47.460604;3.520823;musee d'art et d'histoire Romain Rolland;58500.0;Bourgogne-Franche-Comte;Museum
+191;M0152;8 cour du Chateau;La Charite-sur-Loire;Nievre;47.178081;3.016449;musee municipal;58400.0;Bourgogne-Franche-Comte;Museum
+192;M0158;Grande rue;Saint-Amand-en-Puysance;Nievre;47.529775;3.07388;musee du gres;58310.0;Bourgogne-Franche-Comte;Museum
+193;M0157;17, quai Jules-Pabiot;Pouilly-sur-Loire;Nievre;47.285947;2.949487;musee Ernest Guedon;58150.0;Bourgogne-Franche-Comte;Museum
+194;M0159;Place de la Mairie;Varzy;Nievre;47.357394;3.386114;musee Auguste Grasset;58210.0;Bourgogne-Franche-Comte;Museum
+195;M0148;6, rue du Chateau;Chateau-Chinon;Nievre;47.06721;3.934311;musee du costume;58120.0;Bourgogne-Franche-Comte;Museum
+196;M0153;1 avenue de La Republique;La Machine;Nievre;46.889225;3.463514;musee de la mine;58260.0;Bourgogne-Franche-Comte;Museum
+197;M0156;Rue de la Porte-du-Croux;Nevers;Nievre;46.986949;3.154223;musee archeologique de la porte du Croux;58000.0;Bourgogne-Franche-Comte;Museum
+198;M0163;34, rue du Bois-Clair;Blanzy;Saone-et-Loire;46.701488;4.382962;musee de la mine et des hommes;71450.0;Bourgogne-Franche-Comte;Museum
+199;M0175;;Paray-le-Monial;Saone-et-Loire;46.450396;4.119117;musee municipal;71600.0;Bourgogne-Franche-Comte;Museum
+200;M0179;Place de l'Eglise;Romenay;Saone-et-Loire;46.503251;5.067591;musee du terroir;71470.0;Bourgogne-Franche-Comte;Museum
+201;M7019;12-14, rue Saint-Antoine;Autun;Saone-et-Loire;46.947996;4.301812;museum d'histoire naturelle;71400.0;Bourgogne-Franche-Comte;Museum
+202;M0166;28, quai des Messageries;Chalon-sur-Saone;Saone-et-Loire;46.780045;4.855727;musee Nicephore Niepce;71100.0;Bourgogne-Franche-Comte;Museum
+203;M0168;4 rue du Prieure;Charolles;Saone-et-Loire;46.432412;4.279872;musee du Prieure Jean Laronze;71120.0;Bourgogne-Franche-Comte;Museum
+204;M0173;5, rue de la Prefecture;Macon;Saone-et-Loire;46.307508;4.833156;musee Lamartine;71000.0;Bourgogne-Franche-Comte;Museum
+205;M0180;Chemin de la Roche;Solutre-Pouilly;Saone-et-Loire;46.295079;4.732247;musee departemental de prehistoire;71960.0;Bourgogne-Franche-Comte;Museum
+206;M0183;rue du Pont;Verdun-sur-le-Doubs;Saone-et-Loire;46.897337;5.024918;maison du ble et du pain;71350.0;Bourgogne-Franche-Comte;Museum
+207;M0181;21 rue de l'Hopital;Tournus;Saone-et-Loire;46.562137;4.910839;musee Greuze - hotel-Dieu;71700.0;Bourgogne-Franche-Comte;Museum
+208;M0161;3, rue des Bancs;Autun;Saone-et-Loire;46.945723;4.299216;musee Rolin;71400.0;Bourgogne-Franche-Comte;Museum
+209;M0165;Place de l'Hotel de Ville;Chalon-sur-Saone;Saone-et-Loire;46.78105;4.853082;musee Vivant Denon;71100.0;Bourgogne-Franche-Comte;Museum
+210;M0167;32, rue Rene Davoine;Charolles;Saone-et-Loire;46.431434;4.273059;musee Rene Davoine;71120.0;Bourgogne-Franche-Comte;Museum
+211;M0170;BP 53;Le Creusot - Montceau-les-Mines;Saone-et-Loire;46.80448;4.428059;ecomusee de la communaute Le Creusot - Montceau-les-Mines;71200.0;Bourgogne-Franche-Comte;Museum
+212;M0171;29 rue des Dodanes;Louhans;Saone-et-Loire;46.87264;5.275048;musee municipal;71270.0;Bourgogne-Franche-Comte;Museum
+213;M0177;BP 12;Pierre-de-Bresse;Saone-et-Loire;46.88298;5.261603;ecomusee de la Bresse bourguignonne;71270.0;Bourgogne-Franche-Comte;Museum
+214;M1199;Col du Rebout;Saint-Leger-sous-Beuvray;Saone-et-Loire;46.934539;4.062979;musee de Bibracte;71990.0;Bourgogne-Franche-Comte;Museum
+215;M0160;10, rue Saint-Nicolas;Autun;Saone-et-Loire;46.955328;4.300179;musee lapidaire Saint-Nicolas;71400.0;Bourgogne-Franche-Comte;Museum
+216;M0162;7, rue des Sous-Chambres;Autun;Saone-et-Loire;46.949043;4.302971;musee Verger-Tarin;71400.0;Bourgogne-Franche-Comte;Museum
+217;M0164;place du Musee;Bourbon-Lancy;Saone-et-Loire;46.624065;3.768545;musee Saint-Nazaire;71140.0;Bourgogne-Franche-Comte;Museum
+218;M0169;;Cluny;Saone-et-Loire;46.433938;4.658048;musee d'art et d'archeologie;71250.0;Bourgogne-Franche-Comte;Museum
+219;M0172;5, rue de la Prefecture;Macon;Saone-et-Loire;46.307508;4.833156;musee des ursulines;71000.0;Bourgogne-Franche-Comte;Museum
+220;M0174;Rue de la Tour du Moulin;Marcigny;Saone-et-Loire;46.274562;4.044451;musee de la tour du moulin;71110.0;Bourgogne-Franche-Comte;Museum
+221;M0176;13 rue de la Paix;Paray-le-Monial;Saone-et-Loire;46.451822;4.123021;musee eucharistique du Hieron;71600.0;Bourgogne-Franche-Comte;Museum
+222;M0178;98 rue Pierre-Fran�ois Guillon;Romaneche-Thorins;Saone-et-Loire;46.187946;4.73427;musee Guillon du compagnonnage;71570.0;Bourgogne-Franche-Comte;Museum
+223;M0182;Hotel-Dieu - musee Greuze, 21, rue de l'Hopital;Tournus;Saone-et-Loire;46.562137;4.910839;musee bourguignon Perrin de Puycousin;71700.0;Bourgogne-Franche-Comte;Museum
+224;M0360;16 rue Frederic Japy;Beaucourt;Territoire-de-Belfort;47.485011;6.922453;musee Frederic Japy;90500.0;Bourgogne-Franche-Comte;Museum
+225;M0362;2 rue de Lamadeleine;Etueffont;Territoire-de-Belfort;47.722575;6.920842;forge-musee;90170.0;Bourgogne-Franche-Comte;Museum
+226;M0361;Rue Xavier Bauer;Belfort;Territoire-de-Belfort;47.63757;6.867072;musee d'art et d'histoire;90000.0;Bourgogne-Franche-Comte;Museum
+227;M1075;8 rue de Mulhouse;Belfort;Territoire-de-Belfort;47.642439;6.855466;Cabinet d'un amateur - donation Maurice Jardot;90000.0;Bourgogne-Franche-Comte;Museum
+228;M0190;Rue du Prieure;Tonnerre;Yonne;47.8559;3.97555;musee municipal;89700.0;Bourgogne-Franche-Comte;Museum
+229;M1189;;Saint-Fargeau;Yonne;47.640663;3.070586;musee de l'aventure du son;89170.0;Bourgogne-Franche-Comte;Museum
+230;M7020;5, boulevard Vauban;Auxerre;Yonne;47.796936;3.564362;musee d'histoire naturelle;89000.0;Bourgogne-Franche-Comte;Museum
+231;M0191;Rue Saint-etienne;Vezelay;Yonne;47.464133;3.74361;musee Zervos;89450.0;Bourgogne-Franche-Comte;Museum
+232;M0184;2 bis, place Saint-Germain;Auxerre;Yonne;47.800283;3.571975;musee d'art et d'histoire Saint-Germain;89000.0;Bourgogne-Franche-Comte;Museum
+233;M0186;5 rue du College;Avallon;Yonne;47.486968;3.906795;musee de l'Avallonnais Jean Despres;89200.0;Bourgogne-Franche-Comte;Museum
+234;M0188;;Saint-Sauveur-en-Puysance;Yonne;47.618015;3.197026;musee Colette;89520.0;Bourgogne-Franche-Comte;Museum
+235;M0193;Rue Paul-Huillard;Villiers-Saint-Benoit;Yonne;47.780142;3.20739;musee d'art et d'histoire de Puisaye;89130.0;Bourgogne-Franche-Comte;Museum
+236;M0185;9 bis, rue d'Egleny;Auxerre;Yonne;47.795393;3.566248;musee Leblanc-Duvernoy;89000.0;Bourgogne-Franche-Comte;Museum
+237;M0187;25 rue de l'Eglise;Noyers-sur-Serein;Yonne;47.721479;3.966518;musee d'art na�f;89310.0;Bourgogne-Franche-Comte;Museum
+238;M0189;135 rue des Deportes et de la Resistance;Sens;Yonne;48.197828;3.284505;musee municipal;89100.0;Bourgogne-Franche-Comte;Museum
+239;M0192;4, rue Carnot;Villeneuve-sur-Yonne;Yonne;48.080518;3.294126;musee villeneuvien;89500.0;Bourgogne-Franche-Comte;Museum
+240;M0196;Cour Francis Renaud - Rue des lyceens martyrs;Saint-Brieuc;Cotes-d'Armor;48.512139;-2.762171;musee d'art et d'histoire;22000.0;Bretagne;Museum
+241;M0194;;Dinan;Cotes-d'Armor;48.454713;-2.050808;musee de Dinan;22100.0;Bretagne;Museum
+242;M0195;Place de Martray;Lamballe;Cotes-d'Armor;48.46953168;-2.515800988;musee Mathurin Meheut;22404.0;Bretagne;Museum
+243;M0197;24 rue Traverse;Brest;Finistere;48.38529;-4.489963;musee des beaux-arts;29200.0;Bretagne;Museum
+244;M1200;Place Yann de Landevennec;Landevennec;Finistere;48.291351;-4.267455;musee de l'ancienne abbaye de Landevennec;29560.0;Bretagne;Museum
+245;M0200;BP 174;Douarnenez;Finistere;48.09253454;-4.332643402;port-musee;29177.0;Bretagne;Museum
+246;M0205;PLACE JULIA;Pont-Aven;Finistere;47.855497;-3.747155;musee;29930.0;Bretagne;Museum
+247;M0206;Square de l'Europe;Pont-l'Abbee;Finistere;47.866452;-4.227768;musee bigouden;29120.0;Bretagne;Museum
+248;M0207;40, place Saint-Corentin;Quimper;Finistere;47.996188;-4.101963;musee des beaux-arts;29000.0;Bretagne;Museum
+249;M0198;Ecomusee des Monts d'Arree;Commana;Finistere;48.41588618665521;-4.006272428689588;ecomusee des monts d'Arree;29450.0;Bretagne;Museum
+250;M0202;place des Jacobins;Morlaix;Finistere;48.577242;-3.825317;musee des jacobins;29600.0;Bretagne;Museum
+251;M0209;Kergroas;Tregarvan;Finistere;48.244359;-4.225057;musee de l'ecole rurale en Bretagne;29560.0;Bretagne;Museum
+252;M0199;3 rue Vauban;Concarneau;Finistere;47.872103;-3.915485;musee de la p�che;29900.0;Bretagne;Museum
+253;M0203;Village du Niou Huella;Ouessant;Finistere;48.460549;-5.110775;ecomusee d'Ouessant - Vivre sur une ile;29242.0;Bretagne;Museum
+254;M0208;1 rue du Roi Gradlon;Quimper;Finistere;47.995125;-4.102602;musee departemental breton;29000.0;Bretagne;Museum
+255;M0204;Phare du Creac'h;Ouessant;Finistere;48.458998;-5.128812;musee des phares et balises;29242.0;Bretagne;Museum
+256;M0212;10 cours des allies;Rennes;Ille-et-Vilaine;48.105455;-1.674922;musee de Bretagne;35000.0;Bretagne;Museum
+257;M0215;Tour Solidor;Saint-Malo;Ille-et-Vilaine;48.63419814;-2.025904669;musee du Long-Cours Cap-hornier;35408.0;Bretagne;Museum
+258;M0216;BP 70627;Vitre;Ille-et-Vilaine;48.12588458;-1.211799051;musee du chateau;35506.0;Bretagne;Museum
+259;M0210;Boulevard Villebois Mareuil;Montfort-sur-Meu;Ille-et-Vilaine;48.141088;-1.959973;ecomusee du pays de Monfort;35160.0;Bretagne;Museum
+260;M0211;20 Quai Emile Zola;Rennes;Ille-et-Vilaine;48.109837;-1.674981;musee des beaux-arts;35000.0;Bretagne;Museum
+261;M0213;Chemin de La Bintinais;Rennes;Ille-et-Vilaine;48.079557;-1.665571;ecomusee de la Bintinais;35200.0;Bretagne;Museum
+262;M0214;Place Chateaubriand;Saint-Malo;Ille-et-Vilaine;48.650738;-2.023727;musee d'histoire de la ville et d'ethnographie du pays malouin;35400.0;Bretagne;Museum
+263;M0218;Route D'argentre du Plessis;Vitre;Ille-et-Vilaine;48.080418;-1.169805;musee des rochers de Sevigne;35500.0;Bretagne;Museum
+264;M0222;;Groix;Morbihan;47.63992;-3.434074;ecomusee de l'ile de Groix;56590.0;Bretagne;Museum
+265;M0227;2 rue Noe;Vannes;Morbihan;47.656705;-2.757726;musee d'histoire et d'archeologie;56000.0;Bretagne;Museum
+266;M0221;10 place de la chapelle;Carnac;Morbihan;47.584022;-3.0785;musee de prehistoire Miln-le-Rouzic;56340.0;Bretagne;Museum
+267;M0224;Citadelle, av. du Fort de l'Aigle;Port-Louis;Morbihan;47.709147;-3.362581;musee de la Compagnie des Indes;56290.0;Bretagne;Museum
+268;M0228;15 place Saint-Pierre;Vannes;Morbihan;47.657693;-2.757556;musee des beaux-arts;56000.0;Bretagne;Museum
+269;M1179;1 rue de Quimper;Le Faou�t;Morbihan;48.031817;-3.490833;musee du Faou�t;56320.0;Bretagne;Museum
+270;M0225;Les Hardys Behelec;Saint-Marcel;Morbihan;47.800618;-2.432273;musee de la resistance bretonne;56140.0;Bretagne;Museum
+271;M1195;3 Avenue Jean Moulin;Baud;Morbihan;47.875046;-3.016911;musee de la carte postale;56150.0;Bretagne;Museum
+272;M0220;Rue Park Segal;Brec'h;Morbihan;47.70843;-2.993063;ecomusee de Saint-Degan;56400.0;Bretagne;Museum
+273;M0223;Mail Fran�ois Giovannelli;Inzinzac-Lochrist;Morbihan;47.824974;-3.25232;ecomusee industriel des forges;56650.0;Bretagne;Museum
+274;M0231;13, rue Edouard Branly;Bourges;Cher;47.085951;2.396195;musee Esteve;18000.0;Centre-Val de Loire;Museum
+275;M0230;4-6, rue des Arenes;Bourges;Cher;47.083735;2.39325;musee du Berry;18000.0;Centre-Val de Loire;Museum
+276;M0233;10-12 rue de la Victoire;Chateaumeillant;Cher;46.5614;2.196543;musee Emile Chenon;18370.0;Centre-Val de Loire;Museum
+277;M0234;place Jean-Manceau;Mehun-sur-Yevre;Cher;47.145214;2.21738;musee du chateau Charles VII;18500.0;Centre-Val de Loire;Museum
+278;M0229;5, rue de l'hotel Lallemant;Bourges;Cher;47.084683;2.398383;musee des arts decoratifs;18000.0;Centre-Val de Loire;Museum
+279;M0232;Hotel de Ville - place Etienne Dolet;Bourges;Cher;47.081774;2.398494;musee des meilleurs ouvriers de France;18000.0;Centre-Val de Loire;Museum
+280;M0236;11 rue de la Societe Fran�aise;Vierzon;Cher;47.225192;2.060639;musee municipal;18100.0;Centre-Val de Loire;Museum
+281;M7028;Les Rives d'Auron;Bourges;Cher;47.081055;2.392284;museum d'histoire naturelle Gabriel Foucher;18000.0;Centre-Val de Loire;Museum
+282;M0235;Cours Manuel;Saint-Amand-Montrond;Cher;46.720657;2.506654;musee Saint-Vic;18200.0;Centre-Val de Loire;Museum
+283;M0237;rue saint roch;Bonneval;Eure-et-Loir;48.181517;1.385475;musee bonnevallais;28800.0;Centre-Val de Loire;Museum
+284;M0238;29 Cloitre Notre-Dame;Chartres;Eure-et-Loir;48.447624;1.486763;musee des beaux-arts;28000.0;Centre-Val de Loire;Museum
+285;M7030;5bis, bvd de la Courtille;Chartres;Eure-et-Loir;48.441822;1.490983;museum des sciences naturelles et de prehistoire;28000.0;Centre-Val de Loire;Museum
+286;M0242;Place Lemoine;Illiers-Combray;Eure-et-Loir;48.299696;1.243114;musee Marcel Proust;28120.0;Centre-Val de Loire;Museum
+287;M0243;Place Emile Maquaire;Nogent-le-Rotrou;Eure-et-Loir;48.324867;0.804249;musee de l'histoire du Perche;28400.0;Centre-Val de Loire;Museum
+288;M0239;Pont de Mainvilliers;Chartres-Mainvilliers;Eure-et-Loir;48.44690286;1.476874842;conservatoire du machinisme et des pratiques agricoles;28000.0;Centre-Val de Loire;Museum
+289;M0240;3, rue Toufaire;Chateaudun;Eure-et-Loir;48.070792;1.327905;musee des beaux-arts et d'histoire naturelle;28200.0;Centre-Val de Loire;Museum
+290;M0241;5-7, place du musee;Dreux;Eure-et-Loir;48.733472;1.368066;musee d'art et d'histoire de Dreux;28100.0;Centre-Val de Loire;Museum
+291;M0244;place du Carrefour;Sainville;Eure-et-Loir;48.415867;1.87924;musee Farcot;28700.0;Centre-Val de Loire;Museum
+292;M0246;31-33 rue Hersent-Luzarche;Azay-le-Ferron;Indre;46.851361;1.069524;chateau musee;36290.0;Centre-Val de Loire;Museum
+293;M7069;;Lange;Indre;47.073893;1.513405;musee de geologie regionale;36600.0;Centre-Val de Loire;Museum
+294;M0248;rue de l'Hospice Saint-Roch;Issoudun;Indre;46.945408;1.994379;musee de l'hospice Saint Roch;36100.0;Centre-Val de Loire;Museum
+295;M0251;Place du Champ de Foire;Le Blanc;Indre;46.627962;1.062835;musee ornithologique;36300.0;Centre-Val de Loire;Museum
+296;M0252;Les Mersans;Saint-Marcel;Indre;46.600503;1.515379;musee archeologique d'Argentomagus;36200.0;Centre-Val de Loire;Museum
+297;M0245;rue Charles Brillaud;Argenton-sur-Creuse;Indre;46.58847;1.518517;musee de la chemiserie et de l'elegance masculine;36200.0;Centre-Val de Loire;Museum
+298;M0247;2 rue Descente-des-Cordeliers;Chateauroux;Indre;46.813737;1.694262;musee Bertrand;36000.0;Centre-Val de Loire;Museum
+299;M0250;Square George Sand;La Chatre;Indre;46.581939;1.989964;musee George Sand et de la vallee noire;36400.0;Centre-Val de Loire;Museum
+300;M0253;;Amboise;Indre-et-Loire;47.410737;0.981446;musee Hotel Morin;37400.0;Centre-Val de Loire;Museum
+301;M0257;29, rue Descartes;Descartes;Indre-et-Loire;46.972623;0.699988;musee Descartes;37160.0;Centre-Val de Loire;Museum
+302;M0266;8, rue Nationale;Tours;Indre-et-Loire;47.39627;0.686457;musee du compagnonnage;37000.0;Centre-Val de Loire;Museum
+303;M0268;25, rue du Commerce;Tours;Indre-et-Loire;47.395094;0.684809;musee archeologique de l'hotel Go�in;37000.0;Centre-Val de Loire;Museum
+304;M0259;Chateau;Le Grand Pressigny;Indre-et-Loire;46.921003;0.800711;musee departemental de prehistoire;37350.0;Centre-Val de Loire;Museum
+305;M0263;rue du Chateau;Sainte-Maure-de-Touraine;Indre-et-Loire;47.111569;0.619769;musee municipal;37800.0;Centre-Val de Loire;Museum
+306;M0265;18 place Fran�ois Sicard;Tours;Indre-et-Loire;47.394698;0.694004;musee des beaux-arts;37000.0;Centre-Val de Loire;Museum
+307;M0254;40 rue de la Concorde;Amboise;Indre-et-Loire;47.413925;0.985929;musee de la poste;37400.0;Centre-Val de Loire;Museum
+308;M0255;44, rue Haute-Saint-Maurice;Chinon;Indre-et-Loire;47.167125;0.23767;Le Carroi, musee d'arts et d'histoire;37500.0;Centre-Val de Loire;Museum
+309;M0262;rue du chateau;Sache;Indre-et-Loire;47.245703;0.544078;musee Balzac;37190.0;Centre-Val de Loire;Museum
+310;M0269;place du Musee;Yzeures-sur-Creuse;Indre-et-Loire;46.785983;0.869839;musee de Minerve;37290.0;Centre-Val de Loire;Museum
+311;M7062;3, rue du President-Merville;Tours;Indre-et-Loire;47.394637;0.68388;museum d'histoire naturelle;37000.0;Centre-Val de Loire;Museum
+312;M0261;place du Marche;Richelieu;Indre-et-Loire;47.011912;0.324353;musee municipal;37120.0;Centre-Val de Loire;Museum
+313;M1088;80 route de Candes;Savigny-en-Veron;Indre-et-Loire;47.209697;0.124427;ecomusee du Veron;37420.0;Centre-Val de Loire;Museum
+314;M0260;1, rue Lansyer;Loches;Indre-et-Loire;47.126829;0.997457;musee Lansyer;37600.0;Centre-Val de Loire;Museum
+315;M0264;3 La Deviniere;Seuilly;Indre-et-Loire;47.140806;0.179096;musee Rabelais;37500.0;Centre-Val de Loire;Museum
+316;M0267;16, rue Nationale;Tours;Indre-et-Loire;47.393692;0.687373;musee du vin de Touraine;37000.0;Centre-Val de Loire;Museum
+317;M1133;10 rue du faubourg de la Rue;Savigne-sur-Lathan;Indre-et-Loire;47.445748;0.319748;musee du Savigneen;37340.0;Centre-Val de Loire;Museum
+318;M1183;;Loches;Indre-et-Loire;47.128196;0.994671;musee du terroir;37600.0;Centre-Val de Loire;Museum
+319;M0286;Place Sainte-Croix;Orleans;Loiret;47.901573;1.90861;musee des beaux-arts;45000.0;Centre-Val de Loire;Museum
+320;M0287;Square Abbe Desnoyers;Orleans;Loiret;47.900952;1.905193;hotel Cabu, musee d'histoire et d'archeologie;45000.0;Centre-Val de Loire;Museum
+321;M0289;17, rue de la Couronne;Pithiviers;Loiret;48.172521;2.255004;musee municipal;45300.0;Centre-Val de Loire;Museum
+322;M7053;2 rue Marcel Proust;Orleans;Loiret;47.907734;1.909578;museum d'Orleans pour la biodiversite et l'environnement;45000.0;Centre-Val de Loire;Museum
+323;M0278;Quartier du Paradis;Artenay;Loiret;48.082089;1.879609;musee municipal theatre forain et archeologique;45410.0;Centre-Val de Loire;Museum
+324;M0281;2 faubourg du Puyrault;Chatillon-Coligny;Loiret;47.820625;2.844906;musee d'art et d'archeologie;45230.0;Centre-Val de Loire;Museum
+325;M0283;22 rue des Remparts;Meung-sur-Loire;Loiret;47.825556;1.694889;musee Gaston Coute;45130.0;Centre-Val de Loire;Museum
+326;M0279;2, place Dunois;Beaugency;Loiret;47.777611;1.633585;musee Daniel Vannier;45190.0;Centre-Val de Loire;Museum
+327;M0280;1 place Aristide Briand;Chateauneuf-sur-Loire;Loiret;47.865212;2.219187;musee de la marine de Loire;45110.0;Centre-Val de Loire;Museum
+328;M0284;2 rue du Faubourg de la Chaussee;Montargis;Loiret;47.997528;2.737205;musee Girodet;45200.0;Centre-Val de Loire;Museum
+329;M0285;7, rue du Chateau;Montargis;Loiret;47.998314;2.729233;musee du Gatinais;45200.0;Centre-Val de Loire;Museum
+330;M0282;Esplanade du Chateau;Gien;Loiret;47.68592;2.630092;chateau-musee de Gien : chasse, histoire et nature en Val de Loire;45500.0;Centre-Val de Loire;Museum
+331;M1083;1 bis, place du Chateau;Blois;Loir-et-Cher;47.586566;1.332917;maison de la magie;41000.0;Centre-Val de Loire;Museum
+332;M0275;;Romorantin-Lathenay;Loir-et-Cher;47.35732336;1.743688267;musee de Sologne;41206.0;Centre-Val de Loire;Museum
+333;M0276;Parc du Vaulx Saint-Georges;Thesee;Loir-et-Cher;47.32849039;1.306555055;musee archeologique;41140.0;Centre-Val de Loire;Museum
+334;M0273;Parc de la Corbilliere;Mer;Loir-et-Cher;47.697723;1.503586;musee de la Corbilliere;41500.0;Centre-Val de Loire;Museum
+335;M0277;;Vendome;Loir-et-Cher;47.792111;1.064507;musee municipal;41100.0;Centre-Val de Loire;Museum
+336;M0274;rue des Venages;Naveil;Loir-et-Cher;47.795395;1.04019;atelier musee Louis Leygue;41100.0;Centre-Val de Loire;Museum
+337;M7024;rue Anne de Bretagne;Blois;Loir-et-Cher;47.585122;1.33302;museum d'histoire naturelle;41000.0;Centre-Val de Loire;Museum
+338;M0271;6 place du chateau;Blois;Loir-et-Cher;47.585598;1.331665;chateau musees;41000.0;Centre-Val de Loire;Museum
+339;M0325;;Ajaccio;Corse du Sud;41.92499;8.735937;musee napoleonien;20000.0;Corse;Museum
+340;M0324;50-52, rue Cardinal Fesch;Ajaccio;Corse du Sud;41.922406;8.738487;musee palais Fesch;20000.0;Corse;Museum
+341;M0326;Quartier Prato;Levie;Corse du Sud;41.704223;9.125161;musee de l'Alta-Rocca;20170.0;Corse;Museum
+342;M5046;Rue saint Charles;Ajaccio;Corse du Sud;41.917701;8.73795;musee national de la maison Bonaparte;20000.0;Corse;Museum
+343;M0327;Bd Jacques NICOLAI;Sartene;Corse du Sud;41.620485;8.973941;musee de prehistoire corse;20100.0;Corse;Museum
+344;M0328;;Aleria;Haute-Corse;42.113417;9.512108;musee Jerome Carcopino;20270.0;Corse;Museum
+345;M0331;;Morosaglia;Haute-Corse;42.43788816;9.309353824;musee Pascal Paoli;20261.0;Corse;Museum
+346;M0330;La Citadelle;Corte;Haute-Corse;42.307888;9.14766;musee de la Corse;20250.0;Corse;Museum
+347;M1184;1045 Corsu Lucciana;Lucciana;Haute-Corse;42.542773;9.442618;musee archeologique de Mariana - Prince Rainier III de Monaco;20290.0;Corse;Museum
+348;M0329;La Citadelle;Bastia;Haute-Corse;42.693145;9.450578;musee d'ethnographie corse;20200.0;Corse;Museum
+349;M0290;12 Avenue de la Derniere Cartouche;Bazeilles;Ardennes;49.681745;4.975035;musee de la maison de la derniere cartouche;8140.0;Grand Est;Museum
+350;M0291;Quai Arthur Rimbaud;Charleville-Mezieres;Ardennes;49.776034;4.720613;musee Arthur Rimbaud;8000.0;Grand Est;Museum
+351;M0296;Chateau fort;Sedan;Ardennes;49.695347;4.919074;musee du chateau-fort;8200.0;Grand Est;Museum
+352;M0292;31 place Ducale;Charleville-Mezieres;Ardennes;49.773836;4.721238;musee de l'Ardenne;8000.0;Grand Est;Museum
+353;M0293;s'adresser a la mairie;Givet;Ardennes;50.13658229;4.824527313;musee;8600.0;Grand Est;Museum
+354;M0295;;Rethel;Ardennes;49.509328;4.366447;musee du Rethelois et du Porcien;8300.0;Grand Est;Museum
+355;M0294;Place du Colombier;Mouzon;Ardennes;49.605919;5.074601;musee du feutre;8210.0;Grand Est;Museum
+356;M0297;Place Carnot;Bar-sur-Aube;Aube;48.233206;4.705996;musee municipal;10200.0;Grand Est;Museum
+357;M0300;6 Rue Boursault;Mussy-sur-Seine;Aube;47.977352;4.498923;musee de la Resistance de l'Aube;10250.0;Grand Est;Museum
+358;M0301;10 rue Gustave Flaubert;Nogent-sur-Seine;Aube;48.494242;3.500892;musee Camille Claudel;10400.0;Grand Est;Museum
+359;M0303;Rue Chrestien de Troyes;Troyes;Aube;48.300638;4.08003;musee des beaux-arts et d'archeologie;10000.0;Grand Est;Museum
+360;M0306;7 rue de La Trinite;Troyes;Aube;48.29473;4.072849;maison de l'outil et de la pensee ouvriere;10000.0;Grand Est;Museum
+361;M0299;34, rue de l'Ecole Militaire;Brienne-le-Chateau;Aube;48.388915;4.528446;musee Napoleon 1er;10500.0;Grand Est;Museum
+362;M0302;14 Place Saint-Pierre;Troyes;Aube;48.299643;4.080736;musee d'art moderne;10000.0;Grand Est;Museum
+363;M0305;31 Quai des Comtes de Champagne;Troyes;Aube;48.298985;4.078036;pharmacie musee de l'hotel-Dieu;10000.0;Grand Est;Museum
+364;M7073;1 Rue Chrestien de Troyes;Troyes;Aube;48.300638;4.08003;museum d'histoire naturelle;10000.0;Grand Est;Museum
+365;M0304;4 rue de Vauluisant;Troyes;Aube;48.294239;4.071824;musee historique de Troyes et de la Champagne;10000.0;Grand Est;Museum
+366;M0010;24, rue du Docteur Albert Schweitzer;Pfaffenhoffen;Bas-Rhin;48.844834;7.611365;musee de l'image populaire;67350.0;Grand Est;Museum
+367;M0011;9, rue Jeanne d'Arc;Reichshoffen;Bas-Rhin;48.932234;7.664814;musee historique et industriel - musee du fer;67110.0;Grand Est;Museum
+368;M0014;23, quai Saint-Nicolas;Strasbourg;Bas-Rhin;48.579075;7.750484;musee alsacien;67000.0;Grand Est;Museum
+369;M0016;1, place Hans Jean Arp;Strasbourg;Bas-Rhin;48.579654;7.736231;musee d'art moderne et contemporain de Strasbourg;67000.0;Grand Est;Museum
+370;M0018;2, place du Chateau;Strasbourg;Bas-Rhin;48.581229;7.751984;musee des arts decoratifs;67000.0;Grand Est;Museum
+371;M0020;2, rue du Vieux Marche aux Poissons;Strasbourg;Bas-Rhin;48.580579;7.749714;musee historique;67000.0;Grand Est;Museum
+372;M0022;1-3, rue du Musee;Wissembourg;Bas-Rhin;49.038815;7.944344;musee Westercamp;67160.0;Grand Est;Museum
+373;M0023;2 rue du Moulin;Woerth;Bas-Rhin;48.938618;7.747992;musee de la bataille du 6 aout 1870;67360.0;Grand Est;Museum
+374;M0005;9, rue du Marechal Foch;Haguenau;Bas-Rhin;48.812831;7.791481;musee historique;67500.0;Grand Est;Museum
+375;M0012;Place du General de Gaulle;Saverne;Bas-Rhin;48.741958;7.362787;musee du chateau des Rohan;67700.0;Grand Est;Museum
+376;M0019;2, place du Chateau;Strasbourg;Bas-Rhin;48.581229;7.751984;musee des beaux-arts;67000.0;Grand Est;Museum
+377;M0021;25, montee Oberlin;Waldersbach;Bas-Rhin;48.414759;7.214925;musee Oberlin;67130.0;Grand Est;Museum
+378;M0002;2 rue de Kuhlendorf;Betschdorf;Bas-Rhin;48.900348;7.914409;musee de la poterie;67660.0;Grand Est;Museum
+379;M0004;1, place Joseph Thierry;Haguenau;Bas-Rhin;48.814611;7.789527;musee alsacien;67500.0;Grand Est;Museum
+380;M0006;4, cour des Chartreux;Molsheim;Bas-Rhin;48.54278;7.49023;musee de la chartreuse;67120.0;Grand Est;Museum
+381;M0008;44, avenue Foch;Niederbronn-les-Bains;Bas-Rhin;48.947444;7.650428;maison de l'archeologie des Vosges du Nord;67110.0;Grand Est;Museum
+382;M0015;2 place du Chateau;Strasbourg;Bas-Rhin;48.581229;7.751984;musee archeologique;67000.0;Grand Est;Museum
+383;M1162;40, rue du Hochberg;Wingen-sur-Moder;Bas-Rhin;48.927033;7.361922;musee Lalique;67290.0;Grand Est;Museum
+384;M0003;3 place du Chateau;Bouxwiller;Bas-Rhin;48.824977;7.482915;musee du pays de Hanau - histoire et vies d'un territoire;67330.0;Grand Est;Museum
+385;M0013;5, place du Chateau;Strasbourg;Bas-Rhin;48.58123664;7.750544327;cabinet des estampes et des dessins;67076.0;Grand Est;Museum
+386;M0017;3, place du Chateau;Strasbourg;Bas-Rhin;48.58097;7.75151;musee de l'�uvre Notre-Dame;67076.0;Grand Est;Museum
+387;M0001;30, rue du docteur Sultzer;Barr;Bas-Rhin;48.410166;7.451102;musee de la Folie Marco;67140.0;Grand Est;Museum
+388;M1098;2, avenue de la Marseillaise;Strasbourg;Bas-Rhin;48.585747;7.755028;musee Tomi Ungerer;67000.0;Grand Est;Museum
+389;M7071;29 Boulevard de la Victoire;Strasbourg;Bas-Rhin;48.582707;7.764645;musee zoologique de l'universite Louis Pasteur et de la ville de Strasbourg;67000.0;Grand Est;Museum
+390;M0320;1 place Pierre Burelle;Langres;Haute-Marne;47.866417;5.331753;Maison des Lumieres Denis Diderot;52200.0;Grand Est;Museum
+391;M0318;1 Place Emile Goguenheim;Chaumont;Haute-Marne;48.110756;5.135234;musee de l'affiche;52000.0;Grand Est;Museum
+392;M0319;place du Palais;Chaumont;Haute-Marne;48.112482;5.137331;musee des beaux-arts et d'archeologie;52000.0;Grand Est;Museum
+393;M0317;Parc du chateau;Bourbonne-les-Bains;Haute-Marne;47.942274;5.732204;musee municipal;52400.0;Grand Est;Museum
+394;M0321;Place du centenaire;Langres;Haute-Marne;47.865268;5.333286;musee d'art et d'histoire;52200.0;Grand Est;Museum
+395;M0322;Place Charles de Gaulle;Nogent-en-Bassigny;Haute-Marne;48.02758;5.341424;musee de la coutellerie;52800.0;Grand Est;Museum
+396;M0323;17 rue de la Victoire;Saint-Dizier;Haute-Marne;48.63804123;4.948277733;musee municipal;52115.0;Grand Est;Museum
+397;M0027;30, rue des Marchands;Colmar;Haut-Rhin;48.076747;7.357746;musee Bartholdi;68000.0;Grand Est;Museum
+398;M0028;Place Unterlinden;Colmar;Haut-Rhin;48.079918;7.355464;musee d'Unterlinden;68000.0;Grand Est;Museum
+399;M0037;14, rue Jean-Jacques Henner;Mulhouse;Haut-Rhin;47.74501942;7.345379581;musee de l'impression sur etoffes;68072.0;Grand Est;Museum
+400;M0040;Porte de Belfort;Neuf-Brisach;Haut-Rhin;48.016144;7.525674;musee Vauban;68600.0;Grand Est;Museum
+401;M0048;BP 71;Ungersheim;Haut-Rhin;47.878584;7.304447;ecomusee d'Alsace;68190.0;Grand Est;Museum
+402;M0034;Place de la Reunion;Mulhouse;Haut-Rhin;47.746642;7.338434;musee historique;68100.0;Grand Est;Museum
+403;M0041;10 rue Principale;Oltingue;Haut-Rhin;47.492827;7.391275;musee paysan;68480.0;Grand Est;Museum
+404;M0043;57, rue du General-de-Gaulle;Riquewihr;Haut-Rhin;48.166916;7.297406;musee du Dolder;68340.0;Grand Est;Museum
+405;M0031;64, rue du general de Gaulle;Kaysersberg;Haut-Rhin;48.139072;7.261441;musee historique;68240.0;Grand Est;Museum
+406;M0036;2, rue Alfred de Glehn;Mulhouse;Haut-Rhin;47.732372;7.312824;musee fran�ais du chemin de fer;68200.0;Grand Est;Museum
+407;M0039;55 rue du Paturage;Mulhouse;Haut-Rhin;47.749441;7.295058;musee Electropolis;68200.0;Grand Est;Museum
+408;M7033;11, rue Turenne;Colmar;Haut-Rhin;48.073594;7.35872;museum d'histoire naturelle et d'ethnographie;68000.0;Grand Est;Museum
+409;M0025;Place de la Mairie;Biesheim;Haut-Rhin;48.041667;7.54802;musee gallo-romain;68600.0;Grand Est;Museum
+410;M0026;rue de Thann;Cernay;Haut-Rhin;47.809586;7.174264;musee de la porte de Thann;68700.0;Grand Est;Museum
+411;M0029;1, rue du quatre fevrier;Guebwiller;Haut-Rhin;47.905522;7.214504;musee Theodore Deck et des pays du Florival;68500.0;Grand Est;Museum
+412;M0030;6, rue des Boulangers;Huningue;Haut-Rhin;47.591513;7.584985;musee historique et militaire;68330.0;Grand Est;Museum
+413;M0033;4 place Guillaume Tell;Mulhouse;Haut-Rhin;47.745774;7.338271;musee des beaux-arts;68100.0;Grand Est;Museum
+414;M0035;192, avenue de Colmar - BP 1096;Mulhouse;Haut-Rhin;47.76161417;7.327893525;musee national de l'automobile - collection Schlumpf;68051.0;Grand Est;Museum
+415;M0038;12-14 Rue de Luppach;Mulhouse;Haut-Rhin;47.504301;7.304287;musee du sapeur-pompier;68480.0;Grand Est;Museum
+416;M0044;28, rue Zuber;Rixheim;Haut-Rhin;47.744135;7.397424;musee du papier peint;68170.0;Grand Est;Museum
+417;M0024;1, rue de l'Hotel de Ville;Altkirch;Haut-Rhin;47.623329;7.237204;musee sundgauvien;68130.0;Grand Est;Museum
+418;M0032;9 rue de l'Ours;Kientzheim;Haut-Rhin;48.126069;7.280128;musee du vignoble et des vins d'Alsace;68770.0;Grand Est;Museum
+419;M0047;24, rue Saint-Thiebaut;Thann;Haut-Rhin;47.812283;7.101737;"musee de la societe d'histoire ""les amis de Thann""";68800.0;Grand Est;Museum
+420;M7047;3, avenue Alfred-Werner;Mulhouse;Haut-Rhin;47.73132;7.310303;musee mineralogique de la societe industrielle de Mulhouse;68100.0;Grand Est;Museum
+421;M0309;13, avenue de Champagne;Epernay;Marne;49.042901;3.961379;musee municipal;51200.0;Grand Est;Museum
+422;M0311;8, rue Chanzy;Reims;Marne;49.253442;4.030921;musee des beaux-arts de Saint-Denis;51100.0;Grand Est;Museum
+423;M0314;36 Place du Forum;Reims;Marne;49.257013;4.034043;musee du vieux Reims;51100.0;Grand Est;Museum
+424;M1178;;Chalons-en-Champagne;Marne;48.956391;4.364203;musee du cloitre de Notre-Dame-en-Vaux;51000.0;Grand Est;Museum
+425;M0308;13, rue Pasteur;Chalons-en-Champagne;Marne;48.955859;4.366501;musee Garinet;51000.0;Grand Est;Museum
+426;M0310;Rue du pre Michaux;Pourcy;Marne;49.112985;4.029412;ecomusee de la montagne de Reims;51160.0;Grand Est;Museum
+427;M0312;53, rue Simon;Reims;Marne;49.243111;4.040351;musee Saint-Remi;51100.0;Grand Est;Museum
+428;M0307;;Chalons-en-Champagne;Marne;48.956391;4.364203;musee municipal;51000.0;Grand Est;Museum
+429;M0315;Place Leclerc;Sainte-Menehould;Marne;49.092086;4.897997;musee de l'Argonne Viard-Morel;51800.0;Grand Est;Museum
+430;M0313;1, place Museux;Reims;Marne;49.246527;4.040071;musee de l'ancien college des jesuites;51100.0;Grand Est;Museum
+431;M1080;13 rue Magot-de-Rogeville;Pont-a-Mousson;Meurthe-et-Moselle;48.901615;6.056259;"musee ""Au fil du papier""";54700.0;Grand Est;Museum
+432;M0510;;Longwy;Meurthe-et-Moselle;49.519776;5.760104;musee municipal des emaux et fa�ence;54400.0;Grand Est;Museum
+433;M0512;3, place Stanislas;Nancy;Meurthe-et-Moselle;48.693507;6.182435;musee des beaux-arts;54000.0;Grand Est;Museum
+434;M0513;36-38 rue du Sergent Blandan;Nancy;Meurthe-et-Moselle;48.680494;6.166351;musee de l'Ecole de Nancy;54000.0;Grand Est;Museum
+435;M7048;34 rue Sainte-Catherine;Nancy;Meurthe-et-Moselle;48.695072;6.188467;museum-aquarium de Nancy;54000.0;Grand Est;Museum
+436;M0507;1 place Jean Marie Keyser;Deneuvre;Meurthe-et-Moselle;48.446385;6.734719;musee Les sources d'Hercule;54120.0;Grand Est;Museum
+437;M0508;167 rue Lucien Galtier;Laneuville-devant-Nancy;Meurthe-et-Moselle;48.665792;6.215554;chateau de Montaigu;54410.0;Grand Est;Museum
+438;M0509;1, avenue du General de Gaulle;Jarville-la-Malgrange;Meurthe-et-Moselle;48.666588;6.208769;musee de l'histoire du fer;54140.0;Grand Est;Museum
+439;M0511;place de la 2eme D.C.;Luneville;Meurthe-et-Moselle;48.589446;6.505708;musee du chateau;54300.0;Grand Est;Museum
+440;M0514;64 Grande Rue;Nancy;Meurthe-et-Moselle;48.697316;6.179154;musee historique lorrain;54000.0;Grand Est;Museum
+441;M0515;25 rue Gouvion Saint-Cyr;Toul;Meurthe-et-Moselle;48.678544;5.89134;musee d'art et d'histoire;54200.0;Grand Est;Museum
+442;M0522;17 rue du Moulin;Stenay;Meuse;49.48769;5.186786;musee de la biere et du pays de Stenay;55700.0;Grand Est;Museum
+443;M0524;rue Jeanne d'Arc;Vaucouleurs;Meuse;48.602652;5.666;musee Jeanne d'Arc;55140.0;Grand Est;Museum
+444;M0521;14 rue du chateau;Sampigny;Meuse;48.827583;5.50824;musee departemental Raymond Poincare;55300.0;Grand Est;Museum
+445;M0523;9 rue Louis XVI;Varennes-en-Argonne;Meuse;49.226057;5.033072;musee d'Argonne;55270.0;Grand Est;Museum
+446;M0517;Esplanade du Chateau;Bar-le-Duc;Meuse;48.771797;5.156074;musee barrois;55000.0;Grand Est;Museum
+447;M0518;7 avenue Carcano;Commercy;Meuse;48.76331;5.58962;musee de la ceramique et de l'ivoire;55200.0;Grand Est;Museum
+448;M0519;La Citadelle;Montmedy;Meuse;49.523594;5.348511;musee Jules Bastien-Lepage - musee de la fortification;55600.0;Grand Est;Museum
+449;M0525;16 rue de La Belle Vierge;Verdun;Meuse;49.161059;5.382439;musee de la Princerie;55100.0;Grand Est;Museum
+450;M0520;1 Rue du Palais de Justice;Saint-Mihiel;Meuse;48.88855;5.541165;musee d'art sacre de la Meuse;55300.0;Grand Est;Museum
+451;M0528;Place Robert Schuman;Meisenthal;Moselle;48.964935;7.352438;maison du verre et du cristal;57960.0;Grand Est;Museum
+452;M0530;2 rue du musee;Neufchef (Hayange);Moselle;49.325904;6.027572;musee des mines de fer de Lorraine;57700.0;Grand Est;Museum
+453;M0531;place d'Armes;Phalsbourg;Moselle;48.766548;7.259055;musee militaire et Erckmann-Chatrian;57370.0;Grand Est;Museum
+454;M0532;Rue de la Paix;Sarrebourg;Moselle;48.734975;7.055253;musee du pays de Sarrebourg;57400.0;Grand Est;Museum
+455;M1089;Parc Explor Wendel, Musee Les Mineurs Wendel;Petite-Rosselle;Moselle;49.20684;6.848979;musee de la mine - carreau Wendel;57540.0;Grand Est;Museum
+456;M0529;2 rue du Haut-Poirier;Metz;Moselle;49.121051;6.177978;musees de la Cour d'or;57000.0;Grand Est;Museum
+457;M0534;Cour du Chateau;Thionville;Moselle;49.35817097;6.169267003;musee de la Tour-aux-Puces;57125.0;Grand Est;Museum
+458;M1085;Place Jeanne d'Arc;Vic-sur-Seille;Moselle;48.781787;6.531429;musee departemental Georges de la Tour;57630.0;Grand Est;Museum
+459;M0526;11 rue de Metz;Gravelotte;Moselle;49.113679;6.029871;musee de la guerre de 1870;57130.0;Grand Est;Museum
+460;M0527;Porte de France;Marsal;Moselle;48.788503;6.606549;musee du sel;57630.0;Grand Est;Museum
+461;M0533;15-17 rue Poincare;Sarreguemines;Moselle;49.109069;7.070473;musee de la fa�ence et des techniques fa�encieres;57200.0;Grand Est;Museum
+462;M0536;1 place de Lagarde;Epinal;Vosges;48.17326;6.446595;musee departemental d'art ancien et contemporain;88000.0;Grand Est;Museum
+463;M0541;12 rue du General Humbert;Remiremont;Vosges;48.015174;6.590031;musee Charles Friry;88200.0;Grand Est;Museum
+464;M0542;Place Georges Trimouille;Saint-Die-des-Vosges;Vosges;48.295658;6.947961;musee Pierre No�l - musee de la vie dans les Hautes-Vosges;88100.0;Grand Est;Museum
+465;M0538;Cours Stanislas;Mirecourt;Vosges;48.30159283;6.13544044;musee de la lutherie;88503.0;Grand Est;Museum
+466;M0540;70 rue Charles de Gaulle;Remiremont;Vosges;48.016142;6.593289;musee Charles de Bruyeres;88200.0;Grand Est;Museum
+467;M0537;42 quai Dogneville;Epinal;Vosges;48.183628;6.445992;musee de l'image;88000.0;Grand Est;Museum
+468;M0539;30 avenue Louis Fran�ais;Plombieres-les-Bains;Vosges;47.964095;6.458494;musee Louis Fran�ais;88370.0;Grand Est;Museum
+469;M0784;12 rue Jean de La Fontaine;Chateau-Thierry;Aisne;49.046927;3.400289;musee Jean de la Fontaine;2400.0;Hauts-de-France;Museum
+470;M0788;;Hirson;Aisne;49.921047;4.083876;musee - centre de documentation Alfred Desmasures;2500.0;Hauts-de-France;Museum
+471;M0790;32 rue Georges-Ermant;Laon;Aisne;49.563206;3.626781;musee archeologique municipale;2000.0;Hauts-de-France;Museum
+472;M0792;34 boulevard Savart;Saint-Michel-en-Thierache;Aisne;49.922563;4.134763;musee de la vie rurale et forestiere;2830.0;Hauts-de-France;Museum
+473;M0793;28 rue Antoine Lecuyer;Saint-Quentin;Aisne;49.849891;3.285398;musee des beaux-arts Antoine Lecuyer;2100.0;Hauts-de-France;Museum
+474;M7060;14 rue de la Sellerie;Saint-Quentin;Aisne;49.84595;3.288944;musee entomologique;2100.0;Hauts-de-France;Museum
+475;M0787;265 Familistere Aile droite;Guise;Aisne;49.903647;3.626529;Familistere de Guise;2120.0;Hauts-de-France;Museum
+476;M0795;Place de l'hotel de ville;Vervins;Aisne;49.834696;3.907684;musee de la Thierache;2140.0;Hauts-de-France;Museum
+477;M0794;2 rue de la Congregation;Soissons;Aisne;49.384539;3.327233;musee municipal;2200.0;Hauts-de-France;Museum
+478;M0796;24 rue Demoustier;Villers-Cotterets;Aisne;49.253009;3.089691;musee Alexandre Dumas;2600.0;Hauts-de-France;Museum
+479;M5008;;Blerancourt;Aisne;49.516035;3.150459;musee franco-americain du chateau de Blerancourt;2300.0;Hauts-de-France;Museum
+480;M0785;28 rue de la Paix;Chauny;Aisne;49.615394;3.216814;musee bibliotheque;2300.0;Hauts-de-France;Museum
+481;M0786;Place Carnegie;Tergnier;Aisne;49.65875;3.315011;musee de la resistance et de la deportation;2700.0;Hauts-de-France;Museum
+482;M0789;5 rue du General de Gaulle;La Fere;Aisne;49.661954;3.367748;musee Jeanne d'Aboville;2800.0;Hauts-de-France;Museum
+483;M0791;Rue du Musee;Origny-en-Thierache;Aisne;49.896025;4.022381;musee Monseigneur Pigneau de Behaine;2550.0;Hauts-de-France;Museum
+484;M0611;24 rue du musee De Puydt;Bailleul;Nord;50.740715;2.734399;musee Benoit de Puydt;59270.0;Hauts-de-France;Museum
+485;M0623;Rue Paul-Bert;Escaudain;Nord;50.327784;3.343632;musee municipal;59124.0;Hauts-de-France;Museum
+486;M0632;Rue Corbineau;Marchiennes;Nord;50.40744;3.281222;musee municipal d'histoire locale;59870.0;Hauts-de-France;Museum
+487;M0637;2 rue Paul Doumer;Tourcoing;Nord;50.724594;3.162878;Muba Eugene Leroy Tourcoing / musee des beaux-arts Eugene Leroy de Tourcoing;59200.0;Hauts-de-France;Museum
+488;M0639;1 allee du Musee;Villeneuve-d'Ascq;Nord;50.637497;3.148587;LaM - Lille Metropole Musee d'art moderne, d'art contemporain et d'art brut;59650.0;Hauts-de-France;Museum
+489;M0615;15 rue de L'Epee;Cambrai;Nord;50.17347;3.229635;musee municipal;59400.0;Hauts-de-France;Museum
+490;M0616;S'adresser a l'archev�che - Service diocesain de la conservation du Patrimoine;Cambrai;Nord;50.17317988;3.23139717;musee diocesain d'art sacre;59403.0;Hauts-de-France;Museum
+491;M0619;130 rue des Chartreux;Douai;Nord;50.374404;3.07548;musee de la Chartreuse;59500.0;Hauts-de-France;Museum
+492;M0622;9 quai de la Citadelle;Dunkerque;Nord;51.037914;2.372174;musee portuaire;59140.0;Hauts-de-France;Museum
+493;M0633;Hotel de Ville;Maubeuge;Nord;50.28041197;3.967683057;musee Henri Boez;59607.0;Hauts-de-France;Museum
+494;M0636;1 rue du General de Gaulle;Sars-Poteries;Nord;50.164428;4.023602;MusVerre;59216.0;Hauts-de-France;Museum
+495;M1197;;Caudry;Nord;50.124558;3.410691;musee des dentelles et broderies;59540.0;Hauts-de-France;Museum
+496;M7001;19 rue de Bruxelles;Lille;Nord;50.626639;3.066546;musee d'histoire naturelle et de geologie;59000.0;Hauts-de-France;Museum
+497;M0620;Jardin des sculptures;Dunkerque;Nord;51.0452716;2.383243785;musee d'art contemporain;59240.0;Hauts-de-France;Museum
+498;M0621;;Dunkerque;Nord;51.037327;2.375518;musee des beaux-arts;59140.0;Hauts-de-France;Museum
+499;M0629;Place de la Republique;Lille;Nord;50.621132;3.068387;musee des beaux-arts;59000.0;Hauts-de-France;Museum
+500;M0635;Grand-Place;Saint-Amand-les-Eaux;Nord;50.448711;3.427672;musee de la Tour abbatiale;59230.0;Hauts-de-France;Museum
+501;M0610;BP 90;Avesnes-sur-Helpe;Nord;50.12356;3.924751;musee d'histoire et d'archeologie;59440.0;Hauts-de-France;Museum
+502;M0612;Allee Chanoine Bievelet;Bavay;Nord;50.284781;3.774369;Forum antique de Bavay;59570.0;Hauts-de-France;Museum
+503;M0613;1 rue du Mont-de-Piete;Bergues;Nord;50.969087;2.430391;musee du Mont-de-Piete;59380.0;Hauts-de-France;Museum
+504;M0614;rue de l'Ostrevant;Bouchain;Nord;50.284847;3.317909;musee de l'Ostrevant;59111.0;Hauts-de-France;Museum
+505;M0617;26 Grand-Place;Cassel;Nord;50.799755;2.48621;musee de Flandre;59670.0;Hauts-de-France;Museum
+506;M0618;Place Wilson;Denain;Nord;50.327614;3.400973;musee d'archeologie et d'histoire locale;59220.0;Hauts-de-France;Museum
+507;M0624;place Maria Blondeau;Fourmies-Trelon;Nord;50.01772507;4.043565882;ecomusee de la region;59612.0;Hauts-de-France;Museum
+508;M0626;place Georges Degroste;Hazebrouck;Nord;50.721177;2.535346;musee municipal;59190.0;Hauts-de-France;Museum
+509;M0627;Palais Fenelon Place du Commandant Richez BP 70056;Le Cateau-Cambresis;Nord;50.105684;3.541175;musee Henri Matisse;59360.0;Hauts-de-France;Museum
+510;M0631;32 rue de la Monnaie;Lille;Nord;50.641053;3.06294;musee de l'hospice Comtesse;59800.0;Hauts-de-France;Museum
+511;M0638;Boulevard Watteau;Valenciennes;Nord;50.35582;3.53105;musee des beaux-arts;59300.0;Hauts-de-France;Museum
+512;M0609;215 avenue Anatole-France;Anzin;Nord;50.372162;3.502134;musee Theophile Jouglet;59410.0;Hauts-de-France;Museum
+513;M0625;Site de l'Arsenal - BP 43;Gravelines;Nord;50.992478;2.159542;musee du dessin et de l'estampe originale;59820.0;Hauts-de-France;Museum
+514;M0628;Rue d'Erchin;Lewarde;Nord;50.336033;3.168419;centre historique minier, musee de la mine, centre d'archives, centre de culture scientifique de l'energie;59287.0;Hauts-de-France;Museum
+515;M0634;23 rue de l'Esperance;Roubaix;Nord;50.693026;3.16791;La Piscine - musee d'art et d'industrie Andre Diligent de Roubaix;59100.0;Hauts-de-France;Museum
+516;M0798;1 rue du musee;Beauvais;Oise;49.432788;2.080444;MUDO - musee de l'Oise;60000.0;Hauts-de-France;Museum
+517;M0807;7 rue de l'Ev�che;Noyon;Oise;49.581852;2.999742;musee du Noyonnais;60400.0;Hauts-de-France;Museum
+518;M0808;6 place Aristide-Briand;Noyon;Oise;49.581666;2.998444;musee Calvin;60400.0;Hauts-de-France;Museum
+519;M5009;Palais National;Compiegne;Oise;49.41943864;2.831490935;musee national du chateau de Compiegne;60200.0;Hauts-de-France;Museum
+520;M5052;BP 70243;Chantilly;Oise;49.19397;2.48522;musee Conde;60631.0;Hauts-de-France;Museum
+521;M0800;Les Marmousets;Vendeuil-Caply;Oise;49.627157;2.316919;musee archeologique de l'Oise;60120.0;Hauts-de-France;Museum
+522;M0809;Place Notre-Dame;Senlis;Oise;49.20653;2.585615;musee d'art et d'archeologie;60300.0;Hauts-de-France;Museum
+523;M1117;51 rue Roger Salengro;Meru;Oise;49.238327;2.139609;musee de la nacre et de la tabletterie;60110.0;Hauts-de-France;Museum
+524;M0801;45 rue de l'Hotel de Ville;Chaumont-en-Vexin;Oise;49.262578;1.882069;musee Pillon;60240.0;Hauts-de-France;Museum
+525;M0803;2 rue d'Austerlitz;Compiegne;Oise;49.417414;2.821526;musee Antoine Vivenel;60200.0;Hauts-de-France;Museum
+526;M0805;place Fran�ois Mitterrand;Creil;Oise;49.260793;2.473388;musee Galle-Juillet;60100.0;Hauts-de-France;Museum
+527;M0806;Rue Gustave Chopinet;Crepy-en-Valois;Oise;49.236654;2.884009;musee du Valois et de l'archerie;60800.0;Hauts-de-France;Museum
+528;M5010;Palais national;Compiegne;Oise;49.41817267;2.829989167;musee de la voiture et du tourisme (annexe du musee national du chateau de Compiegne);60200.0;Hauts-de-France;Museum
+529;M0797;432, avenue du Marechal Foch;Auneuil;Oise;49.371534;1.99164;musee de la ceramique architecturale et industrielle;60390.0;Hauts-de-France;Museum
+530;M0810;Place du Parvis;Senlis;Oise;49.207022;2.585103;musee de la venerie;60300.0;Hauts-de-France;Museum
+531;M0804;28 place de l'Hotel de Ville;Compiegne;Oise;49.417761;2.826358;musee de la figurine historique;60200.0;Hauts-de-France;Museum
+532;M0642;211 Avenue du President Kennedy;Bethune;Pas-de-Calais;50.53621;2.648177;musee d'ethnologie regionale;62400.0;Hauts-de-France;Museum
+533;M0650;14 rue Carnot;Saint-Omer;Pas-de-Calais;50.749007;2.254521;musee de l'hotel Sandelin;62500.0;Hauts-de-France;Museum
+534;M0652;Rue Oscar Ricque;Saint-Pol-sur-Ternoise;Pas-de-Calais;50.381512;2.337066;musee municipal;62130.0;Hauts-de-France;Museum
+535;M7027;115 boulevard Eurvin;Boulogne-sur-Mer;Pas-de-Calais;50.72353547;1.617147477;museum d'histoire naturelle;62311.0;Hauts-de-France;Museum
+536;M0644;25 rue de Richelieu;Calais;Pas-de-Calais;50.956724;1.851871;musee des beaux-arts et de la dentelle;62100.0;Hauts-de-France;Museum
+537;M0645;Rue Jean Mace;Desvres;Pas-de-Calais;50.666603;1.83876;musee de la ceramique;62240.0;Hauts-de-France;Museum
+538;M0640;22 rue Paul Doumer;Arras;Pas-de-Calais;50.291759;2.772987;musee des beaux-arts;62000.0;Hauts-de-France;Museum
+539;M0643;rue de Bernet;Boulogne-sur-Mer;Pas-de-Calais;50.725617;1.616349;musee de Boulogne-sur-Mer;62200.0;Hauts-de-France;Museum
+540;M0648;avenue du Golf;Le Touquet - Paris-Plage;Pas-de-Calais;50.510041;1.60545;musee du Touquet Paris Plage;62520.0;Hauts-de-France;Museum
+541;M0649;;Montreuil-sur-Mer;Pas-de-Calais;50.462947;1.763832;musee d'art et d'histoire Roger Rodiere;62170.0;Hauts-de-France;Museum
+542;M0653;Hotel de Ville;Samer;Pas-de-Calais;50.617493;1.830274;musee Cazin;62830.0;Hauts-de-France;Museum
+543;M0641;60 rue de l'Imperatrice;Berck-sur-Mer;Pas-de-Calais;50.405092;1.567687;musee d'Opale Sud;62600.0;Hauts-de-France;Museum
+544;M0646;8 place du General de Gaulle;Etaples;Pas-de-Calais;50.513895;1.637621;musee Quentovic;62630.0;Hauts-de-France;Museum
+545;M0647;53 rue des AC d'AFN;Harnes;Pas-de-Calais;50.451493;2.903226;musee d'histoire et d'archeologie;62440.0;Hauts-de-France;Museum
+546;M0651;9 rue Henri Dupuis;Saint-Omer;Pas-de-Calais;50.748349;2.251197;musee Henri Dupuis;62500.0;Hauts-de-France;Museum
+547;M1177;135 quai du commerce;Calais;Pas-de-Calais;50.950474;1.860013;cite internationale de la dentelle et de la mode;62100.0;Hauts-de-France;Museum
+548;M0811;24 rue Gontier Patin;Abbeville;Somme;50.10712;1.833193;musee Boucher de Perthes;80100.0;Hauts-de-France;Museum
+549;M0812;48 rue de La Republique;Amiens;Somme;49.890413;2.295968;musee de Picardie;80000.0;Hauts-de-France;Museum
+550;M0814;7 rue du Musee;Doullens;Somme;50.157436;2.343267;musee Lombart;80600.0;Hauts-de-France;Museum
+551;M7016;S'adresser au Musee de Picardie;Amiens;Somme;49.89079127;2.296254288;musee d'histoire naturelle;80000.0;Hauts-de-France;Museum
+552;M0815;Hotel de Ville;Peronne;Somme;49.93027;2.9357;musee Danicourt;80201.0;Hauts-de-France;Museum
+553;M0816;BP 63;Peronne;Somme;49.93003;2.9319;musee-historial de la Grande Guerre;80201.0;Hauts-de-France;Museum
+554;M0817;BP 3;Saint-Riquier;Somme;50.132403;1.946543;musee departemental de la vie rurale;80135.0;Hauts-de-France;Museum
+555;M0813;36 rue Victor Hugo;Amiens;Somme;49.892882;2.302463;musee de l'hotel de Berny;80000.0;Hauts-de-France;Museum
+556;M0403;16, rue du Reveillon;Brunoy;Essonne;48.700308;2.500293;musee municipal Robert Dubois-Corneau;91800.0;ile-de-France;Museum
+557;M0405;Hotel de ville;Etampes;Essonne;48.434307;2.161909;musee municipal;91150.0;ile-de-France;Museum
+558;M0401;78, rue de Paris;Bievres;Essonne;48.762826;2.225102;musee fran�ais de la photographie;91570.0;ile-de-France;Museum
+559;M0404;Place du general de Gaulle;Dourdan;Essonne;48.529685;2.011803;musee du chateau;91410.0;ile-de-France;Museum
+560;M0402;5, place des Droits de l'Homme;Boussy-Saint-Antoine;Essonne;48.688925;2.530019;musee Dunoyer de Segonzac;91800.0;ile-de-France;Museum
+561;M0409;2, rue Gabriel Peri;Colombes;Hauts-de-Seine;48.923321;2.252039;musee municipal d'art et d'histoire;92700.0;ile-de-France;Museum
+562;M0410;Parc de Becon, 178 Boulevard Saint Denis;Courbevoie;Hauts-de-Seine;48.900998;2.271279;musee Roybet-Fould;92400.0;ile-de-France;Museum
+563;M0416;60 rue Gounod;Saint-Cloud;Hauts-de-Seine;48.842497;2.208286;musee des Avelines - musee d'art et d'histoire de Saint-Cloud;92210.0;ile-de-France;Museum
+564;M0406;26, avenue Andre Morizet;Boulogne-Billancourt;Hauts-de-Seine;48.834945;2.241177;musee des annees trente;92100.0;ile-de-France;Museum
+565;M0407;14, rue du Port;Boulogne-Billancourt;Hauts-de-Seine;48.841354;2.227488;Albert Kahn, musee et jardin departementaux;92100.0;ile-de-France;Museum
+566;M0408;14, rue Max-Blondat;Boulogne-Billancourt;Hauts-de-Seine;48.844261;2.246847;musee-jardin Paul Landowski;92100.0;ile-de-France;Museum
+567;M0412;11, rue des Pierres;Meudon;Hauts-de-Seine;48.806412;2.234894;musee d'art et d'histoire;92190.0;ile-de-France;Museum
+568;M1126;21 rue des Chataigniers;Clamart;Hauts-de-Seine;48.803529;2.244319;fondation Arp;92140.0;ile-de-France;Museum
+569;M1170;;Boulogne-Billancourt;Hauts-de-Seine;48.834945;2.241177;musee Paul Belmondo et de la scuplture figurative du Xxe siecle;92100.0;ile-de-France;Museum
+570;M0413;12 rue du centre;Neuilly-sur-Seine;Hauts-de-Seine;48.879608;2.252754;musee des automates;92200.0;ile-de-France;Museum
+571;M0415;Place du 11 novembre;Rueil-Malmaison;Hauts-de-Seine;48.877678;2.18183;musee d'histoire locale - memoire de la ville;92500.0;ile-de-France;Museum
+572;M0417;Domaine Departemental de Sceaux;Sceaux;Hauts-de-Seine;48.774707;2.299024;musee du domaine departemental de Sceaux;92330.0;ile-de-France;Museum
+573;M0418;1 place de la gare de Suresnes-Longchamp;Suresnes;Hauts-de-Seine;48.868303;2.221944;MUS - musee d'histoire urbaine et sociale de Suresnes;92150.0;ile-de-France;Museum
+574;M1149;s'adresser a la mairie;Courbevoie;Hauts-de-Seine;48.89817716;2.257985001;musee des travaux publics;92974.0;ile-de-France;Museum
+575;M5016;Avenue du chateau de Malmaison;Rueil-Malmaison;Hauts-de-Seine;48.873334;2.1689;musee national des chateaux de Malmaison et de Bois Preau;92500.0;ile-de-France;Museum
+576;M5019;Place de la Manufacture;Sevres;Hauts-de-Seine;48.817037;2.205733;musee national de la ceramique;92310.0;ile-de-France;Museum
+577;M0411;16, rue Auguste Gervais;Issy-les-Moulineaux;Hauts-de-Seine;48.822771;2.273453;musee fran�ais de la carte a jouer et galerie d'histoire de la ville;92130.0;ile-de-France;Museum
+578;M0428;1, rue Gabriel de Mortillet;Chelles;Hauts-de-Seine;48.87682;2.603374;musee des transports urbains, interurbains et ruraux;77500.0;ile-de-France;Museum
+579;M0363;62 rue des Archives;Paris (3eme);Paris;48.861491;2.358608;musee de la chasse et de la nature;75003.0;ile-de-France;Museum
+580;M0364;71, rue du Temple;Paris (3eme);Paris;48.86095;2.355608;musee d'art et d'histoire du juda�sme;75003.0;ile-de-France;Museum
+581;M0365;;Paris;Paris;48.843955;2.352176;musee de l'institut du monde arabe;75005.0;ile-de-France;Museum
+582;M1108;10 avenue Pierre Ier de Serbie;Paris;Paris;48.86613681;2.2972485;Palais Galliera, musee de la mode et de la ville de Paris;75116.0;ile-de-France;Museum
+583;M1202;1 rue Cabanis;Paris;Paris;48.830264;2.340376;musee d'art et d'histoire de l'hopital Sainte-Anne;75014.0;ile-de-France;Museum
+584;M5051;;Paris;Paris;48.845748;2.33167;musee de l'Ecole nationale superieure des beaux-arts;75006.0;ile-de-France;Museum
+585;M5055;37 quai Branly;Paris;Paris;48.861511;2.29771;musee du Quai Branly - Jacques Chirac;75007.0;ile-de-France;Museum
+586;M9024;1, place Alphonse Laveran;Paris;Paris;48.840814;2.341091;musee du service de sante des armees du Val-de-Grace;75005.0;ile-de-France;Museum
+587;M1103;16 rue Antoine Bourdelle;Paris;Paris;48.843017;2.31883;musee Bourdelle;75015.0;ile-de-France;Museum
+588;M5004;6 rue de F�rstenberg;Paris (6eme);Paris;48.854434;2.335679;musee Eugene Delacroix;75006.0;ile-de-France;Museum
+589;M5007;85, rue du Cherche-Midi;Paris (6eme);Paris;48.847429;2.322709;musee Hebert;75006.0;ile-de-France;Museum
+590;M5030;;Paris (1er);Paris;48.868053;2.326622;musee de l'Orangerie des Tuileries;75001.0;ile-de-France;Museum
+591;M5039;43, avenue de Villiers;Paris (17eme);Paris;48.883045;2.307689;musee Jean-Jacques Henner;75017.0;ile-de-France;Museum
+592;M5041;14, rue de la Rochefoucauld;Paris (9eme);Paris;48.877878;2.334383;musee Gustave Moreau;75009.0;ile-de-France;Museum
+593;M5042;1 place du Trocadero;Paris;Paris;48.862323;2.281879;musee des monuments fran�ais;75016.0;ile-de-France;Museum
+594;M5043;5, rue Thorigny;Paris (3eme);Paris;48.8597;2.362644;musee Picasso;75003.0;ile-de-France;Museum
+595;M5084;;Paris;Paris;48.836753;2.390394;musee national de l'histoire et des cultures de l'immigration;75012.0;ile-de-France;Museum
+596;M7004;36, rue Geoffroy Saint-Hilaire;Paris (5eme);Paris;48.841491;2.355989;galerie de mineralogie et de geologie (museum national d'histoire naturelle);75005.0;ile-de-France;Museum
+597;M7008;17, place du Trocadero;Paris (16eme);Paris;48.862548;2.28222;musee de l'homme (museum national d'histoire naturelle);75016.0;ile-de-France;Museum
+598;M7009;;Paris (5eme);Paris;48.847667;2.342646;galerie de botanique (museum national d'histoire naturelle);75005.0;ile-de-France;Museum
+599;M0366;16 rue Cadet;Paris (9eme);Paris;48.874991;2.343088;musee de la Franc-Ma�onnerie;75009.0;ile-de-France;Museum
+600;M1101;11 avenue du President Wilson;Paris;Paris;48.86460322;2.298432342;musee d'art moderne de la ville de Paris;75116.0;ile-de-France;Museum
+601;M1104;23, rue de Sevigne;Paris;Paris;48.85699;2.362856;musee Carnavalet - histoire de Paris;75003.0;ile-de-France;Museum
+602;M1106;7 avenue Velasquez;Paris;Paris;48.879693;2.312194;musee Cernuschi, musee des arts de l'Asie de la ville de Paris;75008.0;ile-de-France;Museum
+603;M1107;8 rue Elzevir;Paris;Paris;48.858257;2.361524;musee Cognacq-Jay, musee du XVIIIe siecle de la ville de Paris;75003.0;ile-de-France;Museum
+604;M1113;16 rue Chaptal;Paris;Paris;48.880899;2.333278;musee de la vie romantique;75009.0;ile-de-France;Museum
+605;M1116;34, boulevard de Vaugirard;Paris (15eme);Paris;48.84156094;2.317700896;musee de la poste;75731.0;ile-de-France;Museum
+606;M1204;5 avenue Marceau;Paris;Paris;48.873694;2.280339;musee Yves Saint Laurent Paris;75116.0;ile-de-France;Museum
+607;M5005;6, place d'Iena;Paris (16eme);Paris;48.86425;2.293754;musee des arts asiatiques Guimet;75116.0;ile-de-France;Museum
+608;M5031;Musee du Louvre, 75058 Paris CEDEX 01;Paris (1er);Paris;48.8607946;2.33781566;musee du Louvre;75058.0;ile-de-France;Museum
+609;M5040;59, avenue Foch;Paris (16eme);Paris;48.871845;2.281997;musee d'Ennery;75116.0;ile-de-France;Museum
+610;M5059;2, rue de la Legion d'honneur;Paris (7eme);Paris;48.860294;2.324768;musee national de la Legion d'honneur et des ordres de chevalerie;75007.0;ile-de-France;Museum
+611;M5071;129 rue de Grenelle;Paris;Paris;48.858219;2.312885;musee des Plans-reliefs;75007.0;ile-de-France;Museum
+612;M5073;63, rue de Monceau;Paris (8eme);Paris;48.878849;2.312855;musee Nissim de Camondo (Union centrale des arts decoratifs);75008.0;ile-de-France;Museum
+613;M0369;12, rue Cortot;Paris (18eme);Paris;48.887709;2.340577;musee de Montmartre;75018.0;ile-de-France;Museum
+614;M1076;10 rue des Fosses-Saint-Marcel;Paris (5eme);Paris;48.838805;2.356007;musee de l'assistance publique - hopitaux de Paris;75005.0;ile-de-France;Museum
+615;M1102;47 rue Raynouard;Paris;Paris;48.855398;2.280805;maison de Balzac;75016.0;ile-de-France;Museum
+616;M1109;23 allee de la 2eme Division Blindee;Paris;Paris;48.840614;2.319773;musee de la Liberation de Paris - musee du general Leclerc - musee Jean Moulin;75015.0;ile-de-France;Museum
+617;M5025;129, rue de Grenelle;Paris (7eme);Paris;48.858219;2.312885;musee de l'armee;75007.0;ile-de-France;Museum
+618;M5026;17, place du Trocadero;Paris (16eme);Paris;48.86425;2.293754;musee national de la marine;75116.0;ile-de-France;Museum
+619;M5057;221, avenue Jean-Jaures;Paris (19eme);Paris;48.889306;2.393807;musee de la musique;75019.0;ile-de-France;Museum
+620;M5060;1, rue de Bellechasse;Paris (7eme);Paris;48.859157;2.323672;musee d'Orsay;75007.0;ile-de-France;Museum
+621;M5065;60, rue Reaumur;Paris (3eme);Paris;48.865357;2.357046;musee des arts et metiers;75003.0;ile-de-France;Museum
+622;M5066;11, quai de Conti;Paris (6eme);Paris;48.857003;2.338699;musee des monnaies et medailles;75006.0;ile-de-France;Museum
+623;M7005;57, rue Cuvier;Paris (5eme);Paris;48.843834;2.355199;galerie d'entomologie (museum national d'histoire naturelle);75005.0;ile-de-France;Museum
+624;M7006;36, rue Geoffroy Saint-Hilaire;Paris (5eme);Paris;48.841491;2.355989;grande galerie de l'evolution (museum national d'histoire naturelle);75005.0;ile-de-France;Museum
+625;M1111;Avenue Winston-Churchill;Paris;Paris;48.86609;2.313763;Petit Palais, musee des beaux-arts de la ville de Paris;75008.0;ile-de-France;Museum
+626;M1114;6 place des Vosges;Paris;Paris;48.854808;2.366232;maison de Victor Hugo;75004.0;ile-de-France;Museum
+627;M1115;100 bis rue d'Assas;Paris;Paris;48.842793;2.333457;musee Zadkine;75006.0;ile-de-France;Museum
+628;M5003;6, place Paul Painleve;Paris (5eme);Paris;48.850437;2.344553;musee du Moyen age - thermes et hotel de Cluny;75005.0;ile-de-France;Museum
+629;M5021;107, rue de Rivoli;Paris (1er);Paris;48.863218;2.3333;musee des arts decoratifs (Union centrale des arts decoratifs);75001.0;ile-de-France;Museum
+630;M5044;77 rue de Varenne;Paris (7eme);Paris;48.855868;2.31598;musee Rodin;75007.0;ile-de-France;Museum
+631;M5050;Place Georges Pompidou;Paris (4eme);Paris;48.86080432;2.352223541;musee national d'art moderne (centre national d'art et de culture Georges Pompidou);75191.0;ile-de-France;Museum
+632;M7003;2, rue Buffon;Paris (5eme);Paris;48.842168;2.359933;galerie d'anatomie comparee et de paleontologie (museum national d'histoire naturelle);75005.0;ile-de-France;Museum
+633;M0377;937, rue Henri Chapu;Le Mee-sur-Seine;Seine-et-Marne;48.534859;2.635235;musee Henri Chapu;77350.0;ile-de-France;Museum
+634;M0382;48 avenue Etienne Dailly;Nemours;Seine-et-Marne;48.260312;2.714321;musee de prehistoire d'ile-de-France;77140.0;ile-de-France;Museum
+635;M0384;17, avenue de la Ferte-sous-Jouarre;Saint-Cyr-sur-Morin;Seine-et-Marne;48.90803;3.18169;musee des pays de Seine-et-Marne;77750.0;ile-de-France;Museum
+636;M0371;Place de la Republique;Chelles;Seine-et-Marne;48.87766;2.591845;musee Alfred Bonno;77500.0;ile-de-France;Museum
+637;M0374;s'adresser a la mairie;Crecy-la-Chapelle;Seine-et-Marne;48.85813263;2.908441509;musee municipal;77580.0;ile-de-France;Museum
+638;M0375;88 rue St Honore;Fontainebleau;Seine-et-Marne;48.406893;2.698781;musee d'art et d'histoire militaire;77300.0;ile-de-France;Museum
+639;M9013;Avenue du 13e Dragons;Melun;Seine-et-Marne;48.54648;2.651583;musee de la Gendarmerie;77000.0;ile-de-France;Museum
+640;M0373;13, rue Louis Braille;Coupvray;Seine-et-Marne;48.867372;2.712931;maison natale de Louis Braille;77400.0;ile-de-France;Museum
+641;M0378;5, place Charles-de-Gaulle;Meaux;Seine-et-Marne;48.938016;2.87061;musee Bossuet;77100.0;ile-de-France;Museum
+642;M0379;5 rue du Franc Murier;Melun;Seine-et-Marne;48.536398;2.658972;musee de Melun;77000.0;ile-de-France;Museum
+643;M0381;Rue Gautier 1er - Cour du Chateau;Nemours;Seine-et-Marne;48.265518;2.696157;chateau musee de Nemours;77140.0;ile-de-France;Museum
+644;M0383;7, rue du Palais;Provins;Seine-et-Marne;48.561624;3.290374;musee de Provins et du Provinois;77160.0;ile-de-France;Museum
+645;M0386;4, quai Stephane-Mallarme;Vulaines-sur-Seine;Seine-et-Marne;48.430323;2.746605;musee departemental Stephane Mallarme;77870.0;ile-de-France;Museum
+646;M1171;Rue Lazare Ponticelli;Meaux;Seine-et-Marne;48.955281;2.901461;musee de la Grande Guerre;77100.0;ile-de-France;Museum
+647;M5013;Chateau de Fontainebleau - Place du general de Gaulle;Fontainebleau;Seine-et-Marne;48.402815;2.696858;musee national du chateau de Fontainebleau;77300.0;ile-de-France;Museum
+648;M0370;92, Grande Rue;Barbizon;Seine-et-Marne;48.446181;2.602464;musee de l'ecole de Barbizon - auberge Ganne;77630.0;ile-de-France;Museum
+649;M0372;Parc des capucins;Coulommiers;Seine-et-Marne;48.810834;3.086974;musee municipal des Capucins;77120.0;ile-de-France;Museum
+650;M0376;8 cour Pierre Herbin;Lagny-sur-Marne;Seine-et-Marne;48.879644;2.707767;musee Gatien Bonnet;77400.0;ile-de-France;Museum
+651;M0380;place de Samois;Moret-sur-Loing;Seine-et-Marne;48.373638;2.815046;musee municipal;77250.0;ile-de-France;Museum
+652;M0385;Place George-Henri Riviere;Savigny-le-Temple;Seine-et-Marne;48.599142;2.570872;ecomusee;77176.0;ile-de-France;Museum
+653;M0420;31, boulevard Theophile Sueur;Montreuil-sous-bois;Seine-Saint-Denis;48.866151;2.469481;musee de l'histoire vivante;93100.0;ile-de-France;Museum
+654;M0422;22 bis, rue Gabriel Peri;Saint-Denis;Seine-Saint-Denis;48.932336;2.355796;musee d'art et d'histoire Paul Eluard;93200.0;ile-de-France;Museum
+655;M0423;12 rue Albert-Dhalenne;Saint-Ouen;Seine-Saint-Denis;48.915848;2.330639;musee municipal;93400.0;ile-de-France;Museum
+656;M5024;BP 173;Le Bourget;Seine-Saint-Denis;48.94681951;2.435562436;musee de l'air et de l'espace;93352.0;ile-de-France;Museum
+657;M0434;4 place du Chateau;Guiry-en-Vexin;Val d'Oise;49.108589;1.849395;musee archeologique departemental du Val d'Oise;95450.0;ile-de-France;Museum
+658;M0435;31 Grande rue;L'Isle-Adam;Val d'Oise;49.112285;2.21638;musee d'art et d'histoire Louis Senlecq;95290.0;ile-de-France;Museum
+659;M1213;Manoir des Colombieres;Auvers-sur-Oise;Val d'Oise;49.07148015;2.17178325;Musee Daubigny;95430.0;ile-de-France;Museum
+660;M0437;5, rue Jean-Jacques Rousseau;Montmorency;Val d'Oise;48.986892;2.320916;musee Jean-Jacques Rousseau;95160.0;ile-de-France;Museum
+661;M5012;Chateau d'Ecouen;Ecouen;Val d'Oise;49.015862;2.378424;musee de la Renaissance - chateau d'Ecouen;95440.0;ile-de-France;Museum
+662;M0436;56 rue de Paris;Louvres;Val d'Oise;49.041117;2.50695;ARCHeA, Archeologie en Pays de France;95380.0;ile-de-France;Museum
+663;M0438;4, rue Lemercier;Pontoise;Val d'Oise;49.050929;2.099776;musee Tavet Delacour;95300.0;ile-de-France;Museum
+664;M0432;12-14 Boulevard Leon Feix;Argenteuil;Val d'Oise;48.946909;2.249331;musee du vieil Argenteuil;95100.0;ile-de-France;Museum
+665;M0439;17, rue du Chateau;Pontoise;Val d'Oise;49.048396;2.099887;musee Pissarro;95300.0;ile-de-France;Museum
+666;M5064;7 avenue du General de Gaulle;Maisons-Alfort;Val-de-Marne;48.81278283;2.423362965;musee Fragonard;94704.0;ile-de-France;Museum
+667;M0425;88 avenue Marx Dormoy BP 135;Champigny-sur-Marne;Val-de-Marne;48.80748349;2.525362871;musee de la resistance nationale;94501.0;ile-de-France;Museum
+668;M0424;1, grande rue Charles de Gaulle;Bry-sur-Marne;Val-de-Marne;48.835224;2.519827;musee Adrien Mentienne;94360.0;ile-de-France;Museum
+669;M0426;41, rue Maurice Tenine;Fresnes;Val-de-Marne;48.75525;2.326389;ecomusee;94260.0;ile-de-France;Museum
+670;M0429;5, rue Saint-Hilaire - 92, avenue du Bac - Rue de la Poste;Saint Maur des Fosses;Val-de-Marne;48.79310938;2.514901836;musee de Saint-Maur - Villa Medicis;94210.0;ile-de-France;Museum
+671;M0431;Place de la Liberation;Vitry-sur-Seine;Val-de-Marne;48.792821;2.387072;musee d'art contemporain du Val-de-Marne;94400.0;ile-de-France;Museum
+672;M0427;36, boulevard Gallieni;Nogent-sur-Marne;Val-de-Marne;48.84026;2.484292;musee;94130.0;ile-de-France;Museum
+673;M0430;31, rue Louis-Lenoir;Villiers-sur-Marne;Val-de-Marne;48.826701;2.543144;musee Emile Jean;94350.0;ile-de-France;Museum
+674;M0394;1 enclos de l'Abbaye;Poissy;Yvelines;48.928429;2.037892;musee du jouet Pierre Pinel;78300.0;ile-de-France;Museum
+675;M0397;38 rue au Pain;Saint-Germain-en-Laye;Yvelines;48.794403;2.127681;musee municipal;78000.0;ile-de-France;Museum
+676;M0387;Place Gevelot;Conflans-Sainte-Honorine;Yvelines;48.992445;2.095621;musee de la batellerie;78700.0;ile-de-France;Museum
+677;M0390;1 Grille royale - Parc de Marly;Marly-le-Roi-Louveciennes;Yvelines;48.859572;2.109482;musee du domaine royal de Marly Louveciennes/Marly-le-Roi;78160.0;ile-de-France;Museum
+678;M0391;;Maule;Yvelines;48.908246;1.847178;musee Victor Aubert;78580.0;ile-de-France;Museum
+679;M0398;Quai Fran�ois Truffaut;Montigny-le-Bretonneux;Yvelines;48.782594;2.042664;musee de la ville;78180.0;ile-de-France;Museum
+680;M0399;Conservation des collections;Saint-Remy-les-Chevreuses;Yvelines;48.706544;2.069096;collections de la fondation de Coubertin;78470.0;ile-de-France;Museum
+681;M5045;Route des Granges;Magny-les-Hameaux;Yvelines;48.748437;2.01579;musee de Port-Royal des Champs;78114.0;ile-de-France;Museum
+682;M0392;5 rue Maurice-Ravel;Montfort-l'Amaury;Yvelines;48.776137;1.805464;maison-musee Maurice Ravel;78490.0;ile-de-France;Museum
+683;M0393;;Poissy;Yvelines;48.92797;2.044648;musee d'art et d'histoire;78300.0;ile-de-France;Museum
+684;M0388;54, rue Charles de Gaulle;Jouy-en-Josas;Yvelines;48.768986;2.153216;musee de la toile de Jouy;78350.0;ile-de-France;Museum
+685;M0400;54, boulevard de la Reine;Versailles;Yvelines;48.808966;2.130624;musee Lambinet;78000.0;ile-de-France;Museum
+686;M1186;26 Rue Pasteur;Medan;Yvelines;48.952745;1.995035;musee Zola-Dreyfus;78670.0;ile-de-France;Museum
+687;M5001;Place Charles de Gaulle;Saint-Germain-en-Laye;Yvelines;48.897879;2.094936;musee d'archeologie nationale (des origines a l'an mille) - chateau de Saint-Germain-en-Laye;78100.0;ile-de-France;Museum
+688;M0389;1 rue Thiers;Mantes-la-Jolie;Yvelines;48.990874;1.719901;musee de l'hotel-Dieu;78200.0;ile-de-France;Museum
+689;M0395;4, place Jeanne d'Arc;Rambouillet;Yvelines;48.646025;1.823892;musee Rambolitrain;78120.0;ile-de-France;Museum
+690;M0396;2bis, rue Maurice Denis;Saint-Germain-en-Laye;Yvelines;48.892495;2.087541;musee departemental Maurice Denis;78100.0;ile-de-France;Museum
+691;M5077;;Versailles;Yvelines;48.804537;2.134053;musee national des chateaux de Versailles et de Trianon;78000.0;ile-de-France;Museum
+692;M0658;Chateau;Caen;Calvados;49.162048;-0.34514;musee de Normandie;14000.0;Normandie;Museum
+693;M0669;rue Saint-Benoit;Saint-Pierre-sur-Dives;Calvados;49.0196;-0.033249;musee des techniques fromageres;14170.0;Normandie;Museum
+694;M7063;5 avenue Jean Moulin;Villers-sur-mer;Calvados;49.328057;0.013729;musee paleontologique;14640.0;Normandie;Museum
+695;M0654;Place du 6 juin;Arromanches;Calvados;49.339971;-0.62156;musee du Debarquement;14117.0;Normandie;Museum
+696;M0659;BP 6261;Caen;Calvados;49.19751134;-0.383840027;memorial de Caen, un musee pour la paix;14066.0;Normandie;Museum
+697;M0655;Centre Guillaume le Conquerant, 13bis rue de Nesmond, 14400 Bayeux (Tapisserie de Bayeux) / 37, rue du Bienvenu (MAHB);Bayeux;Calvados;49.27615187;-0.703063031;Tapisserie de Bayeux - MAHB musee d'art et d'histoire Baron Gerard;14402.0;Normandie;Museum
+698;M0657;Musee des beaux-arts;Caen;Calvados;49.18615123;-0.361223819;musee des beaux-arts;14000.0;Normandie;Museum
+699;M0663;rue de La Fosse-Frandemiche;Le-Molay-Littry;Calvados;49.243172;-0.877058;musee de la mine;14330.0;Normandie;Museum
+700;M0664;Moulin de Marcy;Le-Molay-Littry;Calvados;49.227605;-0.904606;musee de la meunerie - moulin de Marcy;14330.0;Normandie;Museum
+701;M0665;38, boulevard Pasteur;Lisieux;Calvados;49.144581;0.219329;musee d'art et d'histoire;14100.0;Normandie;Museum
+702;M0666;107 rue Grande;Orbec;Calvados;49.022096;0.406804;musee municipal le vieux manoir;14290.0;Normandie;Museum
+703;M0670;Chapelle Notre-Dame-du-Val;Tilly-sur-Seulles;Calvados;49.177537;-0.612546;musee de la bataille de Tilly-sur-Seulles;14250.0;Normandie;Museum
+704;M0672;2 place Sainte-Anne;Vire;Calvados;48.835996;-0.888245;musee municipal;14500.0;Normandie;Museum
+705;M1077;13 chemin Hausse;Vieux;Calvados;49.105412;-0.431321;musee et sites archeologiques de Vieux-la-Romaine;14930.0;Normandie;Museum
+706;M0656;A la mairie;Beaumont-en-Auge;Calvados;49.263268;0.107383;musee Langlois;14950.0;Normandie;Museum
+707;M0660;S'adresser a la mairie;Caen;Calvados;49.1813016;-0.372151129;musee de la Societe des antiquaires;14000.0;Normandie;Museum
+708;M0661;Rue de l'Homme de Bois;Honfleur;Calvados;49.42241759;0.230866735;musee Eugene Boudin;14602.0;Normandie;Museum
+709;M0662;Quai Saint-Etienne et rue de la Prison;Honfleur;Calvados;49.419863;0.233625;musee d'ethnographie et d'arts populaires et musee de la marine;14600.0;Normandie;Museum
+710;M0668;D 268;Saint-Germain-de-Livet;Calvados;49.074299;0.191032;chateau;14100.0;Normandie;Museum
+711;M0667;Chateau de Pontecoulant;Pontecoulant;Calvados;48.896128;-0.587689;musee du chateau;14110.0;Normandie;Museum
+712;M0671;64 rue du General-Leclerc;Trouville-sur-Mer;Calvados;49.37135;0.083538;musee de la villa Montebello;14360.0;Normandie;Museum
+713;M7072;Esplanade Jean - Marie Louvel;Caen;Calvados;49.1805901;-0.372187156;musee d'initiation a la nature;14027.0;Normandie;Museum
+714;M0702;route de Sainte-Marguerite;Conches-en-Ouche;Eure;48.955254;0.935945;musee municipal;27190.0;Normandie;Museum
+715;M0704;Place de l'Eglise;La Couture-Boussey;Eure;48.908972;1.386877;musee des instruments a vent;27750.0;Normandie;Museum
+716;M0708;12 rue du Pont;Vernon;Eure;49.094855;1.484927;musee Alphonse-Georges Poulain;27200.0;Normandie;Museum
+717;M0701;Place Guillaume-de-Volpiano;Bernay;Eure;49.088944;0.598806;musee municipal;27300.0;Normandie;Museum
+718;M0706;Place Ernest Thorel;Louviers;Eure;49.215649;1.168552;musee municipal;27400.0;Normandie;Museum
+719;M0703;6 rue Charles Corbeau;Evreux;Eure;49.023998;1.1502;musee de l'ancien ev�che;27000.0;Normandie;Museum
+720;M0705;Rue Sainte-Clotilde;Les Andelys;Eure;49.245827;1.420009;musee Nicolas Poussin;27700.0;Normandie;Museum
+721;M0707;64 rue de la Republique;Pont-Audemer;Eure;49.356747;0.515774;musee Alfred Canel;27500.0;Normandie;Museum
+722;M0682;2 rue Lecarpentier;Granville;Manche;48.837248;-1.602814;musee d'Art et d'Histoire de Granville;50400.0;Normandie;Museum
+723;M0685;Place du Champ de Mars;Saint-Lo;Manche;49.116174;-1.087574;musee des beaux-arts;50000.0;Normandie;Museum
+724;M0679;Montee des Resistants;Cherbourg;Manche;49.630736;-1.616324;musee de la Liberation;50100.0;Normandie;Museum
+725;M0680;2 rue Quesnel-Moriniere;Coutances;Manche;49.047263;-1.446668;musee Quesnel-Moriniere;50200.0;Normandie;Museum
+726;M0684;;Granville;Manche;48.83751;-1.588374;musee Christian Dior;50400.0;Normandie;Museum
+727;M0693;25 rue du General Huard;Villedieu-les-Po�les;Manche;48.840754;-1.221648;musee de la po�lerie;50800.0;Normandie;Museum
+728;M0687;Le bourg - 50670 Saint-Michel-de-Montjoie;Saint-Michel-de-Montjoie;Manche;48.774021;-1.037895;musee du Granit;50670.0;Normandie;Museum
+729;M0691;Rue du Petit-Versailles;Valognes;Manche;49.505993;-1.470416;musee regional du cidre et du calvados;50700.0;Normandie;Museum
+730;M1190;1 rue de Beauvais;Sainte-Mere-Eglise;Manche;49.412401;-1.319894;ferme-musee du Cotentin;50480.0;Normandie;Museum
+731;M0675;Cour du Chateau;Bricquebec;Manche;49.424753;-1.649839;musee du vieux chateau;50260.0;Normandie;Museum
+732;M0681;Hotel de Ville;Equeurdreville-Hainneville;Manche;49.64899337;-1.652644352;musee municipal;50120.0;Normandie;Museum
+733;M0688;66 rue Bottin Desylles;Saint-Sauveur-le-Vicomte;Manche;49.384499;-1.533001;musee Barbey d'Aurevilly;50390.0;Normandie;Museum
+734;M0689;BP 3;Saint-Vaast-la-Hougue;Manche;49.587648;-1.267813;musee maritime de l'ile Tatihou;50550.0;Normandie;Museum
+735;M0690;Place Charles-De-Gaulle;Torigni-sur-Vire;Manche;49.03409883;-0.978710667;musee du chateau;50160.0;Normandie;Museum
+736;M0673;place Jean de Saint-Avit;Avranches;Manche;48.687696;-1.363384;musee municipal de l'Avranchin;50300.0;Normandie;Museum
+737;M0674;La Logeraie;Barenton;Manche;48.587979;-0.806137;musee du Poire;50720.0;Normandie;Museum
+738;M0676;Place du Cardinal Guilbert;Cerisy-la-For�t;Manche;49.19308;-0.936738;musee de l'abbaye;50680.0;Normandie;Museum
+739;M0677;Esplanade de la La�cite;Cherbourg;Manche;49.638452;-1.625439;musee Thomas Henry;50100.0;Normandie;Museum
+740;M0678;19 ter rue Bonhomme;Cherbourg;Manche;49.6429;-1.630729;musee Emmanuel Liais;50100.0;Normandie;Museum
+741;M0683;place de l'Isthme;Granville;Manche;48.838549;-1.600543;musee Richard Anacreon;50400.0;Normandie;Museum
+742;M0686;Boulevard de la Commune;Saint-Lo;Manche;49.114654;-1.074964;musee du bocage normand, ferme du bois Jugan;50000.0;Normandie;Museum
+743;M0697;;La Ferte-Mace;Orne;48.59056897;-0.359062663;musee municipal - musee du jouet;61200.0;Normandie;Museum
+744;M0698;Rue du Portail Saint-Denis;Mortagne-au-Perche;Orne;48.521951;0.547043;musee percheron;61400.0;Normandie;Museum
+745;M0696;place Fulbert de Beina;L'Aigle;Orne;48.764955;0.628791;musee municipal d'archeologie;61300.0;Normandie;Museum
+746;M0700;Place du General de Gaulle;Sees;Orne;48.605422;0.171614;musee departemental d'art sacre;61500.0;Normandie;Museum
+747;M0694;12 rue Charles Aveline;Alen�on;Orne;48.431484;0.083508;musee des beaux-arts et de la dentelle;61000.0;Normandie;Museum
+748;M0695;BP 229;Flers;Orne;48.76963604;-0.514904882;musee du chateau de Flers;61104.0;Normandie;Museum
+749;M0699;5, hameau de Sainte-Gauburge;Saint-Cyr-La-Rosiere;Orne;48.324387;0.656069;musee departemental des arts et traditions populaires du Perche;61130.0;Normandie;Museum
+750;M0711;Avenue Winston Churchill;Caudebec-en-Caux;Seine-Maritime;49.524671;0.72058;mausee de la marine de Seine;76490.0;Normandie;Museum
+751;M0712;Rue de Chastes;Dieppe;Seine-Maritime;49.923908;1.071756;chateau-musee;76200.0;Normandie;Museum
+752;M0726;Rue Baron Bigot;Montville;Seine-Maritime;49.546845;1.076136;musee des sapeurs pompiers de France;76710.0;Normandie;Museum
+753;M0729;Esplanade Marcel Duchamp;Rouen;Seine-Maritime;49.44499;1.09396;musee des beaux-arts;76000.0;Normandie;Museum
+754;M0735;48 rue edouard Cannevel;Saint-Nicolas-d'Aliermont;Seine-Maritime;49.879641;1.219788;musee de l'horlogerie;76510.0;Normandie;Museum
+755;M5067;185 rue Eau-de-Robec;Rouen;Seine-Maritime;49.441397;1.101667;musee national de l'education;76000.0;Normandie;Museum
+756;M0727;53 Grande Rue Saint-Pierre;Neufchatel-en-Bray;Seine-Maritime;49.730766;1.436734;musee Mathon-Durand;76270.0;Normandie;Museum
+757;M1099;7 cours Gambetta;Elbeuf;Seine-Maritime;49.285546;1.006479;musee municipal;76500.0;Normandie;Museum
+758;M7012;198 rue Beauvoisine;Rouen;Seine-Maritime;49.447268;1.098932;museum d'histoire naturelle;76000.0;Normandie;Museum
+759;M7015;Place du Vieux Marche;Le Havre;Seine-Maritime;49.487552;0.108231;museum d'histoire naturelle;76600.0;Normandie;Museum
+760;M0710;Rue Thomas-Bazin;Caudebec-en-Caux;Seine-Maritime;49.525351;0.725967;maison des templiers;76490.0;Normandie;Museum
+761;M0720;2, boulevard Clemenceau;Le Havre;Seine-Maritime;49.484796;0.102188;musee Malraux;76600.0;Normandie;Museum
+762;M0725;Route du chateau;Martainville-Epreville;Seine-Maritime;49.460211;1.292253;musee des traditions et arts normands;76116.0;Normandie;Museum
+763;M0713;18 quai Gustave Flaubert;Dieppedalle-Croisset;Seine-Maritime;49.435017;1.031203;pavillon Flaubert;76380.0;Normandie;Museum
+764;M0722;502 rue Pierre Corneille;Petit-Couronne;Seine-Maritime;49.389368;1.0216;musee Pierre Corneille;76650.0;Normandie;Museum
+765;M0728;185 route de Dieppe;Notre-Dame-de-Bondeville;Seine-Maritime;49.494507;1.048567;musee industriel de la corderie Valois;76960.0;Normandie;Museum
+766;M0731;4, rue de la Pie;Rouen;Seine-Maritime;49.443051;1.086748;musee Pierre Corneille;76000.0;Normandie;Museum
+767;M0734;51 rue de Lecat;Rouen;Seine-Maritime;49.445232;1.081736;musee Flaubert et d'histoire de la medecine;76000.0;Normandie;Museum
+768;M0709;Rue Madeleine Vernet;Barentin;Seine-Maritime;49.545218;0.952073;musee municipal;76360.0;Normandie;Museum
+769;M0714;Place d'Orleans;Eu;Seine-Maritime;50.049138;1.418369;musee Louis Philippe;76260.0;Normandie;Museum
+770;M0715;3 quai capitaine Jean Recher;Fecamp;Seine-Maritime;49.76179;0.36825;Les P�cheries, musee de Fecamp;76400.0;Normandie;Museum
+771;M0717;50 rue de la Republique;Harfleur;Seine-Maritime;49.507156;0.19911;musee du prieure;76700.0;Normandie;Museum
+772;M0718;1 rue Jerome Bellarmato;Le Havre;Seine-Maritime;49.488805;0.114474;musee de l'ancien Havre;76600.0;Normandie;Museum
+773;M0719;Rue de l'Abbaye;Le Havre;Seine-Maritime;49.503006;0.168325;musee du prieure de Graville;76600.0;Normandie;Museum
+774;M0721;3 quai de l'Ile;Le Havre;Seine-Maritime;49.486857;0.112815;musee de l'armateur;76600.0;Normandie;Museum
+775;M0723;692, rue du petit pont;Notre-Dame-de-Bliquetuit;Seine-Maritime;49.497518;0.757352;ecomusee de la basse Seine;76940.0;Normandie;Museum
+776;M0724;7 rue Victor Hugo;Lillebonne;Seine-Maritime;49.517842;0.535803;musee municipal;76170.0;Normandie;Museum
+777;M0730;1 rue Faucon;Rouen;Seine-Maritime;49.445543;1.093846;musee de la ceramique;76000.0;Normandie;Museum
+778;M0732;2 rue Jacques Villon;Rouen;Seine-Maritime;49.445148;1.094521;musee Le Secq des Tournelles;76000.0;Normandie;Museum
+779;M0733;198 rue Beauvoisine;Rouen;Seine-Maritime;49.447268;1.098932;musee des antiquites de la Seine-Maritime;76000.0;Normandie;Museum
+780;M0736;Rue Ernest Binet;Villequier;Seine-Maritime;49.511951;0.673374;musee Victor Hugo;76490.0;Normandie;Museum
+781;M0737;8 Place du Marechal Joffre;Yvetot;Seine-Maritime;49.617332;0.754906;musee municipal des ivoires;76190.0;Normandie;Museum
+782;M0818;1, rue de  Friedland;Angoul�me;Charente;45.6493;0.152569;musee des beaux-arts;16000.0;Nouvelle-Aquitaine;Museum
+783;M0819;134, rue de Bordeaux;Angoul�me;Charente;45.653356;0.149932;atelier-musee du papier;16000.0;Nouvelle-Aquitaine;Museum
+784;M0820;Quai de la Charente;Angoul�me;Charente;45.65559977;0.15122268;musee de la bande dessinee - centre national de la bande dessinee et de l'image;16012.0;Nouvelle-Aquitaine;Museum
+785;M0821;44 rue de Montmoreau;Angoul�me;Charente;45.647813;0.160838;musee archeologique et historique;16000.0;Nouvelle-Aquitaine;Museum
+786;M0822;48, boulevard Denfert-Rochereau;Cognac;Charente;45.695744;-0.326186;musee municipal du Cognac;16100.0;Nouvelle-Aquitaine;Museum
+787;M0826;2, rue Saint-Come;La Rochelle;Charente-Maritime;46.160752;-1.155429;musee d'Orbigny-Bernon;17000.0;Nouvelle-Aquitaine;Museum
+788;M7040;28 rue Albert 1er;La Rochelle;Charente-Maritime;46.164822;-1.151488;museum d'histoire naturelle et d'ethnographie;17000.0;Nouvelle-Aquitaine;Museum
+789;M0824;Esplanade de la Legion d'Honneur;Fouras;Charente-Maritime;45.98600616;-1.096922791;musee regional;17450.0;Nouvelle-Aquitaine;Museum
+790;M0827;10, rue Fleuriau;La Rochelle;Charente-Maritime;46.161435;-1.151157;musee du nouveau monde;17000.0;Nouvelle-Aquitaine;Museum
+791;M0831;141, rue Pierre Loti;Rochefort;Charente-Maritime;45.934295;-0.962724;musee de la maison de Pierre Loti;17300.0;Nouvelle-Aquitaine;Museum
+792;M0834;9 place Gambetta;Saint-Pierre-d'Oleron;Charente-Maritime;45.942781;-1.307498;musee oleronais Alienor d'Aquitaine;17310.0;Nouvelle-Aquitaine;Museum
+793;M0836;rue Victor Hugo;Saintes;Charente-Maritime;45.746235;-0.632055;musee du Presidial;17100.0;Nouvelle-Aquitaine;Museum
+794;M0823;Parvis de l'eglise;Esnandes;Charente-Maritime;46.250245;-1.111861;musee de la mytiliculture;17137.0;Nouvelle-Aquitaine;Museum
+795;M0832;9 rue Regnaud;Saint-Jean-d'Angely;Charente-Maritime;45.942607;-0.523425;musee municipal des cordeliers;17400.0;Nouvelle-Aquitaine;Museum
+796;M0833;13 avenue Victor Bouthillier;Saint-Martin-de-Re;Charente-Maritime;46.2055;-1.365288;musee Ernest Cognacq;17410.0;Nouvelle-Aquitaine;Museum
+797;M5048;ile d'AIX;ile-d'Aix;Charente-Maritime;46.011577;-1.176477;musee napoleonien et musee africain (annexes du musee national des chateaux de Malmaison et de Bois Preau);17123.0;Nouvelle-Aquitaine;Museum
+798;M0825;28, rue Gargouleau;La Rochelle;Charente-Maritime;46.161969;-1.151552;musee des beaux-arts;17000.0;Nouvelle-Aquitaine;Museum
+799;M0828;2, rue Saint-Michel;La Rochelle;Charente-Maritime;46.159482;-1.150024;musee protestant;17000.0;Nouvelle-Aquitaine;Museum
+800;M0830;63 avenue de Gaulle;Rochefort;Charente-Maritime;45.935666;-0.962523;musee d'art et d'histoire;17300.0;Nouvelle-Aquitaine;Museum
+801;M0829;62, rue d'Aligre;Marans;Charente-Maritime;46.309723;-0.991941;musee Capon;17230.0;Nouvelle-Aquitaine;Museum
+802;M0835;Esplanade Andre-Malraux;Saintes;Charente-Maritime;45.741605;-0.627956;musee archeologique;17100.0;Nouvelle-Aquitaine;Museum
+803;M0837;Rue Alsace-Lorraine;Saintes;Charente-Maritime;45.745991;-0.633096;musee de l'Echevinage;17100.0;Nouvelle-Aquitaine;Museum
+804;M0838;4 rue Monconseil;Saintes;Charente-Maritime;45.743294;-0.634076;musee Dupuy-Mestreau;17100.0;Nouvelle-Aquitaine;Museum
+805;M0501;12 rue Michelet;Ussel;Correze;45.54705997;2.308435549;musee du pays d'Ussel;19208.0;Nouvelle-Aquitaine;Museum
+806;M0499;26 bis boulevard Jules Ferry;Brive;Correze;45.158512;1.535911;musee Labenche;19100.0;Nouvelle-Aquitaine;Museum
+807;M1084;4 Route du Musee;Sarran;Correze;45.407742;1.940079;musee du president Jacques Chirac;19800.0;Nouvelle-Aquitaine;Museum
+808;M0500;Place Monseigneur Berteaud;Tulle;Correze;45.267654;1.770791;musee du cloitre;19000.0;Nouvelle-Aquitaine;Museum
+809;M1191;1 bis rue du 9 juin 44;Tulle;Correze;45.260441;1.751522;musee de la memoire et des industries tullistes;19000.0;Nouvelle-Aquitaine;Museum
+810;M0502;avenue des Lissiers;Aubusson;Creuse;45.954471;2.169905;musee departemental de la tapisserie;23200.0;Nouvelle-Aquitaine;Museum
+811;M0503;22, avenue de la Senatorerie;Gueret;Creuse;46.165838;1.870758;musee d'art et d'archeologie;23000.0;Nouvelle-Aquitaine;Museum
+812;M0843;1 rue Vau Saint-Jacques;Parthenay;Deux-Sevres;46.652064;-0.24942;musee d'art et d'histoire Georges Turpin;79200.0;Nouvelle-Aquitaine;Museum
+813;M7052;26 avenue de Limoges;Niort;Deux-Sevres;46.321168;-0.454351;musee d'histoire naturelle;79000.0;Nouvelle-Aquitaine;Museum
+814;M0839;La Chapelle;Bougon;Deux-Sevres;46.374565;-0.067433;musee des Tumulus;79800.0;Nouvelle-Aquitaine;Museum
+815;M0840;Place de l'Hotel de Ville;Bressuire;Deux-Sevres;46.841873;-0.493243;musee municipal;79300.0;Nouvelle-Aquitaine;Museum
+816;M0841;28, avenue de Limoges;Niort;Deux-Sevres;46.321065;-0.454107;musee Bernard d'Agesci;79000.0;Nouvelle-Aquitaine;Museum
+817;M0842;Rue Du Guesclin;Niort;Deux-Sevres;46.329091;-0.509253;musee ethnographique et archeologique du Donjon;79000.0;Nouvelle-Aquitaine;Museum
+818;M0845;7 rue Marie de la Tour;Thouars;Deux-Sevres;46.973531;-0.217936;musee d'art et d'histoire Henri Barre;79100.0;Nouvelle-Aquitaine;Museum
+819;M1188;20 rue du 26e Regiment d'infanterie;Perigueux;Dordogne;45.179999;0.71269;musee gallo-romain de Vesunna;24000.0;Nouvelle-Aquitaine;Museum
+820;M0054;2-6 rue Raoul-Grassin;Mussidan;Dordogne;45.037634;0.361673;musee des arts et traditions populaires;24400.0;Nouvelle-Aquitaine;Museum
+821;M5014;1 rue du musee;Les Eyzies;Dordogne;44.93608;1.01363;musee national de prehistoire;24620.0;Nouvelle-Aquitaine;Museum
+822;M0050;;Bourdeilles;Dordogne;45.321359;0.586014;chateau de Bourdeilles;24310.0;Nouvelle-Aquitaine;Museum
+823;M0052;Place de la Halle;Domme;Dordogne;44.803211;1.214147;musee Paul Reclus;24250.0;Nouvelle-Aquitaine;Museum
+824;M0053;Place Bertran-de-Born;Montignac-sur-Vezere;Dordogne;45.063722;1.163336;musee Eugene Le Roy;24290.0;Nouvelle-Aquitaine;Museum
+825;M0056;32, rue des Farges;Perigueux;Dordogne;45.183285;0.720943;musee militaire - souvenirs du Perigord;24000.0;Nouvelle-Aquitaine;Museum
+826;M0057;22, cours Tourny;Perigueux;Dordogne;45.186039;0.72395;musee d'art et d'archeologie du Perigord;24000.0;Nouvelle-Aquitaine;Museum
+827;M0058;;Saint-Avit-Senieur;Dordogne;44.77393;0.815624;musee de site medieval;24440.0;Nouvelle-Aquitaine;Museum
+828;M0049;Place du Feu;Bergerac;Dordogne;44.84976;0.483469;musee du tabac;24100.0;Nouvelle-Aquitaine;Museum
+829;M0051;Boulevard Charlemagne;Brantome;Dordogne;45.364385;0.647127;musee Fernand Desmoulin;24310.0;Nouvelle-Aquitaine;Museum
+830;M0055;Avenue du General Leclerc;Nontron;Dordogne;45.527264;0.660717;musee departemental de la poupee et du jouet;24300.0;Nouvelle-Aquitaine;Museum
+831;M0060;Mairie de Sarlat;Sarlat;Dordogne;44.89456376;1.233048328;musee de Sarlat et du Perigord noir;24206.0;Nouvelle-Aquitaine;Museum
+832;M0061;;Villefranche-de-Lonchat;Dordogne;44.94827;0.056581;musee municipal;24610.0;Nouvelle-Aquitaine;Museum
+833;M7034;28, Site Bella Riva;Creysse;Dordogne;44.854512;0.564759;musee-aquarium;24100.0;Nouvelle-Aquitaine;Museum
+834;M0063;Citadelle de Blaye;Blaye;Gironde;45.126358;-0.66364;musee d'art et d'histoire du pays blayais;33390.0;Nouvelle-Aquitaine;Museum
+835;M0064;20, cours Pasteur;Bordeaux;Gironde;44.835543;-0.575205;musee d'Aquitaine;33000.0;Nouvelle-Aquitaine;Museum
+836;M0070;Place du District;Bourg-sur-Gironde;Gironde;45.039017;-0.55971;musee de la voiture a cheval. Au temps des caleches;33710.0;Nouvelle-Aquitaine;Museum
+837;M7026;5, place Bardineau;Bordeaux;Gironde;44.848154;-0.580085;museum d'histoire naturelle;33000.0;Nouvelle-Aquitaine;Museum
+838;M0062;;Blasimon;Gironde;44.748299;-0.074554;musee archeologique;33540.0;Nouvelle-Aquitaine;Museum
+839;M0067;7 rue Ferrere;Bordeaux;Gironde;44.848186;-0.572137;CAPC - musee d'art contemporain;33000.0;Nouvelle-Aquitaine;Museum
+840;M0071;Esplanade Charles de Gaulle;La Reole;Gironde;44.581128;-0.041074;musee municipal;33190.0;Nouvelle-Aquitaine;Museum
+841;M0072;42 Place Abel Surchamp;Libourne;Gironde;44.914487;-0.245068;musee des beaux-arts et d'archeologie;33500.0;Nouvelle-Aquitaine;Museum
+842;M0065;20, cours d'Albret;Bordeaux;Gironde;44.838056;-0.579413;musee des beaux-arts;33000.0;Nouvelle-Aquitaine;Museum
+843;M0066;39 rue Bouffard;Bordeaux;Gironde;44.838956;-0.579686;musee des arts decoratifs et du design;33000.0;Nouvelle-Aquitaine;Museum
+844;M0069;20 cours Pasteur;Bordeaux;Gironde;44.835543;-0.575205;musee Goupil;33000.0;Nouvelle-Aquitaine;Museum
+845;M0075;Rue Jean Lapeyre;Villandraut;Gironde;44.457512;-0.372793;musee municipal;33730.0;Nouvelle-Aquitaine;Museum
+846;M0068;48 rue Vital Carles;Bordeaux;Gironde;44.838651;-0.577869;centre national Jean Moulin;33000.0;Nouvelle-Aquitaine;Museum
+847;M0073;s'adresser a la mairie;Libourne;Gironde;44.9148033;-0.24517995;musee historique du vieux Libourne;33500.0;Nouvelle-Aquitaine;Museum
+848;M0074;s'adresser a la mairie;Saint-Emilion;Gironde;44.89461759;-0.155708431;musee d'histoire et d'archeologie;33330.0;Nouvelle-Aquitaine;Museum
+849;M0504;1 place Saint-Thyrse;Chateauponsac;Haute-Vienne;46.13125;1.274322;musee Rene Bauberot;87290.0;Nouvelle-Aquitaine;Museum
+850;M0506;;Rochechouart;Haute-Vienne;45.822521;0.820506;musee departemental d'art contemporain;87600.0;Nouvelle-Aquitaine;Museum
+851;M5015;8 place Winston Churchill;Limoges;Haute-Vienne;45.832531;1.252114;musee de la porcelaine Adrien Dubouche;87000.0;Nouvelle-Aquitaine;Museum
+852;M0505;1 place de l'Ev�che;Limoges;Haute-Vienne;45.828784;1.265445;musee des beaux-arts de Limoges - Palais de l'ev�che;87000.0;Nouvelle-Aquitaine;Museum
+853;M0076;332, avenue Louis Breguet;Biscarrosse;Landes;44.388887;-1.182563;musee historique de l'hydravion;40600.0;Nouvelle-Aquitaine;Museum
+854;M0079;;Luxey;Landes;44.262826;-0.520865;atelier-musee;40430.0;Nouvelle-Aquitaine;Museum
+855;M0078;785 route de l'abbaye;Hastingues;Landes;43.52735;-1.12142;musee departemental d'Histoire et d'Archeologie;40300.0;Nouvelle-Aquitaine;Museum
+856;M0085;Place de la Mairie;Sanguinet;Landes;44.483822;-1.075791;musee archeologique;40460.0;Nouvelle-Aquitaine;Museum
+857;M0077;11 Bis rue des Carmes;Dax;Landes;43.710655;-1.054061;musee de Borda;40100.0;Nouvelle-Aquitaine;Museum
+858;M0082;480 chemin de Sala;Montfort-en-Chalosse;Landes;43.715749;-0.833916;musee des arts et traditions populaires de la Chalosse;40380.0;Nouvelle-Aquitaine;Museum
+859;M0081;place Marguerite de Navarre;Mont-de-Marsan;Landes;43.8926;-0.498893;musee Despiau-Wlerick;40000.0;Nouvelle-Aquitaine;Museum
+860;M0080;Route de Solferino;Sabres;Landes;44.149414;-0.749433;ecomusee de la Grande Lande;40630.0;Nouvelle-Aquitaine;Museum
+861;M0084;Rue Lamarques;Saint-Sever;Landes;43.758542;-0.572168;musee d'Art et d'Histoire du Cap de Gascogne;40500.0;Nouvelle-Aquitaine;Museum
+862;M0086;2378 route d�Hagetmau;Samadet;Landes;43.641006;-0.510832;musee departemental de la Fa�ence et des Arts de la table;40320.0;Nouvelle-Aquitaine;Museum
+863;M0088;15 rue Abel Boye;Marmande;Lot-et-Garonne;44.498918;0.166067;musee municipal Albert Marzelles;47200.0;Nouvelle-Aquitaine;Museum
+864;M0089;Rue Henri IV;Nerac;Lot-et-Garonne;44.135038;0.339995;musee du chateau;47600.0;Nouvelle-Aquitaine;Museum
+865;M1163;Rue du puits saint Come;Mezin;Lot-et-Garonne;44.056939;0.256362;musee du liege et du bouchon;47170.0;Nouvelle-Aquitaine;Museum
+866;M0090;Le bourg;Sauveterre-la-Lemance;Lot-et-Garonne;44.597987;1.017451;musee municipal;47500.0;Nouvelle-Aquitaine;Museum
+867;M0087;place du Dr Esquirol;Agen;Lot-et-Garonne;44.202895;0.615471;musee municipal des beaux-arts;47000.0;Nouvelle-Aquitaine;Museum
+868;M0091;2, rue des Jardins;Villeneuve-sur-Lot;Lot-et-Garonne;44.405095;0.707815;musee municipal de Gajac;47300.0;Nouvelle-Aquitaine;Museum
+869;M0092;rue des Eglises;Arudy;Pyrenees-Atlantiques;43.105742;-0.427534;musee municipal;64260.0;Nouvelle-Aquitaine;Museum
+870;M0098;rue Mathieu Lalanne;Pau;Pyrenees-Atlantiques;43.297254;-0.364384;musee des beaux-arts;64000.0;Nouvelle-Aquitaine;Museum
+871;M0099;8 rue Tran;Pau;Pyrenees-Atlantiques;43.297209;-0.372526;musee Bernadotte;64000.0;Nouvelle-Aquitaine;Museum
+872;M5017;2 rue du Chateau;Pau;Pyrenees-Atlantiques;43.294699;-0.374378;musee national du chateau de Pau;64000.0;Nouvelle-Aquitaine;Museum
+873;M0094;5 rue Jacques Laffitte;Bayonne;Pyrenees-Atlantiques;43.492108;-1.472299;musee Bonnat - Helleu, musee des beaux-arts de Bayonne;64100.0;Nouvelle-Aquitaine;Museum
+874;M0095;route du Docteur Camino;Cambo-les-Bains;Pyrenees-Atlantiques;43.366872;-1.41606;musee Edmond Rostand;64250.0;Nouvelle-Aquitaine;Museum
+875;M0096;;Guethary;Pyrenees-Atlantiques;43.425653;-1.609198;musee municipal;64210.0;Nouvelle-Aquitaine;Museum
+876;M0100;Commune d'Oloron Sainte-Marie;Pau;Pyrenees-Atlantiques;43.18818;-0.604752;musee bearnais;64400.0;Nouvelle-Aquitaine;Museum
+877;M1198;Route du Chateau;Claracq;Pyrenees-Atlantiques;43.514297;-0.303415;musee gallo-romain;64330.0;Nouvelle-Aquitaine;Museum
+878;M7065;1 avenue du Marechal Leclerc;Bayonne;Pyrenees-Atlantiques;43.49364188;-1.475169331;museum d'histoire naturelle;64109.0;Nouvelle-Aquitaine;Museum
+879;M0093;37 quai des Corsaires;Bayonne;Pyrenees-Atlantiques;43.491093;-1.473823;musee basque;64100.0;Nouvelle-Aquitaine;Museum
+880;M0846;3 rue Clement Krebs;Chatellerault;Vienne;46.81393;0.536238;musee municipal de l'hotel de Sully;86100.0;Nouvelle-Aquitaine;Museum
+881;M0851;9 Avenue Pasteur;Montmorillon;Vienne;46.428227;0.872962;musee d'art et d'histoire de Montmorillon;86500.0;Nouvelle-Aquitaine;Museum
+882;M0853;101, rue du Pere-de-la-Croix;Poitiers;Vienne;46.575749;0.359509;musee de l'hypogee des Dunes;86000.0;Nouvelle-Aquitaine;Museum
+883;M0850;24 rue du Martray;Loudun;Vienne;47.009976;0.075743;musee Charbonneau-Lassay;86200.0;Nouvelle-Aquitaine;Museum
+884;M0855;Rue Jean-Jaures;Poitiers;Vienne;46.580519;0.346104;musee du baptistere Saint-Jean;86000.0;Nouvelle-Aquitaine;Museum
+885;M0847;3 rue Clement Krebs;Chatellerault;Vienne;46.81393;0.536238;musee de la moto, de l'automobile et du velo;86100.0;Nouvelle-Aquitaine;Museum
+886;M1097;21 Route de Montmorillon;Lussac-les-Chateaux;Vienne;46.403482;0.725666;musee de la Prehistoire Raymond Touchard;86320.0;Nouvelle-Aquitaine;Museum
+887;M7057;1, Place de la Cathedrale;Poitiers;Vienne;46.580584;0.348113;collection d'histoire naturelle;86000.0;Nouvelle-Aquitaine;Museum
+888;M0848;Place du Vieux Marche, cite medievale;Chauvigny;Vienne;46.57103543;0.647848728;musee archeologique et d'ethnographie locale;86300.0;Nouvelle-Aquitaine;Museum
+889;M0849;2 place Leclerc;Civray;Vienne;46.147599;0.296434;musee municipal;86400.0;Nouvelle-Aquitaine;Museum
+890;M0854;9, rue Victor Hugo;Poitiers;Vienne;46.580602;0.337972;musee Rupert de Chievres;86000.0;Nouvelle-Aquitaine;Museum
+891;M0852;3 bis rue Jean Jaures;Poitiers;Vienne;46.581142;0.344434;musee Sainte-Croix;86000.0;Nouvelle-Aquitaine;Museum
+892;M0546;route de Montjoie;Saint-Lizier;Ariege;43.001452;1.143469;musee du palais des ev�ques;9190.0;Occitanie;Museum
+893;M0545;32, village;Montsegur;Ariege;42.871095;1.832858;musee d'archeologie;9300.0;Occitanie;Museum
+894;M1091;route de Paris;Montgailhard;Ariege;42.940925;1.630459;musee de la forge;9330.0;Occitanie;Museum
+895;M0543;rue du Rocher;Foix;Ariege;42.965864;1.6053;musee departemental de l'Ariege;9000.0;Occitanie;Museum
+896;M1090;65, rue Jean Canal;Lavelanet;Ariege;42.929968;1.845351;musee du textile et du peigne en corne;9300.0;Occitanie;Museum
+897;M0544;place de l'Eglise;Le Mas-d'Azil;Ariege;43.079849;1.360358;musee de la prehistoire;9290.0;Occitanie;Museum
+898;M0443;32 Promenade du Tivoli;Limoux;Aude;43.053489;2.2143;musee Petiet;11300.0;Occitanie;Museum
+899;M0445;place de l'Hotel de Ville;Narbonne;Aude;43.18416535;3.004270534;Palais-musee des Archev�ques de Narbonne;11108.0;Occitanie;Museum
+900;M1214;2, avenue Andre Mecle;Narbonne;Aude;43.17593364;3.026185275;musee Narbo Via;11100.0;Occitanie;Museum
+901;M0441;Presidial;Castelnaudary;Aude;43.315299;1.959048;musee archeologique du Lauragais;11400.0;Occitanie;Museum
+902;M1176;2 avenue du Razes;Bram;Aude;43.243772;2.116173;"musee municicpal ""Eburomagus, musee archeologique""";11150.0;Occitanie;Museum
+903;M0442;1 Route des Fournes;Lastours;Aude;43.333993;2.379223;musee municipal;11600.0;Occitanie;Museum
+904;M0440;15 boulevard Camille Pelletan;Carcassonne;Aude;43.211552;2.355531;musee des beaux-arts;11000.0;Occitanie;Museum
+905;M0446;allee des Potiers;Salleles-d'Aude;Aude;43.260661;2.942874;musee archeologique;11590.0;Occitanie;Museum
+906;M0447;Place de la Liberation;Sigean;Aude;43.028689;2.979275;musee des Corbieres;11130.0;Occitanie;Museum
+907;M0547;Place Pierre Frontin;Espalion;Aveyron;44.520841;2.760423;musee des m�urs et coutumes, musee du Rouergue;12500.0;Occitanie;Museum
+908;M0551;14 place Raynaldy;Rodez;Aveyron;44.349201;2.576408;musee Fenaille;12000.0;Occitanie;Museum
+909;M0549;place Foch;Millau;Aveyron;44.097895;3.080595;musee municipal;12100.0;Occitanie;Museum
+910;M0554;Le placet;Salmiech-Cassagnes;Aveyron;44.202302;2.587674;musee du charroi rural;12120.0;Occitanie;Museum
+911;M0548;38 rue Droite;Espalion;Aveyron;44.521365;2.762702;musee Joseph Vaylet;12500.0;Occitanie;Museum
+912;M0550;N�1, Place Clemenceau;Rodez;Aveyron;44.349287;2.578079;musee des beaux-arts Denys Puech;12000.0;Occitanie;Museum
+913;M0552;rue Saint-Pierre;Roquefort-sur-Soulzon;Aveyron;43.975103;2.991651;musee municipal;12250.0;Occitanie;Museum
+914;M0553;Cour de la Filature;Salles-la-source;Aveyron;44.430577;2.483923;musee des arts et metiers;12330.0;Occitanie;Museum
+915;M0555;place de la Fontaine;Villefranche-de-Rouergue;Aveyron;44.351353;2.036793;musee Urbain Cabrol;12200.0;Occitanie;Museum
+916;M1129;Communaute d�Agglomeration du Grand Rodez;Rodez;Aveyron;44.35313045;2.567978788;musee Soulages;12005.0;Occitanie;Museum
+917;M7066;Avenue Paul Ramadier;Decazeville;Aveyron;44.555515;2.266258;musee regional de geologie Pierre Vetter;12300.0;Occitanie;Museum
+918;M0448;Rue de Brouzen;Ales;Gard;44.130014;4.070265;musee-bibliotheque Pierre-Andre Benoit;30100.0;Occitanie;Museum
+919;M0451;Chateau de Beaucaire;Beaucaire;Gard;43.808182;4.642712;musee municipal de la Vignasse;30300.0;Occitanie;Museum
+920;M0459;place de la Maison Carree;Nimes;Gard;43.837904;4.35616;Carre d'art - musee d'art contemporain;30000.0;Occitanie;Museum
+921;M0461;2 rue Saint-Jacques;Pont-Saint-Esprit;Gard;44.255204;4.650869;musee departemental d'art sacre;30130.0;Occitanie;Museum
+922;M0463;Place de l'Ev�che;Uzes;Gard;44.01264172;4.422302424;musee municipal Georges Borias;30701.0;Occitanie;Museum
+923;M0464;3 rue de la Republique;Villeneuve-les-Avignon;Gard;43.965433;4.796403;musee Pierre de Luxembourg;30400.0;Occitanie;Museum
+924;M1207;Place Auguste Mallet;Bagnols-sur-Ceze;Gard;44.161992;4.619843;musee Albert Andre;30200.0;Occitanie;Museum
+925;M0449;rue Jean Mayodon;Ales;Gard;44.129352;4.080982;musee du Colombier;30100.0;Occitanie;Museum
+926;M0450;24 avenue Paul Langevin;Bagnols-sur-Ceze;Gard;44.164822;4.621051;musee Leon Alegre;30200.0;Occitanie;Museum
+927;M0452;1 rue des Calquieres;Le Vigan;Gard;43.988997;3.606934;musee cevenol;30120.0;Occitanie;Museum
+928;M0455;16, Boulevard des Arenes;Nimes;Gard;43.837616;4.362815;musee de la Romanite;30000.0;Occitanie;Museum
+929;M0457;rue  Cite-Foulc;Nimes;Gard;43.832001;4.36081;musee des beaux-arts;30000.0;Occitanie;Museum
+930;M1079;35 grand rue;Saint-Jean-du-Gard;Gard;44.104188;3.887004;maison Rouge - musee des vallees cevenoles;30270.0;Occitanie;Museum
+931;M7051;13 Boulevard Courbet;Nimes;Gard;43.837981;4.363712139;museum d'histoire naturelle et de prehistoire;30033.0;Occitanie;Museum
+932;M0458;place aux Herbes;Nimes;Gard;43.838204;4.359619;musee du vieux Nimes;30000.0;Occitanie;Museum
+933;M0462;Place de la Maison Romane;Saint-Gilles-du-Gard;Gard;43.676985;4.431238;musee de la maison Romane;30800.0;Occitanie;Museum
+934;M0570;2 rue Jules Ferry;Condom;Gers;43.960792;0.372858;musee de l'Armagnac;32100.0;Occitanie;Museum
+935;M7043;Hotel de Ville;Marciac;Gers;43.524266;0.160982;musee Joseph Abeilhe;32230.0;Occitanie;Museum
+936;M0571;Place de la Republique;Eauze;Gers;43.862193;0.101384;musee archeologique;32800.0;Occitanie;Museum
+937;M0572;Place du General-de-Gaulle;Lectoure;Gers;43.933873;0.638007;musee d'archeologie;32700.0;Occitanie;Museum
+938;M0574;13 rue de l'Ev�che;Mirande;Gers;43.515315;0.403452;musee des beaux-arts et des arts decoratifs;32300.0;Occitanie;Museum
+939;M0569;4 place Louis Blanc;Auch;Gers;43.647171;0.587482;musee des Ameriques - Auch;32000.0;Occitanie;Museum
+940;M0573;Place de l'Hotel de Ville;L'Isle-Jourdain;Gers;43.612852;1.08184;musee campanaire;32600.0;Occitanie;Museum
+941;M0557;18 allee d'Etigny;Bagneres-de-Luchon;Haute-Garonne;42.789494;0.592035;musee du pays de Luchon;31110.0;Occitanie;Museum
+942;M0560;Etudes & Conservation;Saint-Bertrand-de-Comminges;Haute-Garonne;43.022611;0.579433;musee archeologique;31510.0;Occitanie;Museum
+943;M0563;1ter place Saint-Sernin;Toulouse;Haute-Garonne;43.608897;1.441776;musee Saint-Raymond;31000.0;Occitanie;Museum
+944;M0558;place du Donjon;Martres-Tolosane;Haute-Garonne;43.199447;1.010287;musee municipal;31220.0;Occitanie;Museum
+945;M0561;35 boulevard Jean-Bepmale;Saint-Gaudens;Haute-Garonne;43.10760446;0.725714913;Le Musee - Arts et Figures des Pyrenees Centrales;31806.0;Occitanie;Museum
+946;M0564;43 rue des Martyrs-de-la-Liberation;Toulouse;Haute-Garonne;43.590964;1.4584;musee Georges Labit;31400.0;Occitanie;Museum
+947;M0566;76 allee Charles de Fitte;Toulouse;Haute-Garonne;43.600678;1.428998;Les Abattoirs, musee d'art moderne et contemporain;31300.0;Occitanie;Museum
+948;M0556;Avenue de Benabarre;Aurignac;Haute-Garonne;43.216166;0.88003;musee-forum de l'Aurignacien;31420.0;Occitanie;Museum
+949;M0567;7 rue du May;Toulouse;Haute-Garonne;43.602258;1.443132;musee du vieux Toulouse;31000.0;Occitanie;Museum
+950;M0562;21 rue de Metz;Toulouse;Haute-Garonne;43.600562;1.445904;musee des Augustins;31000.0;Occitanie;Museum
+951;M0565;13 rue de la Pleau;Toulouse;Haute-Garonne;43.596898;1.446935;musee Paul Dupuy;31000.0;Occitanie;Museum
+952;M7013;35 allees Jules Guesde;Toulouse;Haute-Garonne;43.594189;1.448945;museum d'histoire naturelle;31000.0;Occitanie;Museum
+953;M0586;boulevard de l'Hyperion;Bagneres-de-Bigorre;Hautes-Pyrenees;43.063744;0.146227;musee Salies;65200.0;Occitanie;Museum
+954;M0590;;Mauvezin;Hautes-Pyrenees;43.114294;0.282555;musee-chateau Gaston Phebus;65130.0;Occitanie;Museum
+955;M7022;Vallon de Salut-Rue Jean R�sch;Bagneres-de-Bigorre;Hautes-Pyrenees;43.051963;0.147001;museum d'histoire naturelle;65200.0;Occitanie;Museum
+956;M0588;25, rue du fort;Lourdes;Hautes-Pyrenees;43.096353;-0.048462;musee pyreneen;65100.0;Occitanie;Museum
+957;M0587;rue Hount-Blanque;Bagneres-de-Bigorre;Hautes-Pyrenees;43.065612;0.153699;musee de la vie quotidienne dans les Pyrenees;65200.0;Occitanie;Museum
+958;M0589;;Luz-Saint-Sauveur;Hautes-Pyrenees;42.870941;-0.002108;musee municipal;65120.0;Occitanie;Museum
+959;M0591;;Tarbes;Hautes-Pyrenees;43.232141;0.073892;musee Massey;65000.0;Occitanie;Museum
+960;M0467;7-9 rue Capus / Place de la revolution;Beziers;Herault;43.341429;3.210533;musee des beaux-arts;34500.0;Occitanie;Museum
+961;M0478;2 Place Petrarque;Montpellier;Herault;43.610788;3.878349;musee du vieux Montpellier;34000.0;Occitanie;Museum
+962;M0470;4, rue Lucien-Salette;Frontignan;Herault;43.447077;3.755055;musee municipal;34110.0;Occitanie;Museum
+963;M0475;Place du Monument-aux-morts;Minerve;Herault;43.354299;2.746165;musee archeologique;34210.0;Occitanie;Museum
+964;M0481;Rue de l'ancienne mairie;Murviel-les-Montpellier;Herault;43.604855;3.736827;musee municipal;34570.0;Occitanie;Museum
+965;M0468;Rampe du 96e;Beziers;Herault;43.338908;3.215208;musee du biterrois;34500.0;Occitanie;Museum
+966;M0469;Quai du Port de P�che;Bouzigues;Herault;43.446763;3.660714;musee de l'etang de Thau;34140.0;Occitanie;Museum
+967;M0471;Espace Campanaire Andre Malraux - Avenue de la Gare;Herepian;Herault;43.59470758;3.113299576;musee de la cloche et de la sonnaille;34600.0;Occitanie;Museum
+968;M0472;390 route de Perols;Lattes;Herault;43.566659;3.90858;musee archeologique;34970.0;Occitanie;Museum
+969;M0483;6, rue du Barry;Saint-Pons-de-Thomieres;Herault;43.486827;2.761809;musee de prehistoire;34220.0;Occitanie;Museum
+970;M0484;148 Rue Fran�ois Desnoyer;Sete;Herault;43.395512;3.691204;musee Paul Valery;34200.0;Occitanie;Museum
+971;M7023;Rampe du 96e;Beziers;Herault;43.338908;3.215208;museum d'histoire naturelle;34500.0;Occitanie;Museum
+972;M0465;Le Cap d'Agde;Agde (Cap d'Agde);Herault;43.298047;3.476702;musee de l'Ephebe;34300.0;Occitanie;Museum
+973;M0466;5 rue de la Fraternite;Agde;Herault;43.311837;3.468587;musee agathois;34300.0;Occitanie;Museum
+974;M0473;25 Rue des consuls;Les Matelles;Herault;43.731232;3.809872;musee du Pic-Saint-Loup;34270.0;Occitanie;Museum
+975;M0474;Square Georges Auric, rue de la Republique;Lodeve;Herault;43.731613;3.319595;musee de Lodeve - hotel du cardinal de Fleury;34700.0;Occitanie;Museum
+976;M1205;Place des Martyrs de la Resistance;Lunel;Herault;43.675458;4.133656;musee Louis Medard;34400.0;Occitanie;Museum
+977;M0476;39 boulevard Bonne-Nouvelle;Montpellier;Herault;43.61135;3.880685;musee Fabre;34000.0;Occitanie;Museum
+978;M0477;6 bis rue Montpellieret;Montpellier;Herault;43.611112;3.880183;musee de l'hotel d'Espeyran;34000.0;Occitanie;Museum
+979;M0479;7, rue Jacques-Coeur;Montpellier;Herault;43.609524;3.879151;musee languedocien;34000.0;Occitanie;Museum
+980;M0482;3, rue Albert-Paul Allies;Pezenas;Herault;43.461352;3.422892;musee Vulliod de Saint-Germain;34120.0;Occitanie;Museum
+981;M0577;Espace Henri Vayssettes;Figeac;Lot;44.613443;2.016469;musee d'histoire de Figeac;46100.0;Occitanie;Museum
+982;M0578;Place Champollion;Figeac;Lot;44.609472;2.034599;musee Champollion;46100.0;Occitanie;Museum
+983;M0583;Domaine de Cuzals;Sauliac-sur-Cele (Cuzals);Lot;44.533948;1.697872;musee de plein air du Quercy;46330.0;Occitanie;Museum
+984;M0581;Palais de la Raymondie;Martel;Lot;44.93690534;1.609271436;musee gallo-romain d'Uxellodunum;46600.0;Occitanie;Museum
+985;M0582;Parvis des Sanctuaires;Rocamadour;Lot;44.7995824;1.617526664;musee d'art sacre;46500.0;Occitanie;Museum
+986;M0580;rue de la Ville;Luzech;Lot;44.479159;1.286317;musee archeologique;46140.0;Occitanie;Museum
+987;M0585;Place Lucterius;Vayrac;Lot;44.952495;1.703507;musee municipal;46110.0;Occitanie;Museum
+988;M0575;;Cabrerets;Lot;44.505455;1.653939;musee de prehistoire Amedee Lemozi;46330.0;Occitanie;Museum
+989;M0576;792, rue Emile Zola;Cahors;Lot;44.448506;1.438286;musee Henri Martin;46000.0;Occitanie;Museum
+990;M0579;place de l'Eglise;Labastide-Murat;Lot;44.645658;1.568198;musee Murat;46240.0;Occitanie;Museum
+991;M0584;Place de l'abbaye;Souillac;Lot;44.893995;1.47721;musee de l'automate;46200.0;Occitanie;Museum
+992;M0485;route de Finiels;Le Pont-de-Montvert;Lozere;44.36343;3.746499;ecomusee du mont Lozere;48220.0;Occitanie;Museum
+993;M0486;3 rue de l'Epine;Mende;Lozere;44.518396;3.499291;musee du Gevaudan;48000.0;Occitanie;Museum
+994;M0489;route de Port-Vendres;Collioure;Pyrenees-Orientales;42.524426;3.089905;musee municipal Jean Peske;66190.0;Occitanie;Museum
+995;M0494;place de Verdun;Perpignan;Pyrenees-Orientales;42.727965;2.896696;musee du Castillet Casa Pairal;66000.0;Occitanie;Museum
+996;M7055;Place Fontaine neuve;Perpignan;Pyrenees-Orientales;42.69773136;2.900461442;museum d'histoire naturelle;66931.0;Occitanie;Museum
+997;M0491;21, rue Mailly;Perpignan;Pyrenees-Orientales;42.698013;2.892984;musee Hyacinhe Rigaud;66000.0;Occitanie;Museum
+998;M0488;8, boulevard du Marechal Joffre;Ceret;Pyrenees-Orientales;42.485799;2.74849;musee d'art moderne;66400.0;Occitanie;Museum
+999;M0493;Chateau Roussillon;Perpignan;Pyrenees-Orientales;42.709124;2.945875;musee archeologique de Ruscino;66000.0;Occitanie;Museum
+1000;M0498;Avenue Leon-Jean Gregory;Tautavel;Pyrenees-Orientales;42.813587;2.747533;musee de prehistoire;66720.0;Occitanie;Museum
+1001;M0492;42, avenue de Grande-Bretagne;Perpignan;Pyrenees-Orientales;42.69945;2.883256;musee Joseph Puig;66000.0;Occitanie;Museum
+1002;M0495;8 rue Jules Pams;Port-Vendres;Pyrenees-Orientales;42.519619;3.107319;musee d'archeologie sous-marine;66660.0;Occitanie;Museum
+1003;M0497;Ferme Cal Mateu;Sainte-Leocadie;Pyrenees-Orientales;42.439471;2.002067;musee de Cerdagne;66800.0;Occitanie;Museum
+1004;M0597;La Ramade - Ferrieres;Ferrieres;Tarn;43.661945;2.448167;musee du protestantisme, de la Reforme a la la�cite;81260.0;Occitanie;Museum
+1005;M0594;Rue de l�Hotel-de-Ville;Castres;Tarn;43.604813;2.239888;musee Goya;81100.0;Occitanie;Museum
+1006;M0595;2 place Pelisson;Castres;Tarn;43.607135;2.240474;musee Jean Jaures;81100.0;Occitanie;Museum
+1007;M0603;2 rue Amedee-Clausade;Rabastens;Tarn;43.820418;1.724791;musee du pays rabastinois;81800.0;Occitanie;Museum
+1008;M0598;Place Saint-Michel;Gaillac;Tarn;43.897983;1.895761;musee de l'abbaye Saint-Michel;81600.0;Occitanie;Museum
+1009;M0599;Avenue Dom-Vayssette;Gaillac;Tarn;43.894286;1.901945;musee des beaux-arts;81600.0;Occitanie;Museum
+1010;M0601;1 rue Jouxaygues;Lavaur;Tarn;43.698318;1.820763;musee du Pays de Cocagne;81500.0;Occitanie;Museum
+1011;M1210;Avenue Elie Rossignol;Montans;Tarn;43.865466;1.885602;archeosite de Montans;81600.0;Occitanie;Museum
+1012;M0592;Place Sainte-Cecile;Albi;Tarn;43.928096;2.143551;musee Toulouse-Lautrec;;Occitanie;Museum
+1013;M0593;Chateau du Cayla;Andillac (Le Cayla);Tarn;44.010155;1.899025;musee Eugenie et Maurice Guerin;81140.0;Occitanie;Museum
+1014;M0596;1 rue Saint Michel;Cordes;Tarn;44.063752;1.94934;musee Charles Portal - Histoire et patrimoine;81170.0;Occitanie;Museum
+1015;M0600;Rue de la Rive;Labastide-Rouairoux;Tarn;43.476776;2.638539;musee du textile;81270.0;Occitanie;Museum
+1016;M0602;10, rue Victor Mazies;L'Isle-sur-Tarn;Tarn;43.852892;1.811377;musee Raymond Lafage;81310.0;Occitanie;Museum
+1017;M7037;Place Philadelphe Thomas;Gaillac;Tarn;43.89944;1.89408;musee d'histoire naturelle Philadelphe-Thomas;81600.0;Occitanie;Museum
+1018;M0608;Place de la Halle;Saint-Antoine-Noble-Val;Tarn-et-Garonne;44.15188;1.756727;musee de prehistoire;82140.0;Occitanie;Museum
+1019;M0604;12 Place de la Halle;Auvillar;Tarn-et-Garonne;44.070335;0.899472;musee du vieil Auvillar;82340.0;Occitanie;Museum
+1020;M0606;4 rue de l'Abbaye;Moissac;Tarn-et-Garonne;44.105697;1.085296;musee des arts et traditions populaires;82200.0;Occitanie;Museum
+1021;M0605;15 rue Jean Comere;Grisolles;Tarn-et-Garonne;43.827651;1.294738;musee Theodore Calbet;82170.0;Occitanie;Museum
+1022;M0607;19, rue de l'Hotel de Ville BP 752;Montauban;Tarn-et-Garonne;44.017091;1.35188;musee Ingres Bourdelle;82000.0;Occitanie;Museum
+1023;M7046;2 place Antoine Bourdelle;Montauban;Tarn-et-Garonne;44.017099;1.351385;musee d'histoire naturelle Victor-Brun;82000.0;Occitanie;Museum
+1024;M0738;2 place Jean Guihard;Blain;Loire-Atlantique;47.475727;-1.764575;musee des arts et traditions populaires;44130.0;Pays-de-la-Loire;Museum
+1025;M0743;10 rue Georges Clemenceau;Nantes;Loire-Atlantique;47.219276;-1.547096;musees des beaux-arts;44000.0;Pays-de-la-Loire;Museum
+1026;M0746;177 ile-de-Fedrun;Saint-Joachim;Loire-Atlantique;47.373699;-2.21367;musees du parc naturel regional de Briere;44720.0;Pays-de-la-Loire;Museum
+1027;M0742;82 rue Pierre Abelard;Le Pallet;Loire-Atlantique;47.134414;-1.329883;musee du vignoble nantais;44330.0;Pays-de-la-Loire;Museum
+1028;M0741;7, place du Marche-au-Bois;Guerande;Loire-Atlantique;47.32782055;-2.426347759;musee de la porte Saint-Michel;44351.0;Pays-de-la-Loire;Museum
+1029;M0744;4 place Marc Elder;Nantes;Loire-Atlantique;47.216353;-1.549389;musee du chateau des ducs de Bretagne;44000.0;Pays-de-la-Loire;Museum
+1030;M0745;Departement de Loire-Atlantique, Grand-Patrimoine de Loire-Atlantique;Nantes;Loire-Atlantique;47.211788;-1.566123;musee Dobree;44000.0;Pays-de-la-Loire;Museum
+1031;M0747;avenue de Saint-Hubert;Saint-Nazaire;Loire-Atlantique;47.273813;-2.198174;ecomusee;44600.0;Pays-de-la-Loire;Museum
+1032;M0740;Hotel de Ville, BP 189;Chateaubriant;Loire-Atlantique;47.72100905;-1.37586481;musee municipal;44146.0;Pays-de-la-Loire;Museum
+1033;M1124;29bis, rue Pasteur;Batz-sur-Mer;Loire-Atlantique;47.278542;-2.478054;musee des Marais salants;44740.0;Pays-de-la-Loire;Museum
+1034;M7049;12 rue Voltaire;Nantes;Loire-Atlantique;47.212385;-1.564652;museum d'histoire naturelle;44000.0;Pays-de-la-Loire;Museum
+1035;M0739;6 rue des Moines;Bourgneuf-en-Retz;Loire-Atlantique;47.042318;-1.952164;musee du pays de Retz;44580.0;Pays-de-la-Loire;Museum
+1036;M0749;32 bis rue Lenepveu;Angers;Maine-et-Loire;47.471767;-0.551841;musee Pince;49100.0;Pays-de-la-Loire;Museum
+1037;M0753;Place Notre-Dame, Beaufort-en-Vallee;Beaufort-en-Vallee;Maine-et-Loire;47.44022;-0.217749;musee Joseph Denais;49250.0;Pays-de-la-Loire;Museum
+1038;M7017;43 rue Jules Guitton;Angers;Maine-et-Loire;47.473467;-0.546399;museum des sciences naturelles;49100.0;Pays-de-la-Loire;Museum
+1039;M0752;Place de l'Europe;Bauge;Maine-et-Loire;47.531598;-0.119966;musee d'art et d'histoire;49150.0;Pays-de-la-Loire;Museum
+1040;M0760;32 chemin de La Maraichere;Trelaze;Maine-et-Loire;47.450792;-0.491518;musee de l'ardoise;49800.0;Pays-de-la-Loire;Museum
+1041;M1092;1 place Jules-Desbois, Par�at-les-Pins;Par�ay-les-Pins;Maine-et-Loire;47.436646;0.159508;musee Jules-Desbois;49390.0;Pays-de-la-Loire;Museum
+1042;M0754;27 avenue de l'Abreuvoir;Cholet;Maine-et-Loire;47.058385;-0.882284;musee d'art et d'histoire;49300.0;Pays-de-la-Loire;Museum
+1043;M0756;rue du Docteur Roux;Cholet;Maine-et-Loire;47.069473;-0.897677;musee du textile;49300.0;Pays-de-la-Loire;Museum
+1044;M0759;Rue Moliere;Saumur;Maine-et-Loire;47.25728921;-0.071917504;chateau-musee de Saumur;49408.0;Pays-de-la-Loire;Museum
+1045;M1211;;Fontevraud;Maine-et-Loire;47.18198;0.05295;musee d'art moderne de Fontevraud - collection Martine et Leon Cligman;49590.0;Pays-de-la-Loire;Museum
+1046;M0748;14 rue du musee, 33 bis rue Toussaint;Angers;Maine-et-Loire;47.469659;-0.555485;musee des beaux-arts et galerie David-d'Angers;49100.0;Pays-de-la-Loire;Museum
+1047;M0751;4 boulevard Arago;Angers;Maine-et-Loire;47.477759;-0.557052;musee Jean Lurcat et de la tapisserie contemporaine;49100.0;Pays-de-la-Loire;Museum
+1048;M0758;Place des Vignerons;Saint-Lambert-du-Lattay;Maine-et-Loire;47.305499;-0.635024;musee de la vigne et du vin d'Anjou;49750.0;Pays-de-la-Loire;Museum
+1049;M0762;rue Jean Bourre;Chateau-Gontier;Mayenne;47.82914895;-0.703943606;musee d'art et d'archeologie;53204.0;Pays-de-la-Loire;Museum
+1050;M0767;Place Juhel;Mayenne;Mayenne;48.302519;-0.620269;musee du chateau;53100.0;Pays-de-la-Loire;Museum
+1051;M0765;13 rue de la Liberation;Jublains;Mayenne;48.255526;-0.496863;musee archeologique departemental;53160.0;Pays-de-la-Loire;Museum
+1052;M0761;place Billard-de-Vaux;Ambrieres-les-Vallees;Mayenne;48.402909;-0.630644;musee des tisserands mayennais;53300.0;Pays-de-la-Loire;Museum
+1053;M0763;La Fr�nouse;Cosse-le-Vivien;Mayenne;47.942514;-0.906893;musee Robert Tatin;53230.0;Pays-de-la-Loire;Museum
+1054;M0768;;Renaze;Mayenne;47.792697;-1.059417;musee de l'ardoise;53800.0;Pays-de-la-Loire;Museum
+1055;M0764;;Ernee;Mayenne;48.296148;-0.933518;musee municipal;53500.0;Pays-de-la-Loire;Museum
+1056;M0766;Place de La Tremoille;Laval;Mayenne;48.068652;-0.77221;musee du vieux chateau;53000.0;Pays-de-la-Loire;Museum
+1057;M7041;Place de Herce;Laval;Mayenne;48.06597;-0.772148;musee des sciences;53000.0;Pays-de-la-Loire;Museum
+1058;M0770;2, avenue de Paderborn;Le Mans;Sarthe;48.01112;0.203755;musee de Tesse;72000.0;Pays-de-la-Loire;Museum
+1059;M0771;9-13 rue de la Reine Berengere;Le Mans;Sarthe;48.008953;0.1977;musee de la reine Berengere;72000.0;Pays-de-la-Loire;Museum
+1060;M1172;Rue Victor Hugo;Malicorne;Sarthe;47.813698;-0.083896;musee espace fa�ence de Malicorne;72270.0;Pays-de-la-Loire;Museum
+1061;M0769;Mairie;Chateau-du-Loir;Sarthe;47.693176;0.417263;musee municipal;72500.0;Pays-de-la-Loire;Museum
+1062;M1192;204 avenue Jean Jaures;Le Mans;Sarthe;47.986868;0.208417;musee vert Veron-de-Forbonnais;72100.0;Pays-de-la-Loire;Museum
+1063;M1131;Place de l'hotel de ville;Saint-Calais;Sarthe;47.920368;0.743518;bibliotheque-musee;72120.0;Pays-de-la-Loire;Museum
+1064;M0774;Lieu dit �Le Daviaud�;La Barre-de-Monts;Vendee;46.874377;-2.102492;centre de decouverte du marais breton;85550.0;Pays-de-la-Loire;Museum
+1065;M0775;;La Gueriniere;Vendee;46.966649;-2.231792;musee des traditions;85680.0;Pays-de-la-Loire;Museum
+1066;M7039;Mairie;La Chaize-le-Vicomte;Vendee;46.671824;-1.292607;musee ornithologique Charles-Payraudeau;85310.0;Pays-de-la-Loire;Museum
+1067;M0772;La cour;Faymoreau-les-Mines;Vendee;46.55525;-0.630566;centre minier;85240.0;Pays-de-la-Loire;Museum
+1068;M0782;Place d'armes;Noirmoutier-en-l'ile;Vendee;46.999718;-2.243127;musee du chateau;85330.0;Pays-de-la-Loire;Museum
+1069;M1121;Allee Paul Bazin;Les Lucs-Sur-Boulogne;Vendee;46.859966;-1.492724;Historial de la Vendee;85170.0;Pays-de-la-Loire;Museum
+1070;M0779;Place de l'Hotel de Ville;Montaigu;Vendee;46.974635;-1.313386;musee du nord Vendee;85600.0;Pays-de-la-Loire;Museum
+1071;M0783;84 chemin du Bois-Durand;Soullans;Vendee;46.77769;-1.909718;musee Milcendeau-Jean Yole;85300.0;Pays-de-la-Loire;Museum
+1072;M5049;18 rue du Temple (Maison natale de Clemenceau);Mouilleron-en-Pareds;Vendee;46.675283;-0.849535;musee Clemenceau et de Lattre de Tassigny;85390.0;Pays-de-la-Loire;Museum
+1073;M0773;Place du 137e Regiment d'Infanterie;Fontenay-le-Comte;Vendee;46.46746223;-0.806809739;musee de Fontenay-le-Comte;85200.0;Pays-de-la-Loire;Museum
+1074;M0776;10 rue Salvador Allende;La Roche-sur-Yon;Vendee;46.669265;-1.428828;musee municipal;85000.0;Pays-de-la-Loire;Museum
+1075;M1132;4 chemin du Bois Juquaud;Saint-Hilaire-de-Riez;Vendee;46.757962;-1.953276;musee La Bourrine du Bois-Juquaud;85270.0;Pays-de-la-Loire;Museum
+1076;M0778;Rue de Verdun;Les Sables d'Olonne;Vendee;46.497474;-1.777309;musee de l'abbaye Sainte-Croix;85100.0;Pays-de-la-Loire;Museum
+1077;M0781;Rue de l'Ecluse;Noirmoutier-en-l'ile;Vendee;46.99903;-2.245756;musee de la construction navale artisanale;85330.0;Pays-de-la-Loire;Museum
+1078;M0859;Route nationale;Mane;Alpes-de-Haute-Provence;43.93798;5.76727;musee de Salagon;4300.0;Provence-Alpes-Cote-d'Azur;Museum
+1079;M0861;Route de Montmeyan;Quinson;Alpes-de-Haute-Provence;43.709854;6.040734;musee departemental de prehistoire;4500.0;Provence-Alpes-Cote-d'Azur;Museum
+1080;M0862;Route de Marseille;Riez-la-Romaine;Alpes-de-Haute-Provence;43.815415;6.08717;musee archeologique;4500.0;Provence-Alpes-Cote-d'Azur;Museum
+1081;M0856;10, avenue de la Liberation;Barcelonnette;Alpes-de-Haute-Provence;44.387609;6.655077;musee de la vallee;4400.0;Provence-Alpes-Cote-d'Azur;Museum
+1082;M0857;64 boulevard Gassendi;Digne-les-Bains;Alpes-de-Haute-Provence;44.092652;6.235077;musee Gassendi;4000.0;Provence-Alpes-Cote-d'Azur;Museum
+1083;M0864;Ecole publique;Reillane (Vacheres);Alpes-de-Haute-Provence;43.93598226;5.654370036;musee archeologique;4110.0;Provence-Alpes-Cote-d'Azur;Museum
+1084;M0858;1 place du Bourguet;Forcalquier;Alpes-de-Haute-Provence;43.96244494;5.774406172;musee municipal;4301.0;Provence-Alpes-Cote-d'Azur;Museum
+1085;M0860;;Moustiers-Sainte-Marie;Alpes-de-Haute-Provence;43.846892;6.220175;musee de la fa�ence;4360.0;Provence-Alpes-Cote-d'Azur;Museum
+1086;M0863;8 rue saunerie;Sisteron;Alpes-de-Haute-Provence;44.197595;5.944839;musee gallo-romain Sisteron;4200.0;Provence-Alpes-Cote-d'Azur;Museum
+1087;M0867;Place Mariejol;Antibes;Alpes-Maritimes;43.580973;7.127959;musee Picasso;6600.0;Provence-Alpes-Cote-d'Azur;Museum
+1088;M0879;Quai Napoleon III;Menton;Alpes-Maritimes;43.774945;7.508676;musee Jean Cocteau;6500.0;Provence-Alpes-Cote-d'Azur;Museum
+1089;M0881;65 rue de France;Nice;Alpes-Maritimes;43.695672;7.259251;musee Massena;6000.0;Provence-Alpes-Cote-d'Azur;Museum
+1090;M0883;160 avenue des Arenes Cimiez;Nice;Alpes-Maritimes;43.719221;7.275115;musee archeologique de Cimiez;6000.0;Provence-Alpes-Cote-d'Azur;Museum
+1091;M0885;25 boulevard Carnot;Nice;Alpes-Maritimes;43.698046;7.288686;musee de paleontologie de Terra Amata;6300.0;Provence-Alpes-Cote-d'Azur;Museum
+1092;M0889;405 promenade des Anglais;Nice;Alpes-Maritimes;43.678077;7.215461;musee departemental des arts asiatiques;6200.0;Provence-Alpes-Cote-d'Azur;Museum
+1093;M0893;La Citadelle;Villefranche-sur-Mer;Alpes-Maritimes;43.701093;7.311425;musee d'art et d'histoire;6230.0;Provence-Alpes-Cote-d'Azur;Museum
+1094;M5028;Chemin du Val-de-Pome;Biot;Alpes-Maritimes;43.620705;7.112317;musee national Fernand Leger;6410.0;Provence-Alpes-Cote-d'Azur;Museum
+1095;M5047;Place de la Liberation;Vallauris;Alpes-Maritimes;43.579971;7.052887;musee national de Vallauris (la Guerre et la Paix de Picasso);6220.0;Provence-Alpes-Cote-d'Azur;Museum
+1096;M7050;60 boulevard Risso;Nice;Alpes-Maritimes;43.701924;7.279572;museum d'histoire naturelle;6300.0;Provence-Alpes-Cote-d'Azur;Museum
+1097;M0873;Ile Sainte-Marguerite;Cannes (ile Sainte-Marguerite);Alpes-Maritimes;43.520419;7.044228;musee de la mer;6400.0;Provence-Alpes-Cote-d'Azur;Museum
+1098;M0875;2 rue Mirabeau;Grasse;Alpes-Maritimes;43.657615;6.922508;musee d'art et d'histoire de Provence;6130.0;Provence-Alpes-Cote-d'Azur;Museum
+1099;M0876;23 boulevard Fragonard;Grasse;Alpes-Maritimes;43.656739;6.921091;musee Fragonard;6130.0;Provence-Alpes-Cote-d'Azur;Museum
+1100;M0878;3 avenue de la Madone;Menton;Alpes-Maritimes;43.766659;7.4884;musee des beaux-arts;6500.0;Provence-Alpes-Cote-d'Azur;Museum
+1101;M0884;164 avenue des Arenes de Cimiez;Nice;Alpes-Maritimes;43.720041;7.276769;musee Matisse;6000.0;Provence-Alpes-Cote-d'Azur;Museum
+1102;M0868;Avenue Maiziere;Antibes;Alpes-Maritimes;43.576824;7.124074;musee d'archeologie;6600.0;Provence-Alpes-Cote-d'Azur;Museum
+1103;M0877;2 boulevard du Jeu de Ballon;Grasse;Alpes-Maritimes;43.658385;6.922;musee international de la parfumerie;6130.0;Provence-Alpes-Cote-d'Azur;Museum
+1104;M0882;59 avenue Saint Barthelemy;Nice;Alpes-Maritimes;43.740194;7.238038;musee du vieux logis;6000.0;Provence-Alpes-Cote-d'Azur;Museum
+1105;M0887;15 rue Droite;Nice;Alpes-Maritimes;43.697686;7.27733;musee du palais Lascaris;6300.0;Provence-Alpes-Cote-d'Azur;Museum
+1106;M0892;Place de la Liberation;Vallauris;Alpes-Maritimes;43.579971;7.052887;musee Magnelli - musee de la ceramique;6220.0;Provence-Alpes-Cote-d'Azur;Museum
+1107;M0869;9 rue Saint-Sebastien;Biot;Alpes-Maritimes;43.627369;7.098469;musee d'histoire locale;6410.0;Provence-Alpes-Cote-d'Azur;Museum
+1108;M0872;Le Suquet;Cannes;Alpes-Maritimes;43.551515;7.010034;musee de la Castre;6400.0;Provence-Alpes-Cote-d'Azur;Museum
+1109;M0874;20, rue Loredan-Larchey;Menton;Alpes-Maritimes;43.776334;7.503564;musee de prehistoire regionale;6500.0;Provence-Alpes-Cote-d'Azur;Museum
+1110;M0880;33 avenue des Baumettes;Nice;Alpes-Maritimes;43.69467563;7.249470499;musee des beaux-arts Jules Cheret;6364.0;Provence-Alpes-Cote-d'Azur;Museum
+1111;M0886;23 avenue de Fabron;Nice;Alpes-Maritimes;43.68784;7.231462;musee d'art na�f Anatole Jakovsky;6200.0;Provence-Alpes-Cote-d'Azur;Museum
+1112;M0888;Place Yves Klein;Nice;Alpes-Maritimes;43.70177465;7.278984299;musee d'art moderne et d'art contemporain;6364.0;Provence-Alpes-Cote-d'Azur;Museum
+1113;M0891;Avenue du 16 septembre 1947;Tende;Alpes-Maritimes;44.088854;7.593216;musee des merveilles;6430.0;Provence-Alpes-Cote-d'Azur;Museum
+1114;M5027;Boulevard des jardiniers - Stade Allianz Riviera;Nice;Alpes-Maritimes;43.703829;7.191059;musee national du sport;6200.0;Provence-Alpes-Cote-d'Azur;Museum
+1115;M5029;Avenue du Docteur-Menard;Nice;Alpes-Maritimes;43.70922;7.2688;musee national Message biblique Marc Chagall;6000.0;Provence-Alpes-Cote-d'Azur;Museum
+1116;M0870;Place Grimaldi, Haut-de-Cagnes;Cagnes-sur-Mer;Alpes-Maritimes;43.666892;7.145213;musee-chateau;6800.0;Provence-Alpes-Cote-d'Azur;Museum
+1117;M0871;Domaine des Collettes - 19 chemin des Collettes;Cagnes-sur-Mer;Alpes-Maritimes;43.667649;7.156541;musee Renoir;6800.0;Provence-Alpes-Cote-d'Azur;Museum
+1118;M0890;Place des Tilleuls;Puget-Rostang;Alpes-Maritimes;43.97425297;6.91984112;ecomusee de la Roudoule;62060.0;Provence-Alpes-Cote-d'Azur;Museum
+1119;M1135;16 boulevard Sadi Carnot;Le Cannet;Alpes-Maritimes;43.576273;7.019853;musee Bonnard;6110.0;Provence-Alpes-Cote-d'Azur;Museum
+1120;M0902;29 rue de la Republique;Arles;Bouches-du-Rhone;43.54073;4.676089;museon Arlaten;13200.0;Provence-Alpes-Cote-d'Azur;Museum
+1121;M0904;rue Xavier d'Authier;Cassis;Bouches-du-Rhone;43.214464;5.540037;musee municipal d'arts et traditions populaires;13260.0;Provence-Alpes-Cote-d'Azur;Museum
+1122;M0914;143 avenue Clot-Bey;Marseille;Bouches-du-Rhone;43.258599;5.384175;musee des arts decoratifs, de la fa�ence et de la mode;13008.0;Provence-Alpes-Cote-d'Azur;Museum
+1123;M0916;28 Place Vivaux;Marseille;Bouches-du-Rhone;43.29647;5.367908;musee des docks romains;13002.0;Provence-Alpes-Cote-d'Azur;Museum
+1124;M0919;2 rue de La Charite;Marseille;Bouches-du-Rhone;43.300172;5.367602;musee d'archeologie mediterraneenne;13002.0;Provence-Alpes-Cote-d'Azur;Museum
+1125;M0896;34 rue Celony ou 13 rue de la Molle;Aix-en-Provence;Bouches-du-Rhone;43.530846;5.439915;musee du pavillon de Vendome;13100.0;Provence-Alpes-Cote-d'Azur;Museum
+1126;M0901;Presqu'ile du cirque romain;Arles;Bouches-du-Rhone;43.67275306;4.61717583;musee de l'Arles antique;13635.0;Provence-Alpes-Cote-d'Azur;Museum
+1127;M0903;Parc naturel regional de Camargue;Arles;Bouches-du-Rhone;43.67679;4.61542;musee camarguais;13200.0;Provence-Alpes-Cote-d'Azur;Museum
+1128;M0906;Metropole Aix Marseille Provence / Istres Ouest Provence;Istres;Bouches-du-Rhone;43.50979988;4.991101411;musee Rene Beaucaire;13808.0;Provence-Alpes-Cote-d'Azur;Museum
+1129;M0909;Grand-rue Frederic Mistral Le Village;Les-Baux-de-Provence;Bouches-du-Rhone;43.744256;4.795333;musee-fondation Louis Jou;13520.0;Provence-Alpes-Cote-d'Azur;Museum
+1130;M0910;;Les-Baux-de-Provence;Bouches-du-Rhone;43.743732;4.794938;musee d'histoire et d'archeologie des Baux-de-Provence;13520.0;Provence-Alpes-Cote-d'Azur;Museum
+1131;M0917;140 boulevard Lonchamp;Marseille;Bouches-du-Rhone;43.303412;5.392866;musee Grobet-Labadie;13001.0;Provence-Alpes-Cote-d'Azur;Museum
+1132;M0918;2, rue Henri Barbusse;Marseille;Bouches-du-Rhone;43.298168;5.374162;musee d'histoire de Marseille;13001.0;Provence-Alpes-Cote-d'Azur;Museum
+1133;M0923;9, Boulevard du 14 juillet;Martigues;Bouches-du-Rhone;43.408336;5.054107;musee Ziem;13500.0;Provence-Alpes-Cote-d'Azur;Museum
+1134;M0926;1 Place Favier;Saint-Remy-de-Provence;Bouches-du-Rhone;43.789218;4.831075;musee des Alpilles Pierre de Brun;13210.0;Provence-Alpes-Cote-d'Azur;Museum
+1135;M0895;9 avenue Paul Cezanne;Aix-en-Provence;Bouches-du-Rhone;43.537816;5.446601;musee de l'atelier de Paul Cezanne;13090.0;Provence-Alpes-Cote-d'Azur;Museum
+1136;M0897;28, place des Martyrs de la Resistance;Aix-en-Provence;Bouches-du-Rhone;43.531366;5.447546;musee des tapisseries;13100.0;Provence-Alpes-Cote-d'Azur;Museum
+1137;M0900;10 rue du Grand Prieure;Arles;Bouches-du-Rhone;43.679186;4.627903;musee Reattu;13200.0;Provence-Alpes-Cote-d'Azur;Museum
+1138;M0905;avenue des Moulins;Fontvieille;Bouches-du-Rhone;43.380746;5.679968;musee Alphonse Daudet;13390.0;Provence-Alpes-Cote-d'Azur;Museum
+1139;M0908;2 rue du Jas;Lambesc;Bouches-du-Rhone;43.651927;5.261964;musee folklorique du vieux Lambesc;13410.0;Provence-Alpes-Cote-d'Azur;Museum
+1140;M0913;Musee des Beaux-Arts;Marseille;Bouches-du-Rhone;43.30471864;5.394041458;musee des beaux-arts;13233.0;Provence-Alpes-Cote-d'Azur;Museum
+1141;M0927;6 avenue Theodore Aubanel;Saintes-Maries-de-la-Mer;Bouches-du-Rhone;43.45124;4.427775;musee Baroncelli;13460.0;Provence-Alpes-Cote-d'Azur;Museum
+1142;M1094;69 avenue d'Ha�fa;Marseille;Bouches-du-Rhone;43.250815;5.389874;musee d'art contemporain - galeries contemporaines;13008.0;Provence-Alpes-Cote-d'Azur;Museum
+1143;M7044;7 rue Edouard Stephan;Marseille;Bouches-du-Rhone;43.305143;5.394121;museum d'histoire naturelle;13004.0;Provence-Alpes-Cote-d'Azur;Museum
+1144;M7064;7 allee des robiniers;Aix-en-Provence;Bouches-du-Rhone;43.533792;5.423327;museum d'histoire naturelle;13090.0;Provence-Alpes-Cote-d'Azur;Museum
+1145;M0899;2A rue du Quatre-Septembre;Aix-en-Provence;Bouches-du-Rhone;43.526201;5.449931;musee Paul Arbaud;13100.0;Provence-Alpes-Cote-d'Azur;Museum
+1146;M0907;1 quai Ganteaume;La Ciotat;Bouches-du-Rhone;43.173755;5.60973;musee ciotaden;13600.0;Provence-Alpes-Cote-d'Azur;Museum
+1147;M0911;11 rue Lamartine;Maillane;Bouches-du-Rhone;43.831079;4.782653;musee Frederic Mistral;13910.0;Provence-Alpes-Cote-d'Azur;Museum
+1148;M0915;19 rue Grignan;Marseille;Bouches-du-Rhone;43.292383;5.378137;musee Cantini;13006.0;Provence-Alpes-Cote-d'Azur;Museum
+1149;M0928;avenue Roger Donnadieu;Salon-de-Provence;Bouches-du-Rhone;43.64095;5.104363;musee de Salon et de la Crau;13300.0;Provence-Alpes-Cote-d'Azur;Museum
+1150;M0929;;Salon-de-Provence;Bouches-du-Rhone;43.640227;5.096576;musee de l'Emperi;13300.0;Provence-Alpes-Cote-d'Azur;Museum
+1151;M1168;8 rue Lucien Estrine;Saint-Remy-de-Provence;Bouches-du-Rhone;43.788801;4.832266;musee Estrine;13210.0;Provence-Alpes-Cote-d'Azur;Museum
+1152;M1215;1, Avenue Marcel Pagnol;Aix-en-Provence;Bouches-du-Rhone;43.52129292;5.424644779;Fondation Vasarely;13096.0;Provence-Alpes-Cote-d'Azur;Museum
+1153;M5002;Esplanade J4 - 7 promenade Robert Laffont;Marseille;Bouches-du-Rhone;43.29690491;5.361071769;musee des civilisations de l'Europe et de la mediterranee;13213.0;Provence-Alpes-Cote-d'Azur;Museum
+1154;M0894;Place Saint-Jean-de-Malte;Aix-en-Provence;Bouches-du-Rhone;43.494315;5.410889;musee Granet;13100.0;Provence-Alpes-Cote-d'Azur;Museum
+1155;M0898;17 rue Gaston de Saporta;Aix-en-Provence;Bouches-du-Rhone;43.530857;5.447432;musee du vieil Aix;13100.0;Provence-Alpes-Cote-d'Azur;Museum
+1156;M0912;1 place Carli;Marseille;Bouches-du-Rhone;43.295789;5.383313;cabinet des monnaies et medailles;13001.0;Provence-Alpes-Cote-d'Azur;Museum
+1157;M0920;2 rue de la Charite;Marseille;Bouches-du-Rhone;43.300172;5.367602;musee des arts africains, oceaniens, amerindiens;13002.0;Provence-Alpes-Cote-d'Azur;Museum
+1158;M0924;3 Avenue Pasteur;Saint-Cannat;Bouches-du-Rhone;43.621602;5.295178;musee Suffren et du vieux Saint-Cannat;13760.0;Provence-Alpes-Cote-d'Azur;Museum
+1159;M0925;Saint-Chamas;Saint-Chamas;Bouches-du-Rhone;43.554245;5.072251;musee du vieux Saint-Chamas;13250.0;Provence-Alpes-Cote-d'Azur;Museum
+1160;M9003;Route de la Thuillere;Aubagne / Puyloubier;Bouches-du-Rhone;43.29353801;5.553768625;musee de la Legion etrangere;13400.0;Provence-Alpes-Cote-d'Azur;Museum
+1161;M0866;6 avenue Marechal Foch;Gap;Hautes-Alpes;44.562625;6.085573;musee departemental des Hautes-Alpes;5000.0;Provence-Alpes-Cote-d'Azur;Museum
+1162;M0865;S'adresser au musee departemental de Gap;Aiguilles;Hautes-Alpes;44.56249939;6.08657769;musee du vieux Queyras;5470.0;Provence-Alpes-Cote-d'Azur;Museum
+1163;M0937;14 avenue Joseph Clotis;Hyeres;Var;43.119997;6.130519;musee municipal;83400.0;Provence-Alpes-Cote-d'Azur;Museum
+1164;M0940;Parvis de la vieille l'egise rue des templiers;Saint-Rapha�l;Var;43.42598958;6.769881215;musee archeologique;83700.0;Provence-Alpes-Cote-d'Azur;Museum
+1165;M0932;Place des Comtes de Provence;Brignoles;Var;43.404216;6.061427;musee du pays brignolais;83170.0;Provence-Alpes-Cote-d'Azur;Museum
+1166;M0936;Place Calvini;Frejus;Var;43.433569;6.736721;musee archeologique;83600.0;Provence-Alpes-Cote-d'Azur;Museum
+1167;M0938;Avenue du 11 mai 1945;La Garde;Var;43.131242;5.931994;musee Jean Aicard;83000.0;Provence-Alpes-Cote-d'Azur;Museum
+1168;M9008;Avenue des Troupes de Marine;Frejus;Var;43.47210159;6.721402172;musee des troupes de marine;83608.0;Provence-Alpes-Cote-d'Azur;Museum
+1169;M0933;9 rue de la Republique;Draguignan;Var;43.537982;6.464818;musee des Beaux-Arts;83300.0;Provence-Alpes-Cote-d'Azur;Museum
+1170;M0941;place Grammont;Saint-Tropez;Var;43.270865;6.637291;musee de l'Annonciade;83990.0;Provence-Alpes-Cote-d'Azur;Museum
+1171;M0943;113 boulevard du Marechal Leclerc;Toulon;Var;43.125971;5.927245;musee d'art de Toulon - M.A.T.;83000.0;Provence-Alpes-Cote-d'Azur;Museum
+1172;M1182;Place Calvini;Frejus;Var;43.43347344;6.736489014;musee d'archeologie gallo-romaine du Var;83600.0;Provence-Alpes-Cote-d'Azur;Museum
+1173;M0930;rue Haute;Aiguines;Var;43.776017;6.243581;musee des tourneurs;83630.0;Provence-Alpes-Cote-d'Azur;Museum
+1174;M0931;103 rue Carnot;Bormes-les-Mimosas;Var;43.150793;6.340584;musee des arts et d'histoire;83230.0;Provence-Alpes-Cote-d'Azur;Museum
+1175;M0942;3 rue Marseillaise;Sollies-Ville;Var;43.181724;6.039364;musee Jean Aicard;83210.0;Provence-Alpes-Cote-d'Azur;Museum
+1176;M7061;737, chemin du Jonquet;Toulon;Var;43.143305;5.910861;museum d'histoire naturelle;83200.0;Provence-Alpes-Cote-d'Azur;Museum
+1177;M9007;Quartier Bonaparte avenue de La Grande Armee;Draguignan;Var;43.529648;6.495058;musee de l'artillerie;83300.0;Provence-Alpes-Cote-d'Azur;Museum
+1178;M0934;21 allee d'Azemar;Draguignan;Var;43.536558;6.461588;musee de la societe d'etudes scientifiques et archeologiques;83300.0;Provence-Alpes-Cote-d'Azur;Museum
+1179;M0935;75 place georges brassens;Draguignan;Var;43.538282;6.463862;musee des arts et traditions populaires de moyenne Provence;83300.0;Provence-Alpes-Cote-d'Azur;Museum
+1180;M0953;20 rue Chabran;Cavaillon;Vaucluse;43.837324;5.038776;musee Jouve;84300.0;Provence-Alpes-Cote-d'Azur;Museum
+1181;M0959;rue Madeleine Roch;Orange;Vaucluse;44.135887;4.807526;musee municipal;84100.0;Provence-Alpes-Cote-d'Azur;Museum
+1182;M0960;;Sault;Vaucluse;44.091143;5.408027;musee municipal;84390.0;Provence-Alpes-Cote-d'Azur;Museum
+1183;M0961;Place du chanoine Sautel;Vaison-la-Romaine;Vaucluse;44.246355;5.072128;musee archeologique Theo Desplans;84110.0;Provence-Alpes-Cote-d'Azur;Museum
+1184;M0962;3 avenue du Marechal Foch;Valreas;Vaucluse;44.382664;4.987351;musee du cartonnage et de l'imprimerie;84600.0;Provence-Alpes-Cote-d'Azur;Museum
+1185;M0952;Place Jean Bastide;Cavaillon;Vaucluse;43.836985;5.037862;musee de l'hotel-Dieu;84300.0;Provence-Alpes-Cote-d'Azur;Museum
+1186;M0955;rue de l'Eglise;Cucuron;Vaucluse;43.772678;5.440606;musee Marc Deydier;84160.0;Provence-Alpes-Cote-d'Azur;Museum
+1187;M7021;67 rue Joseph Vernet;Avignon;Vaucluse;43.946695;4.803397;museum d'histoire naturelle Esprit Requien;84000.0;Provence-Alpes-Cote-d'Azur;Museum
+1188;M0946;65 rue Joseph Vernet;Avignon;Vaucluse;43.946985;4.803388;musee Calvet (et musee lapidaire);84000.0;Provence-Alpes-Cote-d'Azur;Museum
+1189;M0949;234 Boulevard Albert Durand;Carpentras;Vaucluse;44.0543;5.045479;musees Comtadin et Duplessis;84200.0;Provence-Alpes-Cote-d'Azur;Museum
+1190;M0956;Rive gauche de la Sorgue;Fontaine-de-Vaucluse;Vaucluse;43.91753;5.056541;musee-bibliotheque Petrarque;84800.0;Provence-Alpes-Cote-d'Azur;Museum
+1191;M0945;14 place du Postel;Apt;Vaucluse;43.875736;5.397687;musee municipal d'archeologie;84400.0;Provence-Alpes-Cote-d'Azur;Museum
+1192;M0950;Rue des Saintes-Maries;Carpentras;Vaucluse;44.055939;5.046763;musee lapidaire et archeologie;84200.0;Provence-Alpes-Cote-d'Azur;Museum
+1193;M0951;112 rue du College;Carpentras;Vaucluse;44.054477;5.046269;musee Sobirats;84200.0;Provence-Alpes-Cote-d'Azur;Museum
+1194;M0954;Rue Hebra�que;Cavaillon;Vaucluse;43.836842;5.038553;synagogue musee juif comtadin;84300.0;Provence-Alpes-Cote-d'Azur;Museum
+1195;M0958;rue Saint-Nazaire;Mazan;Vaucluse;44.056743;5.12788;musee municipal;84380.0;Provence-Alpes-Cote-d'Azur;Museum
+1196;M0947;Place du Palais des Papes;Avignon;Vaucluse;43.951088;4.806317;musee du Petit Palais;84000.0;Provence-Alpes-Cote-d'Azur;Museum
+1197;M0957;S'adresser a la mairie;Lourmarin;Vaucluse;43.76316809;5.363626709;musee Philippe de Girard;84160.0;Provence-Alpes-Cote-d'Azur;Museum
+1198;M1180;Chemin du gouffre;Fontaine-de-Vaucluse;Vaucluse;43.922626;5.127397;musee Jean Garcin 39-45 : l'appel de la liberte;84800.0;Provence-Alpes-Cote-d'Azur;Museum
+1199;M1061;24 rue Peynier;Pointe-a-Pitre;Guadeloupe;16.237697;-61.537737;musee Schoelcher;97110.0;Territoires et departements d'outre-mer;Museum
+1200;M1062;9 rue de Nozieres;Pointe-a-Pitre;Guadeloupe;16.236416;-61.535945;musee Saint-John-Perse;97110.0;Territoires et departements d'outre-mer;Museum
+1201;M7056;s'adresser a l'office du tourisme;Pointe-a-Pitre;Guadeloupe;16.2385073;-61.53672708;musee l'Herminier;97163.0;Territoires et departements d'outre-mer;Museum
+1202;M1060;;Le Moule;Guadeloupe;15.850088;-61.646677;musee precolombien Edgar Clerc;97136.0;Territoires et departements d'outre-mer;Museum
+1203;M1059;Section Murat;Grand-Bourg;Guadeloupe;15.876666;-61.298004;ecomusee de Marie-Galante;97112.0;Territoires et departements d'outre-mer;Museum
+1204;M1063;1 Avenue du General-de-Gaulle;Cayenne;Guyane;4.938177;-52.334359;musee departemental Alexandre Franconie;97300.0;Territoires et departements d'outre-mer;Museum
+1205;M1064;78 rue Madame Paye;Cayenne;Guyane;4.94156;-52.32837;musee des arts et traditions populaires de la Guyane;97300.0;Territoires et departements d'outre-mer;Museum
+1206;M1095;;Regina;Guyane;5.166319942;-52.65043417;ecomusee de l'Approuague;97338.0;Territoires et departements d'outre-mer;Museum
+1207;M1078;17 A, chemin Maison Rouge;Saint-Louis;La Reunion;-21.26765;55.411839;musee des arts decoratifs de l'Ocean indien;97450.0;Territoires et departements d'outre-mer;Museum
+1208;M1070;Domaine de Panon-Desbassayns;Saint-Gilles-les-Hauts;La Reunion;-21.05591776;55.26440939;musee de Villele;97435.0;Territoires et departements d'outre-mer;Museum
+1209;M7014;1 rue Poivre;Saint-Denis-de-la-Reunion;La Reunion;-20.887712;55.451452;museum d'histoire naturelle;97400.0;Territoires et departements d'outre-mer;Museum
+1210;M1068;10 allee des flamboyants;Piton-Saint-Leu;La Reunion;-21.201257;55.296082;musee agricole et industriel Stella Matutina;97424.0;Territoires et departements d'outre-mer;Museum
+1211;M1069;28 rue de Paris;Saint-Denis-de-la-Reunion;La Reunion;-20.883698;55.450251;musee Leon Dierx;97400.0;Territoires et departements d'outre-mer;Museum
+1212;M1067;Quartier Vatable;Les Trois-Ilets;Martinique;14.531893;-61.026775;maison de la canne;97229.0;Territoires et departements d'outre-mer;Museum
+1213;M1065;9 rue de La Liberte;Fort-de-France;Martinique;14.60331;-61.068675;musee departemental d'archeologie;97200.0;Territoires et departements d'outre-mer;Museum
+1214;M1066;10 boulevard du General de Gaulle;Fort-de-France;Martinique;14.606106;-61.065619;musee regional d'histoire et d'ethnologie;97200.0;Territoires et departements d'outre-mer;Museum
+1215;M7059;169 rue Victor-Hugo;Saint-Pierre-de-la-Martinique;Martinique;14.743103;-61.175994;musee vulcanologique;97250.0;Territoires et departements d'outre-mer;Museum
+1216;M1081;quai Anse-du-figuier;Riviere-Pilote;Martinique;14.463029;-60.909569;ecomusee de la Martinique;97211.0;Territoires et departements d'outre-mer;Museum
+1217;M7036;Parc Floral;Fort-de-France;Martinique;14.624376;-61.049824;museum d'histoire naturelle;97200.0;Territoires et departements d'outre-mer;Museum
+1218;M1181;;Fort-de-France;Martinique;14.649226;-61.070648;musee du Pere Pinchon;97200.0;Territoires et departements d'outre-mer;Museum
+1219;M1209;;Mayotte;Mayotte;-12.774184;45.282721;MuMa - musee de Mayotte;97615.0;Territoires et departements d'outre-mer;Museum
+1220;M1071;rue du 11 novembre;Saint-Pierre;Saint-Pierre-et-Miquelon;46.777283;-56.175795;musee de l'Arche;97500.0;Territoires et departements d'outre-mer;Museum

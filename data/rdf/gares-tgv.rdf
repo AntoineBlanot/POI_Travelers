@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#">
+
+  <rdf:Description rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV1">
+    <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#TGVStation"/>
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ain</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6097E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.847E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aix-en-Provence TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </rdf:Description>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV2">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ain</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6114E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.824E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bellegarde</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV3">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ain</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6196E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.275E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourg-en-Bresse</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV4">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ain</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6171E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.577E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cluses</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV5">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ain</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6181E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.521E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nurieux</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV6">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpes-Maritimes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3584E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.108E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antibes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV7">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpes-Maritimes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3653E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.146E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cannes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV8">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpes-Maritimes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3774E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.489E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Menton</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV9">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alpes-Maritimes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3697E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.272E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nice-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV10">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ardennes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9771E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.72E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charleville-M�zi�res</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV11">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ardennes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.95E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.402E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rethel</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV12">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ardennes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9705E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.943E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sedan</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV13">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aube</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8119E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.789E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dijon-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV14">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aude</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3179E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.405E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carcassonne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV15">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aude</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3182E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.026E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Narbonne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV16">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouches-du-Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3641E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.071E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arles</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV17">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouches-du-Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3657E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.095E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avignon TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV18">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouches-du-Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3255E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.432E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marseille-Saint-Charles</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV19">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouches-du-Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3643E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.021E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miramas</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV20">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charente</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5655E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.51E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angoul�me</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV21">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charente</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.562E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.22E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champagne-Ardenne TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV22">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charente-Maritime</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6158E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.154E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Rochelle-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV23">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charente-Maritime</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6318E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-9.73E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rouen-Rive-Droite</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV24">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charente-Maritime</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6114E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.41E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surg�res</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV25">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�te-d'Or</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7104E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.67E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beaune</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV26">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�te-d'Or</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7837E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.364E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montbard</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV27">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�tes-d'Armor</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8563E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.155E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guingamp</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV28">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�tes-d'Armor</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8439E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.538E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lamballe</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV29">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�tes-d'Armor</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8744E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.472E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lannion</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV30">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�tes-d'Armor</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8581E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.197E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M�con-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV31">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�tes-d'Armor</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8503E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.763E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Brieuc</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV32">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doubs</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7248E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.026E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Besan�on-Viotte</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV33">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doubs</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6856E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.149E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frasne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV34">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dr�me</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4546E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.744E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mont�limar</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV35">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dr�me</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5065E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.891E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valence TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV36">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dr�me</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4933E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.891E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valence-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV37">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8391E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.502E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brest</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV38">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.845E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.253E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landerneau</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV39">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8014E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.094E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quimper</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV40">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7884E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.548E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quimperl�</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV41">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7989E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.791E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosporden</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV42">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finist�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8579E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.833E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morlaix</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV43">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gard</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3832E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.386E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N�mes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV44">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gard</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3851E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.37E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N�mes-Pont-du-Gard</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV45">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Garonne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3583E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.484E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meuse TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV46">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Garonne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.361E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.447E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toulouse-Matabiau</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV47">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gironde</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4662E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.17E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arcachon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV48">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gironde</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4838E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.7E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bordeaux-Saint-Jean</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV49">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gironde</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.465E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-9.56E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facture-Biganos</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV50">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gironde</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4896E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.4E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Libourne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV51">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gironde</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4633E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.133E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Teste</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV52">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3318E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.483E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agde</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV53">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.342E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.236E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B�ziers</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV54">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.89E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier-Saint-Roch</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV55">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3595E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.924E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier-Sud-de-France</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV56">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3409E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.698E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S�te</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV57">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H�rault</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3394E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.68E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TGV Haute-Picardie</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV58">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8551E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.738E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dol-de-Bretagne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV59">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8035E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.704E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plouaret-Tr�gor</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV60">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7652E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.083E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Redon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV61">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.811E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.684E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV62">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8657E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.974E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Malo</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV63">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ille-et-Vilaine</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8131E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.218E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitr�</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV64">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indre-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7381E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorraine TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centre-Val de Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV65">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indre-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7386E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.61E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Pierre-des-Corps</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centre-Val de Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV66">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indre-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7402E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.96E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tours</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centre-Val de Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV67">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is�re</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5177E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.741E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grenoble</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV68">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jura</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6978E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.792E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mouchard</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV69">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landes</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3709E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.068E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dax</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV70">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loir-et-Cher</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7799E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.036E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vend�me - Villiers-sur-Loir</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centre-Val de Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV71">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5429E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.36E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montauban-Ville-Bourbon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV72">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5443E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-�tienne-Ch�teaucreux</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV73">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7366E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.184E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ancenis</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV74">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7285E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.371E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Baule-Escoublac</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV75">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7287E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.51E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Croisic</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV76">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7259E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.529E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nantes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV77">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7252E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.314E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pornichet</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV78">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7277E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.439E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Pouliguen</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV79">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loire-Atlantique</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7299E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.184E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Nazaire</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV80">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lot-et-Garonne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4206E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.18E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agen</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV81">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maine-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7473E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.52E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angers-Saint-Laud</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV82">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maine-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7263E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.3E-2</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saumur</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV83">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8956E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.362E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ch�lons-en-Champagne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV84">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9245E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.041E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reims</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV85">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.873E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.597E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitry-le-Fran�ois</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV86">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mayenne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8077E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.6E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laval</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV87">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meurthe-et-Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8585E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.483E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lun�ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV88">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meurthe-et-Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8703E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.224E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nancy-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV89">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meuse</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8756E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.194E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar-le-Duc</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV90">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morbihan</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7663E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.988E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auray</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV91">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morbihan</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7759E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.384E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorient</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV92">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morbihan</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7636E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.773E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vannes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bretagne</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV93">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.918E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.895E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forbach</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV94">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9101E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.155E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metz-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV95">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8735E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.052E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarrebourg</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV96">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moselle</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9362E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.144E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thionville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV97">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0678E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.135E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Croix - Wasquehal</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV98">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.039E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.09E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Douai</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV99">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.1046E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.389E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dunkerque</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV100">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0738E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.726E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hazebrouck</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV101">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0641E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.074E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille-Europe</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV102">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0628E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.056E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille-Flandres</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV103">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0701E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roubaix</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV104">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0718E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.141E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tourcoing</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV105">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nord</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0342E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.517E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valenciennes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV106">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oise</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9607E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.707E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boulogne-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV107">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.029E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.778E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arras</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV108">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0517E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.636E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B�thune</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV109">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0935E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.85E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calais - Fr�thun</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV110">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.043E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.063E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calais-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV111">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0525E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.589E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�taples - Le Touquet</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV112">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0419E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.027E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV113">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pas-de-Calais</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0414E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.619E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rang-du-Fliers - Verton</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV114">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3503E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.443E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bayonne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV115">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3472E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.555E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biarritz</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV116">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3355E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.774E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hendaye</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV117">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3491E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.68E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orthez</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV118">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3295E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.5E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pau</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV119">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Atlantiques</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3381E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.676E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Jean-de-Luz - Ciboure</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV120">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hautes-Pyr�n�es</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3095E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.9E-2</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lourdes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV121">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hautes-Pyr�n�es</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3232E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.099999999999999E-2</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tarbes</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV122">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyr�n�es-Orientales</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2697E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.888E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perpignan</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV123">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bas-Rhin</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8744E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.359E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saverne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV124">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bas-Rhin</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8265E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.441E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S�lestat</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV125">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bas-Rhin</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8561E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.76E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strasbourg-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV126">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haut-Rhin</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8077E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.361E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colmar</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV127">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haut-Rhin</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7746E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.34E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulhouse-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV128">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5985E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.706E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Besan�on Franche-Comt� TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV129">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5759E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.841E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lyon-Part-Dieu</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV130">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5749E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.828E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lyon-Perrache</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV131">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5758E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.828E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lyon-Saint-Exup�ry TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV132">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5888E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.621E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marne-la-Vall�e - Chessy</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV133">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.578E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.804E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris-Gare-de-Lyon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV134">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Sa�ne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7439E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.589E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dole-Ville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV135">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sa�ne-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6789E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.841E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chalon-sur-Sa�ne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV136">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sa�ne-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6669E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.377E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Creusot - Montceau - Montchanin</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV137">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sa�ne-et-Loire</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6277E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.784E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M�con-Loch� TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV138">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarthe</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7999E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.92E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Mans</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV139">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarthe</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7837E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.29E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabl�-sur-Sarthe</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV140">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5573E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.606E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aime-La Plagne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV141">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.569E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.919E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aix-les-Bains-Le Revard</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV142">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5659E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.384E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albertville</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV143">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5573E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.828E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourg-Saint-Maurice</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV144">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5559E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.975E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chamb�ry - Challes-les-Eaux</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV145">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5576E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.736E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landry</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV146">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5201E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.671E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modane</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV147">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5452E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.567E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mo�tiers - Salins - Brides-les-Bains</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV148">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5356E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.304E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Avre - La Chambre</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV149">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5272E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.352E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Jean-de-Maurienne - Vall�e de l'Arvan</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV150">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5898E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.119E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annecy</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV151">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6185E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.242E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annemasse</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV152">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6398E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.602E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�vian-les-Bains</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV153">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5868E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.682E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Gervais-les-Bains-Le Fayet</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV154">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5901E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.643E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sallanches - Combloux - Meg�ve</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV155">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haute-Savoie</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6374E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.485E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thonon-les-Bains</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auvergne-Rh�ne-Alpes</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV156">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8871E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.395E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris-Est</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV157">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8838E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.317E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris-Montparnasse</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV158">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8881E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.356E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris-Nord</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV159">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seine-Maritime</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9505E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.74E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Havre</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Normandie</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0: rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV160">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns0:departement>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A�roport Charles-de-Gaulle TGV,</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns0:regioncode>
+  </ns0:>
+
+  <ns0: rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV,11,">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TGVStation</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.571E0</ns0:departementcode>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49.006</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seine-et-Marne</ns0:regioncode>
+  </ns0:>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV161">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yvelines</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8994E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.721E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mantes-la-Jolie</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV162">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yvelines</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8797E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.136E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Versailles-Chantiers</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV163">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deux-S�vres</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6319E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.58E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Niort</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV164">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deux-S�vres</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6409E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.05E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Maixent (Deux-S�vres)</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV165">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somme</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.99E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.289E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amiens</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hauts-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV166">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Var</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3504E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.483E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Arcs - Draguignan</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV167">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Var</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.309E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.123E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hy�res</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV168">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Var</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3441E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.776E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Rapha�l-Valescure</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV169">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Var</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3133E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.964E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toulon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV170">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vaucluse</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4046E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.031E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avignon-Centre</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV171">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vaucluse</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.414E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.812E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provence-Alpes-C�te d'Azur</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV172">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vend�e</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.667E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.432E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Roche-sur-Yon</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV173">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vend�e</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6479E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.758E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Sables-d'Olonne</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pays de la Loire</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV174">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vienne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6796E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.25E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ch�tellerault</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV175">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vienne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6659E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.62E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Futuroscope</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV176">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vienne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6579E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.35E-1</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poitiers</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouvelle-Aquitaine</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV177">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vosges</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8175E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.45E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�pinal</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV178">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vosges</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8006E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.604E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remiremont</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV179">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vosges</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8293E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.962E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Di�-des-Vosges</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV180">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vosges</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8157E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.134E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Michel - Valloire</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grand Est</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV181">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Territoire de Belfort</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7637E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.858E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belfort - Montb�liard TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bourgogne-Franche-Comt�</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV182">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Essonne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8731E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.243E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massy - Palaiseau</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+  <ns0:TGVStation rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/TGV183">
+    <ns0:departement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Essonne</ns0:departement>
+    <ns0:departementcode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</ns0:departementcode>
+    <ns0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8736E1</ns0:latitude>
+    <ns0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.291E0</ns0:longitude>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massy TGV</ns0:name>
+    <ns0:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">�le-de-France</ns0:region>
+    <ns0:regioncode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ns0:regioncode>
+  </ns0:TGVStation>
+
+</rdf:RDF>
