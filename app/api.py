@@ -15,3 +15,11 @@ def index():
 def test():
     CreateMap()
     return render_template('map.html')
+
+@app.route('/info', methods=('GET', 'POST'))
+def info():
+    if request.method ==  'POST':
+        # do stuff here
+        # language = request.form.get('language')
+        CreateMap()
+    return render_template('info.html')

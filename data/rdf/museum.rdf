@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:ns0="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Code "
-         xmlns:ns1="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#">
 
   <rdf:Description rdf:about="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/M0967">
     <rdf:type rdf:resource="http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#Museum"/>
@@ -14635,4 +14631,4 @@
     <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.6175795E1</ns1:longitude>
   </ns1:Museum>
 
-</rdf:RDF>
+
