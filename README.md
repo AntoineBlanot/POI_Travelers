@@ -23,4 +23,10 @@ export FLASK_ENV=development
 flask run
 ```
 
+### RDF for Python
+
+```
+pip install rdflib
+```
+
 [Link to the Flask API](http://127.0.0.1:5000/)
