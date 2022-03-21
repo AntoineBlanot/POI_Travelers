@@ -5,12 +5,7 @@ from map import CreateMap
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'key'
 
-# To launch the hello world api, do in cmd: 
-## export FLASK_APP=app/api
-## export FLASK_ENV=development
-## flask run
-## CTRL+C to stop 
-# Go to http://127.0.0.1:5000/
+SHOWN_POI = []
 
 @app.route('/')
 def index():
