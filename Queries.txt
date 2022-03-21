@@ -1,0 +1,65 @@
+--1 - Write SPARQL queries to response to the following:
+
+a. List the instances of the geolocated POI
+
+SELECT ?poi
+WHERE { ?poi rdf:type ns:POI .}
+
+b. List the name of all train station. For each one, display its city.
+
+SELECT ?train_station ?city
+WHERE { ?train_station rdf:type ns:TrainStation .
+	?train_station ns:city ?city .}
+
+c. List the name of trips that have Paris (or any other chosen city) as destination.
+
+SELECT ?trip ?poi ?city
+WHERE { ?trip rdf:type ns:Trip .
+	?trip ns:to ?poi .
+ 	?poi ns:city ?city .
+FILTER (?city="Paris") .}
+
+d. List the name of travelers older than 51 years.
+
+SELECT ?traveler ?age
+WHERE { ?traveler rdf:type ns:Traveler .
+	?traveler ns:age ?age .
+FILTER (?age>51) .}
+
+--2 - Propose 5 SPARQL queries:
+
+e. A query that contains at least 2 Optional Graph Patterns
+
+SELECT ?traveler ?age ?gender ?trip
+WHERE { ?traveler rdf:type ns:Traveler .
+	?traveler ns:age ?age .
+FILTER (?age<30) .
+OPTIONAL { ?traveler ns:gender ?gender .
+	   ?traveler ns:hasTravelled ?trip . }}
+
+f. A query that contains at least 2 alternatives and conjunctions
+
+
+SELECT ?trip ?departure ?destination
+WHERE {{?trip rdf:type ns:Trip .
+	?trip ns:from ?departure .
+	?departure ns:name ?name .
+FILTER (?name="Aix-en-Provence TGV") .}
+UNION 
+      { ?trip rdf:type ns:Trip .
+	?trip ns:to ?destination .
+	?destination ns:name ?name .
+FILTER (?name="Paris-Montparnasse") .}
+}
+
+g. A query that contains a CONSTRUCT query form
+
+
+
+h. A query that contains an ASK query form
+
+
+
+i. A query that contains a DESCRIBE query for
+
+
