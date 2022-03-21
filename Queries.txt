@@ -61,5 +61,6 @@ h. A query that contains an ASK query form
 
 
 i. A query that contains a DESCRIBE query for
+https://www.w3.org/TR/rdf-sparql-query/#ask
 
 
