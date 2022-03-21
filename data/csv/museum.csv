@@ -1,4 +1,4 @@
-;Identifiant Museofile;Adresse;Commune;Departement;Latitude;Longitude;Nom officiel du musee;Code Postal;Region administrative;Type
+;Identifiant_Museofile;Adresse;Commune;Departement;Latitude;Longitude;Nom_officiel_du_musee;Code_Postal;Region_administrative;Type
 0;M0967;3 rue Centrale;Lochieu;Ain;45.930633;5.727664;musee du Bugey-Valromey;1260.0;Auvergne-Rhone-Alpes;Museum
 1;M0964;34, rue General Delestraint;Bourg-en-Bresse;Ain;46.196543;5.219217;musees des pays de l'Ain;1000.0;Auvergne-Rhone-Alpes;Museum
 2;M0965;;Briord;Ain;45.781653;5.458569;musee de la societe d'histoire et d'archeologie;1470.0;Auvergne-Rhone-Alpes;Museum
