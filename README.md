@@ -18,13 +18,17 @@ pip install flask
 
 Then in the project folder, run these commands:
 ```
-export FLASK_APP=app/api
+export FLASK_APP=api/app
 export FLASK_ENV=development
 flask run
+```
+or for Windows users
 ```
 set FLASK_APP=api/app
 set FLASK_ENV=development
 flask run
+```
+
 ### RDF for Python
 
 ```
