@@ -1,7 +1,7 @@
 # import gmplot package
 import gmplot
 
-PATH = 'app/templates/'
+PATH = 'api/templates/'
 
 def CreateMap():
         latitude_list = [30.3358376, 30.307977, 30.3216419]

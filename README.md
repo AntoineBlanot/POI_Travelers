@@ -22,7 +22,9 @@ export FLASK_APP=app/api
 export FLASK_ENV=development
 flask run
 ```
-
+set FLASK_APP=api/app
+set FLASK_ENV=development
+flask run
 ### RDF for Python
 
 ```
