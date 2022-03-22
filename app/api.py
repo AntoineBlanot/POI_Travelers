@@ -4,7 +4,7 @@ from map import CreateMap
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'key'
-app.permanent_session_lifetime =timedelta(minutes=5)
+app.permanent_session_lifetime =timedelta(seconds=10)
 
 SHOWN_POI = []
 
@@ -44,11 +44,14 @@ def user():
     else : 
         flash('Your are not logged in !')
         return redirect(url_for("login"))
+
+
 @app.route('/logout')
 def logout():
     session.pop("user",None)
     flash("You have been logged out!","info")
     return redirect(url_for("login"))
+
 
 @app.route('/info', methods=('GET', 'POST'))
 def info():
