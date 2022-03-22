@@ -4,7 +4,7 @@ from map import CreateMap
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'key'
-app.permanent_session_lifetime =timedelta(seconds=10)
+app.permanent_session_lifetime =timedelta(seconds=0)
 
 SHOWN_POI = []
 

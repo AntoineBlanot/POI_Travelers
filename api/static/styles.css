@@ -1,3 +1,5 @@
+.content { padding-top: 60px; }
+
 .hstack {
     display: flex;
     flex-direction: row;
@@ -13,25 +15,50 @@
 .selector-for-some-widget {
 box-sizing: content-box;
 }
+
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
+
+}
+
+.container{
+box-sizing : border-box;
+width : calc(100%-40px);
+max-width: 1600px;
+margin-left : auto;
+margin-right: auto;
+
+}
+.row{
+  height : 200 px ; 
+  position: relative;
+  overflow-y: scroll;
 }
 .map-responsive{
   overflow:hidden;
   padding-bottom:56.25%;
   position:relative;
   height:0;
-
 }
 
 .map-responsive iframe{
-
   left:0;
   top:0;
   height:100%;
   width:100%;
   position:absolute;
-
 }
+.vertical-menu {
+  height: 150px;
+  overflow-y:auto;
+}
+.vertical-menu a:hover{
+    background-color:blue;
+}
+.vertical-menu a.activve{
+  background-color: #4CAF50;
+  color:white;
+}
+

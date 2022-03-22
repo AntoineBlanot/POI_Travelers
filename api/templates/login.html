@@ -3,7 +3,7 @@
 {% block content %}
     {% with messages = get_flashed_messages() %}
         {% if messages %}
-            {% for msg in messages %}
+            {% for lp in messages %}
             <p>{{msg}}</p>
             {% endfor %}
         {% endif %}
