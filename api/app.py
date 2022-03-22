@@ -1,25 +1,61 @@
 from flask import Flask, render_template, request, flash, url_for, redirect, session 
 from datetime import timedelta 
+import pandas as pd
+
 from map import CreateMap
+from queries import AllTravelers, TravelerTrips, POIinCity
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'key'
-app.permanent_session_lifetime =timedelta(seconds=0)
+
 
 SHOWN_POI = []
+TRAVELER_LIST = list(AllTravelers().traveler)
 
-@app.route('/')
-def index():
-    return render_template('base.html', content=["tom","marie","antoine","hugo"])
+
+@app.route('/', methods=['GET', 'POST'])
+def index(poi=[], trips=pd.DataFrame({})):
+    if request.method == 'POST':
+        traveler = request.form.get('select-traveler')
+        flash("people was selected !")
+        city = request.form.get('input-location')
+        print(traveler, city)
+
+        if traveler != '' or traveler != 'none':
+            data = TravelerTrips(traveler)
+            # trips = ['\t'.join(list(map(lambda x: str(x), list(line[1])))) for line in data.iterrows()]
+            trips = data.copy()
+            print(data)
+            poi = list(set(list(data["departName"].values) + list(data["destName"].values)))
+
+            latitudes, longitudes = [], []
+
+            for i in range(len(data["departLatitude"].values)):
+                latitudes = latitudes + list([data["departLatitude"].values[i]]) + list([data["destLatitude"].values[i]])
+                longitudes = longitudes + list([data["departLongitude"].values[i]]) + list([data["destLongitude"].values[i]])
+            
+            CreateMap(latitudes, longitudes)
+            
+        if city != '':
+            data = POIinCity(city)
+            poi = data["poiName"]
+            latitudes, longitudes = data["poiLatitude"], data["poiLongitude"]
+
+            CreateMap(latitudes, longitudes, lines=False, zoom=12)
+
+    return render_template('base.html', voyages=trips, content=poi, travelers=TRAVELER_LIST)
+
 
 @app.route('/map')
 def map():
-    CreateMap()
     return render_template('map.html')
 
-@app.route('/test')
+
+@app.route('/test' , methods=['GET', 'POST'])
 def test():
-    return render_template('info.html')
+    select = request.form.get('comp_select')
+    return(str(select)) # just to see what select is
+
 
 @app.route('/login',methods=["POST","GET"])
 def login():

@@ -26,7 +26,7 @@ box-sizing: content-box;
 .container{
 box-sizing : border-box;
 width : calc(100%-40px);
-max-width: 1600px;
+max-width: 1800px;
 margin-left : auto;
 margin-right: auto;
 
@@ -51,14 +51,12 @@ margin-right: auto;
   position:absolute;
 }
 .vertical-menu {
-  height: 150px;
+  height: 300px;
   overflow-y:auto;
 }
-.vertical-menu a:hover{
-    background-color:blue;
-}
+
 .vertical-menu a.activve{
-  background-color: #4CAF50;
+  background-color: rgb(175, 214, 177);
   color:white;
 }
 

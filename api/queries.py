@@ -30,7 +30,7 @@ def TripsToCity(city="Paris"):
 
     # Apply the query to the graph and iterate through results
     for r in G.query(query):
-        results.loc[len(results.index)] = [ExtractIndividual(r["trip"]), ExtractIndividual(r["poi"]), r["city"]]
+        results.loc[len(results.index)] = [ExtractIndividual(r["trip"]), ExtractIndividual(r["poi"]), str(r["city"])]
 
     return results
 
@@ -51,10 +51,29 @@ def TripsFromCity(city="Paris"):
 
     # Apply the query to the graph and iterate through results
     for r in G.query(query):
-        results.loc[len(results.index)] = [ExtractIndividual(r["trip"]), ExtractIndividual(r["poi"]), r["city"]]
+        results.loc[len(results.index)] = [ExtractIndividual(r["trip"]), ExtractIndividual(r["poi"]), str(r["city"])]
 
     return results
 
+
+def AllTravelers():
+    results = pd.DataFrame({"traveler": [], "name": [], "age": []})
+
+    query = """
+        PREFIX ns: <http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    
+        SELECT ?traveler ?name ?age
+        WHERE { ?traveler rdf:type ns:Traveler .
+                ?traveler ns:name ?name .
+                ?traveler ns:age ?age .}
+    """
+
+    # Apply the query to the graph and iterate through results
+    for r in G.query(query):
+        results.loc[len(results.index)] = [ExtractIndividual(r["traveler"]), str(r["name"]), int(r["age"])]
+
+    return results
 
 def TravelerTrips(traveler="Alice"):
     results = pd.DataFrame({
@@ -77,9 +96,9 @@ def TravelerTrips(traveler="Alice"):
     for r in G.query(query):
         results.loc[len(results.index)] = [
             ExtractIndividual(r["trip"]), ExtractIndividual(r["departPOI"]), ExtractIndividual(r["destPOI"]),
-            r["departName"], r["destName"],
-            r["departLatitude"], r["departLongitude"],
-            r["destLatitude"], r["destLongitude"]
+            str(r["departName"]), str(r["destName"]),
+            float(r["departLatitude"]), float(r["departLongitude"]),
+            float(r["destLatitude"]), float(r["destLongitude"])
         ]
 
     return results
@@ -105,7 +124,7 @@ def POIinCity(city="Paris"):
         # Apply the query to the graph and iterate through results
         for r in G.query(query):
             results.loc[len(results.index)] = [
-                ExtractIndividual(r["poi"]), r["city"], r["poiName"], r["poiLatitude"], r["poiLongitude"]
+                ExtractIndividual(r["poi"]), str(r["city"]), str(r["poiName"]), float(r["poiLatitude"]), float(r["poiLongitude"])
             ]
     results[["poiLatitude", "poiLongitude"]] = results[["poiLatitude", "poiLongitude"]].astype(float)
     
@@ -140,7 +159,7 @@ def GetLocationPOI(poi=""):
     print(query)
     # Apply the query to the graph and iterate through results
     for r in G.query(query):
-        results.append([poi, r["name"], r["latitude"], r["longitude"]])
+        results.append([poi, str(r["name"]), float(r["latitude"]), float(r["longitude"])])
 
     return results
 
@@ -150,7 +169,7 @@ def GetLocationPOI(poi=""):
 # print(TripsFromCity())
 # print(TripsToCity())
 # print(TravelerTrips(traveler="Alice"))
-print(POIinCity("Paris"))
+# print(POIinCity("Paris"))
 # print(GetLocationPOI("HIST1250"))
 
 #endregion
