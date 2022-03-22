@@ -1,0 +1,37 @@
+.hstack {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: stretch;
+  }
+.vstack {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-self: stretch;
+  }
+.selector-for-some-widget {
+box-sizing: content-box;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+
+}
