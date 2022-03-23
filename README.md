@@ -61,8 +61,7 @@ Then, on the Flask API you can:
 - See on the right the **POIs that are shown on the map**
 
 The API will look like this:
-![paris-api-screen](https://github.com/AntoineBlanot/POI_Travelers/blob/master/images/bruno-trips.png?raw=true)
+![paris-api-screen](https://github.com/AntoineBlanot/POI_Travelers/blob/master/images/paris-pois.png?raw=true)
 
-![bruno-api-screen](https://github.com/AntoineBlanot/POI_Travelers/blob/master/images/paris-poi.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![bruno-api-screen](https://github.com/AntoineBlanot/POI_Travelers/blob/master/images/bruno-trips.png?raw=true)
