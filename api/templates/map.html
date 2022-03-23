@@ -8,8 +8,38 @@
     function initialize() {
         var map = new google.maps.Map(document.getElementById("map_canvas"), {
             scaleControl: true,
-            zoom: 12,
-            center: new google.maps.LatLng(nan, nan)
+            zoom: 5,
+            center: new google.maps.LatLng(48.019368, -2.564654)
+        });
+
+        var marker_icon_B22222 = {
+            url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAiCAYAAACwaJKDAAAABmJLR0QA/wD/AP+gvaeTAAAC8UlEQVRIia2WT0gUURzHPzM76/5xV03RME8RgaARHaIg+0unKC/RtQ7ZwVMHIapLYYegS9RF6RBht6hDQkQQSiX9UVBDxTAqPZTWrhvrjjM74+y+DjOD27q6s6vfy+PNe9/PvN973zeMxMZqAdqAJkAGssBPYAiYKuJdo5PAMCDqFUXsD4fFsUhE7A+HRb2iCEA44ycLmaUC/dsSXGmLRKSz1dXsDATWTPpuGDxLJhlSVSHgDnDNeREAvjzg3ZAsd13dvl06V1PDNkVZAwTYpigcqqxkVyAgjWhamyVEDfCqEPRyhSTd7G5sZG8otOHeuGry+2kNBnmrqgcz8Bf4lAvdATy/UFfnPxyJeAK6qlcUArLMmK4fAR4BKdkZ62xQlPCZqqqSgK5OV1XRoChhoBPsmAC0H49G8UmFdrC4fJLEiWgUoN2F+oDm1mCwLKCrFtvfDPhkwA9U1CvKpqCOvwLwu+WvhqxM5fplwATMmGVtCur4TcB07/P0pK5vCur4p4GsW37/gKpiifI2ISMEA6oK0A+rkeqJW5ban0yWBe1fWiJuWSrQA6s3SgVSk+n0qZZQiIYSkjCVTnMvFiMLXcBALhRgOAu175eXD+wLhaj1AP5mGNxYWMAQ4j7Q7T735c17ZQmxe0TT9hyNRgnJMusplclwfX6eZCbzBOjIHct3CaAjkclM3IvFNsxu7+IiccuaAS6SF/NCS9GB86OaZr2xT3SNPus67+yxS9jn8Z/Wq28c6O1LJFjJi5kAHicSAE+Bt4XM628a3Ipblj6Yt9pJXWfGMAQ5B1MK9A/Q9yIvuy+XlsCOzkQ5UIAHP0yTWdMEQMtmGdY0gIcbmYpBR4GZj8vLdkfXMYXQca5juVCAF+POx2bMXuUgBU68VOjgV8PAEoLJdBrgdTGDF+jIihB8MQwWVlYAPnjweFKsvbpaABZQ9KfAy0oBZqfs0uewb9yWQOPzdulzXiZ7hSa0bBYgtZXQ3077ayuh804762XyP5vXHp1xEBmpAAAAAElFTkSuQmCC",
+            labelOrigin: new google.maps.Point(10, 11)
+        };
+
+        new google.maps.Marker({
+            position: new google.maps.LatLng(47.584022, -3.078500),
+            icon: marker_icon_B22222,
+            map: map
+        });
+
+        new google.maps.Marker({
+            position: new google.maps.LatLng(48.454713, -2.050808),
+            icon: marker_icon_B22222,
+            map: map
+        });
+
+        new google.maps.Polyline({
+            clickable: false,
+            geodesic: true,
+            strokeColor: "#6495ED",
+            strokeOpacity: 1.000000,
+            strokeWeight: 3,
+            map: map,
+            path: [
+                new google.maps.LatLng(47.584022, -3.078500),
+                new google.maps.LatLng(48.454713, -2.050808),
+            ]
         });
 
     }

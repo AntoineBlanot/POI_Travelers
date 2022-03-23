@@ -41,10 +41,10 @@
                 <div class="hstack gap-3">
               <input name="input-location" class="form-control me-auto" type="text" placeholder="Add the location : City & POI " aria-label="Add your item here...">
               <select name="select-traveler" class="form-control me-auto" id="exampleFormControlSelect">
-                  <option selected value="{{secret_traveler}}">{{secret_traveler}}</option>
-                  <option value="none">Choose a traveler...</option>
+                  <!-- <option selected value="{{secret_traveler}}">{{secret_traveler}}</option> -->
+                  <option selected value="none">Choose a traveler...</option>
                   {%for traveler in travelers%}
-                  <option value="{{traveler}}">{{traveler}}</option>
+                    <option value="{{traveler}}">{{traveler}}</option>
                   {%endfor%}
                 </select>
               <button type="submit" class="btn btn-secondary">Submit</button>   
@@ -73,7 +73,6 @@
             </div>
             <div class="container">
               <div class="row">
-                <form method ="post">
                   <div class="col-4">
                     <!-- <div class="list-group" id="list-tab" role="tablist">
                       {% for voyage in voyages %}
@@ -83,11 +82,11 @@
                     <div class="list-group" id="list-tab" role="tablist" name="list-trips">
                       <h4>Trips</h4>
                       {%for index,row in voyages.iterrows()%}
-                        <input type="submit" name="Aix-en-Provence TGV" class="list-group-item list-group-item-action" data-bs-toggle="list" value="{{row['destName']}}">Trip from {{row['departName']}} to {{row['destName']}}</input>
+                        <input type="submit" name="Aix-en-Provence TGV" class="list-group-item list-group-item-action" data-bs-toggle="list" value="Trip from {{row['departName']}} to {{row['destName']}}"></input>
                       {%endfor%}
                     </div>
                   </div>
-                </form>
+    
               </div>
           </div>
         </div>    

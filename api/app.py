@@ -22,29 +22,29 @@ def index():
         traveler = request.form.get('select-traveler')
         city = request.form.get('input-location')
 
-        selectedTrip = None
-        print(traveler)
-        t = TravelerTrips(traveler)
-        print(t)
-        print(len(t))
-        for i in range(len(t)):
-            print(f'poi-{i}')
-            print(request.form)
-            print(t["departName"][i])
-            print(t["destName"][i])
-            print(request.form.get(t["departName"][i]))
-            if request.form.get(t["departName"][i]) == t["destName"][i]:
-                print('ahah')
-                selectedTrip = t[i]
+        # selectedTrip = None
+        # print(traveler)
+        # t = TravelerTrips(traveler)
+        # print(t)
+        # print(len(t))
+        # for i in range(len(t)):
+        #     print(f'poi-{i}')
+        #     print(request.form)
+        #     print(t["departName"][i])
+        #     print(t["destName"][i])
+        #     print(request.form.get(t["departName"][i]))
+        #     if request.form.get(t["departName"][i]) == t["destName"][i]:
+        #         print('ahah')
+        #         selectedTrip = t[i]
 
-        print(selectedTrip)
-        if selectedTrip is not None:     
-            CreateMap(
-                list([selectedTrip["departLatitude"]]) + list([selectedTrip["destLatitude"]]),
-                list([selectedTrip["departLongitude"]]) + list([selectedTrip["destLongitude"]]),
-                lines=True
-            )
-            return render_template('base.html', voyages=t, content=list(set(list(t["departName"].values) + list(t["destName"].values))), travelers=TRAVELER_LIST, secret_traveler=traveler) 
+        # print(selectedTrip)
+        # if selectedTrip is not None:     
+        #     CreateMap(
+        #         list([selectedTrip["departLatitude"]]) + list([selectedTrip["destLatitude"]]),
+        #         list([selectedTrip["departLongitude"]]) + list([selectedTrip["destLongitude"]]),
+        #         lines=True
+        #     )
+        #     return render_template('base.html', voyages=t, content=list(set(list(t["departName"].values) + list(t["destName"].values))), travelers=TRAVELER_LIST, secret_traveler=traveler) 
 
         
         # length(dataframe )
@@ -64,20 +64,22 @@ def index():
             return render_template('base.html', voyages=trips[COLUMNS_TRIP], content=pois, travelers=TRAVELER_LIST, secret_traveler=traveler)
         
         elif city != '' and city is not None:
-            traveler = 'Choose a traveler...'
+            # traveler = 'Choose a traveler...'
 
             print('city')
             latitudes, longitudes, pois = CityData(city)
 
             CreateMap(latitudes, longitudes, lines=False, zoom=12)
-            return render_template('base.html', voyages=DEFAULT_TRIPS, content=pois, travelers=TRAVELER_LIST, secret_traveler=traveler)
+            return render_template('base.html', voyages=DEFAULT_TRIPS, content=pois, travelers=TRAVELER_LIST)
+            # return render_template('base.html', voyages=DEFAULT_TRIPS, content=pois, travelers=TRAVELER_LIST, secret_traveler=traveler)
         
         else:
             print('not travel not city')
-            traveler = 'Choose a traveler...'
+            # traveler = 'Choose a traveler...'
 
             CreateMap(DEFAULT_POIS["poiLatitude"].values, DEFAULT_POIS["poiLongitude"].values, lines=False)
-            return render_template('base.html', voyages=DEFAULT_TRIPS, content=DEFAULT_POIS["poiName"], travelers=TRAVELER_LIST, secret_traveler=traveler)
+            return render_template('base.html', voyages=DEFAULT_TRIPS, content=DEFAULT_POIS["poiName"], travelers=TRAVELER_LIST)
+            # return render_template('base.html', voyages=DEFAULT_TRIPS, content=DEFAULT_POIS["poiName"], travelers=TRAVELER_LIST, secret_traveler=traveler)
     
     return render_template('base.html', voyages=DEFAULT_TRIPS, content=DEFAULT_POIS["poiName"], travelers=TRAVELER_LIST) 
 
