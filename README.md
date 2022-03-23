@@ -55,10 +55,16 @@ flask run
 
 Then, on the Flask API you can:
 - See on the left the **map with POIs and Trips**
-- Use the top-left search bar to **filter POIs by a city** (ex:Paris, Marseille, etc.)
-- Use the top-right select bar to **choose a Traveler and see on the map its related Trips**
+- Use the top-left search bar to **filter POIs by a city** (ex:Paris, Marseille, etc.) be **sure** that the select traveler is set to "Choose a traveler..." if not it will take this input over the city.
+- Click on the POI right panel to show **one specific POI within the city**
+- Use the top-right select bar to **choose a Traveler and see on the map its related Trips** 
 - See on the bottom-left the **history of the Trips** done by the choosed Traveler (if no Traveler is choosed, nothing will be displayed)
+- **Click on a specific trip** (in the history of the Traveler's trips) to only show this trip on the map
 - See on the right the **POIs that are shown on the map**
+- **Click on a specific POI** in the list to get only that POI shown
+- Click on Default in the POI panel to show all the poi of the current Traveler
+
+NB: There are some properties not integrated, for instance you can't get the POI within a city if you have previously selected a traveler (*set it Choose a traveler... or reset/reload*).If you run into a bug, please come back to the previous page and try another query, or try to restart the flask interface. 
 
 The API will look like this:
 ![paris-api-screen](https://github.com/AntoineBlanot/POI_Travelers/blob/master/images/paris-pois.png?raw=true)

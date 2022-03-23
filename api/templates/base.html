@@ -36,10 +36,10 @@
         <div class="container">
               <form method="POST" >
                 <div class="hstack gap-3">
-              <input name="input-location" class="form-control me-auto" type="text" placeholder="Add the location : City & POI " aria-label="Add your item here...">
+              <input name="input-location" class="form-control me-auto" type="text" placeholder="Add the location : City " value ="{{site}}" aria-label="Add your item here...">
               <select name="select-traveler" class="form-control me-auto" id="exampleFormControlSelect">
                   <option selected value="{{secret_traveler}}">{{secret_traveler}}</option>
-                  <option value="none">Choose a traveler...</option>
+                  <option value="Choose a traveler...">Choose a traveler...</option>
                   {%for traveler in travelers%}
                     <option value="{{traveler}}">{{traveler}}</option>
                   {%endfor%}
@@ -57,9 +57,9 @@
                 <div class="vertical-menu">
                 <div class="col-auto">
                   <div class="list-group" id="list-tab" role="tablist">
-                    <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list" role="tab" aria-controls="list-home">Default</a>
+                    <input type="submit" class="list-group-item list-group-item-action " id="list-home-list" data-bs-toggle="list" role="tab" aria-controls="list-home" value="Default"></input>
                     {%for elem in content%}
-                      <a class="list-group-item list-group-item-action" id="poi-list-{{elem}}" data-bs-toggle="list"  role="tab" aria-controls="list-{{elem}}">{{elem}}</a>
+                      <input type="submit" name="{{elem}}" class="list-group-item list-group-item-action" id="poi-list-{{elem}}" data-bs-toggle="list"  role="tab" aria-controls="list-{{elem}}" value="{{elem}}"></input>
                     {% endfor %}
                   </div>
                   </div>

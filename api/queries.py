@@ -84,7 +84,7 @@ def TravelerTrips(traveler="Alice"):
             "destLatitude": [], "destLongitude": []
         })
 
-    if traveler is not None:
+    if traveler is not None and traveler !="Choose a traveler...":
         query = """
             PREFIX ns: <http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#>
             PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
