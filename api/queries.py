@@ -75,36 +75,68 @@ def AllTravelers():
 
     return results
 
+
 def TravelerTrips(traveler="Alice"):
     results = pd.DataFrame({
-        "trip": [], "departPOI": [], "destPOI": [],
-        "departName": [], "destName": [],
-        "departLatitude": [], "departLongitude": [],
-        "destLatitude": [], "destLongitude": []
-    })
+            "trip": [], "departPOI": [], "destPOI": [],
+            "departName": [], "destName": [],
+            "departLatitude": [], "departLongitude": [],
+            "destLatitude": [], "destLongitude": []
+        })
 
-    query = """
-        PREFIX ns: <http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#>
-        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-    
-        SELECT ?trip ?departPOI ?destPOI ?departName ?destName ?departLatitude ?departLongitude ?destLatitude ?destLongitude
-        WHERE { ns:""" + traveler + """ ns:hasTravelled ?trip .
-                ?trip ns:from ?departPOI . ?departPOI ns:name ?departName . ?departPOI ns:latitude ?departLatitude . ?departPOI ns:longitude ?departLongitude .
-                ?trip ns:to ?destPOI .  ?destPOI ns:name ?destName . ?destPOI ns:latitude ?destLatitude . ?destPOI ns:longitude ?destLongitude .}
-    """
-    # Apply the query to the graph and iterate through results
-    for r in G.query(query):
-        results.loc[len(results.index)] = [
-            ExtractIndividual(r["trip"]), ExtractIndividual(r["departPOI"]), ExtractIndividual(r["destPOI"]),
-            str(r["departName"]), str(r["destName"]),
-            float(r["departLatitude"]), float(r["departLongitude"]),
-            float(r["destLatitude"]), float(r["destLongitude"])
-        ]
+    if traveler is not None:
+        query = """
+            PREFIX ns: <http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#>
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        
+            SELECT ?trip ?departPOI ?destPOI ?departName ?destName ?departLatitude ?departLongitude ?destLatitude ?destLongitude
+            WHERE { ns:""" + traveler + """ ns:hasTravelled ?trip .
+                    ?trip ns:from ?departPOI . ?departPOI ns:name ?departName . ?departPOI ns:latitude ?departLatitude . ?departPOI ns:longitude ?departLongitude .
+                    ?trip ns:to ?destPOI .  ?destPOI ns:name ?destName . ?destPOI ns:latitude ?destLatitude . ?destPOI ns:longitude ?destLongitude .}
+        """
+        # Apply the query to the graph and iterate through results
+        for r in G.query(query):
+            results.loc[len(results.index)] = [
+                ExtractIndividual(r["trip"]), ExtractIndividual(r["departPOI"]), ExtractIndividual(r["destPOI"]),
+                str(r["departName"]), str(r["destName"]),
+                float(r["departLatitude"]), float(r["departLongitude"]),
+                float(r["destLatitude"]), float(r["destLongitude"])
+            ]
 
     return results
 
 
 def POIinCity(city="Paris"):
+    print(city)
+
+    results = pd.DataFrame({
+        "poi": [], "city": [],
+        "poiName": [], "poiLatitude": [], "poiLongitude": []
+    })
+
+    if city != 'Choose a traveler...':
+        for poi in POI_LIST:
+            query = """
+                PREFIX ns: <http://www.semanticweb.org/antoineblanot/ontologies/web-data-semantics/project#>
+                PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+            
+                SELECT ?poi ?city ?poiName ?poiLatitude ?poiLongitude
+                WHERE { ?poi rdf:type ns:""" + poi + """ .
+                        ?poi ns:city ?city . ?poi ns:name ?poiName . ?poi ns:latitude ?poiLatitude . ?poi ns:longitude ?poiLongitude .
+                FILTER (?city=\"""" + city + """\") .}
+            """
+
+            # Apply the query to the graph and iterate through results
+            for r in G.query(query):
+                results.loc[len(results.index)] = [
+                    ExtractIndividual(r["poi"]), str(r["city"]), str(r["poiName"]), float(r["poiLatitude"]), float(r["poiLongitude"])
+                ]
+    results[["poiLatitude", "poiLongitude"]] = results[["poiLatitude", "poiLongitude"]].astype(float)
+    
+    return results
+
+
+def AllPOI():
     results = pd.DataFrame({
         "poi": [], "city": [],
         "poiName": [], "poiLatitude": [], "poiLongitude": []
@@ -117,8 +149,7 @@ def POIinCity(city="Paris"):
         
             SELECT ?poi ?city ?poiName ?poiLatitude ?poiLongitude
             WHERE { ?poi rdf:type ns:""" + poi + """ .
-                    ?poi ns:city ?city . ?poi ns:name ?poiName . ?poi ns:latitude ?poiLatitude . ?poi ns:longitude ?poiLongitude .
-            FILTER (?city=\"""" + city + """\") .}
+                    ?poi ns:city ?city . ?poi ns:name ?poiName . ?poi ns:latitude ?poiLatitude . ?poi ns:longitude ?poiLongitude .}
         """
 
         # Apply the query to the graph and iterate through results
@@ -129,7 +160,6 @@ def POIinCity(city="Paris"):
     results[["poiLatitude", "poiLongitude"]] = results[["poiLatitude", "poiLongitude"]].astype(float)
     
     return results
-
 
 def GetLocationPOI(poi=""):
     results = pd.DataFrame({"poi": [], "name": [], "latitude": [], "longitude": []})
@@ -169,7 +199,7 @@ def GetLocationPOI(poi=""):
 # print(TripsFromCity())
 # print(TripsToCity())
 # print(TravelerTrips(traveler="Alice"))
-# print(POIinCity("Paris"))
+# print(POIinCity("Marseille"))
 # print(GetLocationPOI("HIST1250"))
 
 #endregion

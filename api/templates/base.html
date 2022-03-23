@@ -37,11 +37,12 @@
         </nav>
         <div class="content">
         <div class="container">
-              <form method="POST">
+              <form method="POST" >
                 <div class="hstack gap-3">
               <input name="input-location" class="form-control me-auto" type="text" placeholder="Add the location : City & POI " aria-label="Add your item here...">
               <select name="select-traveler" class="form-control me-auto" id="exampleFormControlSelect">
-                  <option selected value="none">Choose a traveler...</option>
+                  <option selected value="{{secret_traveler}}">{{secret_traveler}}</option>
+                  <option value="none">Choose a traveler...</option>
                   {%for traveler in travelers%}
                   <option value="{{traveler}}">{{traveler}}</option>
                   {%endfor%}
@@ -50,18 +51,19 @@
               <div class="vr"></div>
               <button type="reset" class="btn btn-outline-danger">Reset</button>
             </form>
+            <br></br><br></br>
             </div>
             <div class="grid-container" >
               <div class="map-responsive">
-                <iframe src="/map" width="800" height="550" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="/map" frameborder="0" style="border:0" allowfullscreen></iframe>
               </div>
               <div class="row">
                 <div class="vertical-menu">
-                <div class="col-4">
+                <div class="col-auto">
                   <div class="list-group" id="list-tab" role="tablist">
-                    <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list"  role="tab" aria-controls="list-home">Default</a>
+                    <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list" role="tab" aria-controls="list-home">{{Default}}</a>
                     {%for elem in content%}
-                    <a class="list-group-item list-group-item-action" id="list-{{elem}}-list" data-bs-toggle="list"  role="tab" aria-controls="list-{{elem}}">{{elem}}</a>
+                      <a class="list-group-item list-group-item-action" id="poi-list-{{elem}}" data-bs-toggle="list"  role="tab" aria-controls="list-{{elem}}">{{elem}}</a>
                     {% endfor %}
                   </div>
                   </div>
@@ -69,27 +71,24 @@
               </div>
               </div>
             </div>
-            <div class="container"> 
+            <div class="container">
               <div class="row">
-                <div class="vertical-menu">
-                <div class="col-4">
-                  <div class="list-group" id="list-tab" role="tablist">
-                    {%for voyage in voyages.iterrows()%}
-                    <a class="list-group-item list-group-item-action" id="list-{{voyage}}-list" data-bs-toggle="list" href="#list-{{voyage}}" role="tab" aria-controls="list-{{voyage}}"> {{voyage}}</a>
-                    {%endfor%}
+                <form method ="post">
+                  <div class="col-4">
+                    <!-- <div class="list-group" id="list-tab" role="tablist">
+                      {% for voyage in voyages %}
+                        {{ voyage|safe }}
+                      {% endfor %}
+                    </div> -->
+                    <div class="list-group" id="list-tab" role="tablist" name="list-trips">
+                      <h4>Trips</h4>
+                      {%for index,row in voyages.iterrows()%}
+                        <input type="submit" name="Aix-en-Provence TGV" class="list-group-item list-group-item-action" data-bs-toggle="list" value="{{row['destName']}}">Trip from {{row['departName']}} to {{row['destName']}}</input>
+                      {%endfor%}
+                    </div>
                   </div>
-                </div>
+                </form>
               </div>
-                <div class="col-8">
-                  <div class="tab-content" id="nav-tabContent">
-                    {%for voyage in voyages.iterrows()%}
-                    <div class="tab-pane fade" id="list-{{voyage}}" role="tabpanel" aria-labelledby="list-{{voyage}}-list">{{voyage}}</div>
-                    {%endfor%}
-                  </div>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
         </div>    
   </body>
@@ -98,7 +97,9 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </html>
-
+<footer>
+  <br></br><br></br>
+</footer>
 <!-- 
 
 <nav class="navbar navbar-light bg-light">

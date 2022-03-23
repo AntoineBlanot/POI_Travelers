@@ -14,12 +14,12 @@ def CreateMap(latitudes=np.array([0]), longitudes=np.array([0]), lines=True, zoo
         # zoom = max(np.linalg.norm(latitudes), np.linalg.norm(longitudes))
         # zoom = 15 - 100*max(latitudes.std(), longitudes.std())
         # print(zoom)
-        gmap3 = gmplot.GoogleMapPlotter(latitudes.mean(), longitudes.mean(), zoom, scale_control=True)
+        gmap3 = gmplot.GoogleMapPlotter(latitudes.mean(), longitudes.mean(), zoom=zoom, scale_control=True)
         gmap3.apikey = APIKEY
 
         # scatter method of map object
         # scatter points on the google map
-        gmap3.scatter(latitudes, longitudes, color='firebrick', size=20, marker=True)
+        gmap3.scatter(latitudes, longitudes, color='firebrick', size=20)
 
         # Plot method Draw a line in
         # between given coordinates
